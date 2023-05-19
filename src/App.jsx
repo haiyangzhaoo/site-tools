@@ -1,9 +1,9 @@
-import React, { useState } from 'react'
+import React from 'react'
 import Router from './router'
 
 function App() {
   return (
-    <React.Suspense fallback={<div>loading</div>}>
+    <React.Suspense fallback={<div>loading...</div>}>
       <Router />
     </React.Suspense>
   )

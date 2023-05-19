@@ -1,0 +1,20 @@
+.ulcontainer {
+    list-style-type: none;
+    padding: 0;
+    margin: 0;
+    font-size: 14px;
+    background-color: #f8f8fa;
+    color: #676b76;
+    height: 100%;
+    > li {
+        width: 83px;
+        height: 70px;
+        line-height: 70px;
+        text-align: center;
+        &.selected {
+            font-weight: 700;
+            background-color: #fff;
+            color: #0c0d24;
+        }
+    }
+}
