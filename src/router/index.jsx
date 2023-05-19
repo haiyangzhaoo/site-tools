@@ -8,7 +8,7 @@ export default function Router() {
     return <HashRouter>
         <Routes>
             <Route path="/" element={<Home />} exact />
-            <Route path="/demo" element={<Demo />} />
+            <Route path="/ky" element={<Demo />} />
         </Routes>
     </HashRouter>
 }

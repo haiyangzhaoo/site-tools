@@ -7,8 +7,6 @@ import { useState } from 'react'
 const Aside = Layout.Aside
 const Content = Layout.Content
 
-console.log(1111, data)
-
 export default function Home() {
     const [list, setList] = useState(null)
 
