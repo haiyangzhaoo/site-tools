@@ -32,7 +32,7 @@ export default [
         children: [
             {
                 name: '北京摇号',
-                desc: '',
+                desc: '北京汽车摇号，社保需连续60个月',
                 pic: '',
                 link: 'https://xkczb.jtw.beijing.gov.cn/?'
             },
@@ -50,7 +50,7 @@ export default [
             },
             {
                 name: '北京医保定点医院修改',
-                desc: '',
+                desc: '修改医保定点医院，可以查询缴费信息和定点医院等',
                 pic: '',
                 link: 'https://www.beijing.gov.cn/fuwu/bmfw/wsfw/ggts/202106/t20210610_2410659.html'
             },

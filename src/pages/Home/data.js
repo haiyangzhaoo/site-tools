@@ -92,5 +92,34 @@ export default [
                 link: 'http://sandbox.kefumanage.easemob.com/grayctrl/login.html'
             },
         ]
+    },
+    {
+        name: '娱乐',
+        children: [
+            {
+                name: '知乎',
+                desc: '',
+                pic: 'https://static.zhihu.com/heifetz/assets/apple-touch-icon-152.81060cab.png',
+                link: 'https://www.zhihu.com'
+            },
+            {
+                name: '微博',
+                desc: '',
+                pic: 'https://weibo.com/favicon.ico',
+                link: 'https://www.weibo.com'
+            },
+            {
+                name: 'YouTube',
+                desc: '',
+                pic: 'https://www.youtube.com/s/desktop/95c4ab27/img/favicon_96x96.png',
+                link: 'https://www.youtube.com'
+            },
+            {
+                name: 'Twitter',
+                desc: '',
+                pic: 'https://abs.twimg.com/favicons/twitter.2.ico',
+                link: 'https://www.twitter.com'
+            }
+        ]
     }
 ]

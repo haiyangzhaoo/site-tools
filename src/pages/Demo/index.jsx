@@ -22,27 +22,18 @@ export default function Home() {
                 <UList data={data} onClick={setList} />
             </Aside>
             <Content>
-                {/* <div style={{
-                    display: 'flex',
-                    flexWrap: 'wrap'
-                }}>
-                    <a style={{width: '25%', height: 100, background: 'red'}}>测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试测试</a>
-                    <a style={{width: '25%', height: 100, background: 'purple'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'red'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'purple'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'red'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'purple'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'red'}}></a>
-                    <a style={{width: '25%', height: 100, background: 'purple'}}></a>
-                </div> */}
                 <div className={s.alist}>
-                    {list && list.children.map(item => (
-                        <a target='_blank' href={item.link} key={item.name} rel="noreferrer">
-                            {item.pic ? <img src={item.pic} alt={item.name} /> : <span className={s.logo} style={{backgroundColor: getColor()}}>{item.name[0]}</span>}
-                            <span className={s.title}>{item.name}</span>
-                            {/* <span className={s.tt}>{item.desc}</span> */}
-                        </a>
-                    ))}
+                        <div className={s.listContainer}>
+                            <div className={s.aContainer}>
+                                {list && list.children.map(item => (
+                                    <a target='_blank' href={item.link} key={item.name} rel="noreferrer">
+                                        {item.pic ? <img src={item.pic} alt={item.name} /> : <span className={s.logo} style={{backgroundColor: getColor()}}>{item.name[0]}</span>}
+                                        <span className={s.title}>{item.name}</span>
+                                        <span title={item.desc} className={s.tt}>{item.desc}</span>
+                                    </a>
+                                ))}
+                            </div>
+                        </div>
                 </div>
             </Content>
         </Layout>
