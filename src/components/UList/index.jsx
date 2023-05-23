@@ -14,6 +14,10 @@ export default function UList({data, onClick}) {
     }, [])
 
     return <ul className={s.ulcontainer}>
-        {data.map((item, idx) => <li className={select == item.name ? s.selected : null} onClick={() => handleClick(item)} key={`${idx}-${item.name}`}>{item.name}</li>)}
+        {data.map((item, idx) => <li className={select == item.name ? s.selected : null} onClick={() => handleClick(item)} key={`${idx}-${item.name}`}>
+            <span>{item.name}</span>
+            <i></i>
+            <i></i>
+        </li>)}
     </ul>
 }
