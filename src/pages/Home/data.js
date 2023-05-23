@@ -94,6 +94,47 @@ export default [
         ]
     },
     {
+        name: '学习',
+        children: [
+            {
+                name: '掘金',
+                desc: '',
+                pic: 'https://lf3-cdn-tos.bytescm.com/obj/static/xitu_juejin_web//static/favicons/apple-touch-icon.png',
+                link: 'https://juejin.cn'
+            },
+            {
+                name: '思否',
+                desc: '',
+                pic: 'https://static.segmentfault.com/main_site_next/22f09ae7/touch-icon.png',
+                link: 'https://segmentfault.com'
+            },
+            {
+                name: 'Stackoverflow',
+                desc: '',
+                pic: '',
+                link: 'https://stackoverflow.com'
+            },
+            {
+                name: 'Github',
+                desc: '',
+                pic: '',
+                link: 'https://github.com'
+            },
+            {
+                name: '菜鸟教程',
+                desc: '',
+                pic: '',
+                link: 'https://www.runoob.com'
+            },
+            {
+                name: '菜鸟教程',
+                desc: '',
+                pic: '',
+                link: 'https://www.runoob.com'
+            },
+        ]
+    },
+    {
         name: '娱乐',
         children: [
             {
@@ -121,5 +162,5 @@ export default [
                 link: 'https://www.twitter.com'
             }
         ]
-    }
+    },
 ]
