@@ -126,12 +126,6 @@ export default [
                 pic: '',
                 link: 'https://www.runoob.com'
             },
-            {
-                name: '菜鸟教程',
-                desc: '',
-                pic: '',
-                link: 'https://www.runoob.com'
-            },
         ]
     },
     {
