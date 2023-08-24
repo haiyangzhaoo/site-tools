@@ -168,4 +168,27 @@ export default [
             }
         ]
     },
+    {
+        name: '搜索',
+        children: [
+            {
+                name: '百度',
+                desc: '',
+                pic: '',
+                link: 'https://www.baidu.com'
+            },
+            {
+                name: '谷歌',
+                desc: '',
+                pic: '',
+                link: 'https://www.google.com'
+            },
+            {
+                name: '夸克',
+                desc: '',
+                pic: '',
+                link: 'https://www.quark.sm.cn'
+            },
+        ]
+    }
 ]
