@@ -168,4 +168,15 @@ export default [
             }
         ]
     },
+    {
+        name: '学习',
+        children: [
+            {
+                name: 'letcode',
+                desc: 'LeetCode里面都是数据结构和算法题目，没事可以进行试试',
+                pic: 'https://static.leetcode.cn/cn-mono-assets/production/assets/logo-dark-cn.4c5e285b.svg',
+                link: 'https://leetcode.cn'
+            }
+        ]
+    },
 ]
