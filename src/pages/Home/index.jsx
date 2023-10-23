@@ -4,8 +4,6 @@ import UList from '@/components/UList'
 import s from './index.module.css'
 import { useState } from 'react'
 
-console.log(s)
-
 const Aside = Layout.Aside
 const Content = Layout.Content
 
