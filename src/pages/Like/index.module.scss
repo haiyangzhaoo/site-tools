@@ -25,3 +25,10 @@
         }
     }
 }
+.container {
+    height: 100%;
+    .content {
+        height: calc(100% - 64px - 78px);
+        overflow-y: auto;
+    }
+}
