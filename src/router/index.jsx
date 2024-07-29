@@ -6,6 +6,7 @@ const Home = React.lazy(() => import('../pages/Home'))
 const Demo = React.lazy(() => import('../pages/Demo'))
 const Like = React.lazy(() => import('../pages/Like'))
 const Iframe = React.lazy(() => import('../components/Iframe'))
+const Search = React.lazy(() => import('../pages/Search'))
 
 export default function Router() {
     useEffect(() => {
@@ -24,8 +25,8 @@ export default function Router() {
 
     return <HashRouter>
         <Routes>
-            <Route exact path="/" element={<Home />} />
-            <Route path="/ky" element={<Demo />} />
+            <Route exact path="/" element={<Search />} />
+            {/* <Route path="/ky" element={<Demo />} />
             <Route path="/like" element={<Like />} errorElement={<div>error</div>}>
                 <Route path="search" element={<Iframe url='https://cn.bing.com/' />}></Route>
                 <Route path="network">
@@ -33,7 +34,7 @@ export default function Router() {
                     <Route path="yuque" element={<Iframe url='https://www.yuque.com/dashboard' />}></Route>
                     <Route path="bili" element={<Iframe url='https://bilibili.com' />}></Route>
                 </Route>
-            </Route>
+            </Route> */}
         </Routes>
     </HashRouter>
 }
