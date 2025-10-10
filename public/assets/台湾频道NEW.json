@@ -8,8 +8,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222702096387_48.png",
-      "group-title": "其它,[BD]taiwan",
-      "plus[geo-blocked]\\r": ""
+      "group-title": "其它,[BD]taiwan"
     },
     {
       "url": "https://stream1.freetv.fun/4f3046ab17777be04f83643f5b1eae554d78232fbbbd7453d34e04bd7527ccc3.ctv",
@@ -27,704 +26,556 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2020/09/21/large/20200921205351734473_48.png",
-      "group-title": "其它,[VGA]afn(tw)",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "其它,[VGA]afn(tw)"
     },
     {
       "url": "https://stream1.freetv.fun/8ceea8c7e1961842e551fc90916350de2838ee500e19edf3fdbf2f2c0c3561bf.m3u8",
       "tvg-name": "BBC",
-      "Earth(tw)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",
-      "group-title": "知識,[BD]bbc",
-      "earth\\r": ""
+      "group-title": "知識,[BD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/c5d042d56862cb15b7c1d63632f4af1d1eef22b318719cc48d0190fa4225a6f0.m3u8",
       "tvg-name": "BBC",
-      "Earth(tw)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",
-      "group-title": "知識,[BD]ช่อง",
-      "bbc": "",
-      "earth\\r": ""
+      "group-title": "知識,[BD]ช่อง"
     },
     {
       "url": "https://stream1.freetv.fun/05536622f0bceff281c00f0031d466e5e35492c82ef5ff6a6aeeef23eb6db442.m3u8",
       "tvg-name": "BBC",
-      "Earth(tw)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",
-      "group-title": "知識,[HD]bbc",
-      "earth(tw)": "",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "知識,[HD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/2f1e2f355717126a7d055ec669c0e745613373adacab72ef07de819742a3adc0.ctv",
       "tvg-name": "BBC",
-      "Earth(tw)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",
-      "group-title": "知識,[BD]bbc",
-      "earth": "",
-      "*wj\\r": ""
+      "group-title": "知識,[BD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/02205072306ac6c143d2707e909bda809deef2a1bda1923da9681ec5744f7081.m3u8",
       "tvg-name": "BBC",
-      "Earth(tw)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/17/large/20230717234812634336_85.jpg",
-      "group-title": "知識,[BD]bbc",
-      "earth": "",
-      "us\\r": ""
+      "group-title": "知識,[BD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/f58dca425b161e324920a49665406c63ea763749dfafbb70f7b2eed728bbaac0.ctv",
       "tvg-name": "BBC",
-      "Lifestyle(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png",
-      "group-title": "綜合,[BD]bbc",
-      "lifestyle[geo-blocked]\\r": ""
+      "group-title": "綜合,[BD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/a0986abbd753d9b78b577dba79fe5434dd7667323451fdf89101b03a35a0f957.m3u8",
       "tvg-name": "BBC",
-      "Lifestyle(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/17/large/20220817142713635100_54.png",
-      "group-title": "綜合,[HD]bbc",
-      "lifestyle(tw)": "",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "綜合,[HD]bbc"
     },
     {
       "url": "https://stream1.freetv.fun/e4c9a275fe7d4374bd8de0506456947440655c6afdf72a677343a6dac102b575.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]tennis",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]tennis"
     },
     {
       "url": "https://stream1.freetv.fun/eb02cd9063e5cc9195c0b30f915697bf6d0911fa0dd3a682ddef1f5554285539.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]tribeca",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]tribeca"
     },
     {
       "url": "https://stream1.freetv.fun/db73c36ca3c01f0ff4f4c473297eb3d08863b3f1f716633ca5828602d244e505.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]akaal",
-      "channel\\r": ""
+      "group-title": "音樂,[VGA]akaal"
     },
     {
       "url": "https://stream1.freetv.fun/8dbc34f95b9f378603cb881e64de466a5e0c8286c9ef3b5c642728f0447ebc3f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]light",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]light"
     },
     {
       "url": "https://stream1.freetv.fun/8e5fe99dabee2258d0c802b85880aa479ac49b8d91f80527fe0e44c8e55c913d.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]expo",
-      "channel[geo-blocked]\\r": ""
+      "group-title": "音樂,[VGA]expo"
     },
     {
       "url": "https://stream1.freetv.fun/7c0dcec67042d2681e66cc211bd1143c3d5c78dac4f72c22350ec756d9f73e74.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]chile",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]chile"
     },
     {
       "url": "https://stream1.freetv.fun/6c341268537ac92eaaaf9c72e48ace6a3077e42b2d32cdda962e0e6ae9cd7e3a.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]eman",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]eman"
     },
     {
       "url": "https://stream1.freetv.fun/d7403987e5d413fc16976800854998b4c678d3d769f960fc4c67dfdc9194490f.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]lego",
-      "channel[geo-blocked]\\r": ""
+      "group-title": "音樂,[BD]lego"
     },
     {
       "url": "https://stream1.freetv.fun/2dbc6f2d0770eac0a7e28bcc15aaa6163d7c6f33a760018f2fa1e819fc5f3832.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]tennis",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]tennis"
     },
     {
       "url": "https://stream1.freetv.fun/52876d0cfa131060c3c6de1548fb2bd00f10294c49cd40d296b9c16c5573d847.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]mo",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]mo"
     },
     {
       "url": "https://stream1.freetv.fun/d9da578942b8166b438e5cbbf6bc65f27c05ef9492691ef767a2c58fd03ef164.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]pursuit",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]pursuit"
     },
     {
       "url": "https://stream1.freetv.fun/d19dff704687dfb95552e5c005588e22a8cbf66b3b6773f5d55870da72587e57.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]rama",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]rama"
     },
     {
       "url": "https://stream1.freetv.fun/fed92372482a2e386996fc427e2a77c348f091f0f4f50d49ebfc542f285c80e8.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]stou",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]stou"
     },
     {
       "url": "https://stream1.freetv.fun/6d00428f52796a0f9b72ee8e48abad447251132786a22f065272107316c68047.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]kqsl",
-      "channel": "",
-      "8\\r": ""
+      "group-title": "音樂,[HD]kqsl"
     },
     {
       "url": "https://stream1.freetv.fun/c429f9a26d194c07f60f2cc2ce74303b08d301367ba100b87e006a06914a088e.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]channel",
-      "11\\r": ""
+      "group-title": "音樂,[HD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/de787ec070cea0eb6d37c9fb2f10a4c85aab02cc5940e5561700335e32354ae8.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]cable",
-      "channel": "",
-      "37\\r": ""
+      "group-title": "音樂,[BD]cable"
     },
     {
       "url": "https://stream1.freetv.fun/2e3998897b810e6ca1f5863a1884046c2090d7cbbf82aa2ca4bab0368234c86f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]cool",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]cool"
     },
     {
       "url": "https://stream1.freetv.fun/d79f65418a5872af77395ca2c844336a9e43da202a39e86396f14a863b483613.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]xplore",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]xplore"
     },
     {
       "url": "https://stream1.freetv.fun/fc3593e86993caec0f83efa1d0be0c19a18e0fdfc86fe7b05b3e887778aed663.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]bike",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]bike"
     },
     {
       "url": "https://stream1.freetv.fun/73cedc47cd4a95212a744d043879483e9ed15c06e4bde6d583d54b561fef3131.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]sakala",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]sakala"
     },
     {
       "url": "https://stream1.freetv.fun/8a14ca65c4227b72d51099268827833c19d6485ec45949f61cd7c20fb012f041.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]channel",
-      "ginga\\r": ""
+      "group-title": "音樂,[BD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/47cd8c0d6460dba5732825c6f35d398d88f7f27270bd835b08e053f06c6b2e11.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]green",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]green"
     },
     {
       "url": "https://stream1.freetv.fun/fe5bbdfeb8ddfb65892da3e044ba08e8564030407782d9512e3f5cae69a8915f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]maya",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]maya"
     },
     {
       "url": "https://stream1.freetv.fun/8cdf61d0911b23ec5b51e9a60ee85deadbf642e0b0571008d29b467535ab9ca9.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]neco",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]neco"
     },
     {
       "url": "https://stream1.freetv.fun/1b0168d5c72489135f793a58c93c26ac842c8e7ee34fd284800b3f5efa949e66.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]tabi",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]tabi"
     },
     {
       "url": "https://stream1.freetv.fun/fca0bd28ae8000f3bef263858ee50350cdcee11c4819c3ced4e0b2869ec9c770.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]channel",
-      "11\\r": ""
+      "group-title": "音樂,[HD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/f27fc059c1ae2e961f052cc0bd93dbfacde00f5de66bb0efcbd57d93f2007b6a.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]channel",
-      "eye\\r": ""
+      "group-title": "音樂,[VGA]channel"
     },
     {
       "url": "https://stream1.freetv.fun/85a3aacb81c8e14d256776fa61caae50a4fc345ac13c247426692d7bc8e2bb67.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]green",
-      "channel[geo-blocked]\\r": ""
+      "group-title": "音樂,[SD]green"
     },
     {
       "url": "https://stream1.freetv.fun/806a0c69618816675df904fe0a5f96255ae2156c6b38ff4d357a91ba7383452f.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]channel",
-      "ginga[geo-blocked]\\r": ""
+      "group-title": "音樂,[BD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/b950ffb52f577d524fa210d73ba73690ec20ccab3a7606b817348aa789b8b30f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]maya",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]maya"
     },
     {
-      "98": "",
       "url": "https://stream1.freetv.fun/183ae690f700840b10150698fe392a22dd825db02a516d833a2dee978883bfbb.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]cfm",
-      "tv": "",
-      "channel": "",
-      "(360p)\\r": ""
+      "group-title": "音樂,[VGA]cfm"
     },
     {
       "url": "https://stream1.freetv.fun/c8416ffba3a96a7351807ead20b07aee0f877810370cc06b30078c08c9847123.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]tennis",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]tennis"
     },
     {
       "url": "https://stream1.freetv.fun/8bf9c1ae76ecfac2120742e03e1cbdb636f5123fb980d8d84268017fc2a85e4e.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]chile",
-      "channel": "",
-      "(720p)\\r": ""
+      "group-title": "音樂,[SD]chile"
     },
     {
       "url": "https://stream1.freetv.fun/3717fe94bfdc9ed3d77cfec7324be68d3043f8efc889f7ca983dce526a27ee75.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]expo",
-      "channel": "",
-      "(360p)[geo-blocked]\\r": ""
+      "group-title": "音樂,[SD]expo"
     },
     {
       "url": "https://stream1.freetv.fun/8a8839ca46db3db2eed58bf542f368f320b84058a549e2cc5dd3b2622d6c1d0f.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]lego",
-      "channel": "",
-      "(1080p)[geo-blocked]\\r": ""
+      "group-title": "音樂,[SD]lego"
     },
     {
       "url": "https://stream1.freetv.fun/be3235862e89c01ff16360a3c8487ba64504996141fbd76e916ba274a5c74805.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]kartoon",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]kartoon"
     },
     {
       "url": "https://stream1.freetv.fun/2eee46c0a38f64ce033aff7b354b7cc29616eff5c6679a9ae7c4e7b312f9a323.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]tribeca",
-      "channel": "",
-      "[geo-blocked]\\r": ""
+      "group-title": "音樂,[SD]tribeca"
     },
     {
       "url": "https://stream1.freetv.fun/f38c7fe8c8b185078657d1e99cb22a4b9b75c9128d1ecea9e1c440349a8f7b84.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]tempe",
-      "channel": "",
-      "11\\r": ""
+      "group-title": "音樂,[HD]tempe"
     },
     {
       "url": "https://stream1.freetv.fun/5e03205a3aec4cdee318bd301f85913c190d24d30b68fdaabd9f5621b282d138.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]fx",
-      "movie": "",
-      "channel": "",
-      "(720p)\\r": ""
+      "group-title": "音樂,[VGA]fx"
     },
     {
       "url": "https://stream1.freetv.fun/1b1d0095bd47070caa488920a488f2187aa3e07122f85e8e2ba0b3e26c477f71.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]channel",
-      "eye": "",
-      "(360p)\\r": ""
+      "group-title": "音樂,[SD]channel"
     },
     {
-      "11": "",
       "url": "https://stream1.freetv.fun/761790a007156c32c9448619d1525c3eecec4af6ff87e1b4101a5373830f43b9.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]channel",
-      "(scottsdale": "",
-      "az)\\r": ""
+      "group-title": "音樂,[SD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/419d57b73319b50789a7c483772ce07599cca89804ea8ecdf7c09b04fa2dd28c.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]eman",
-      "channel": "",
-      "(576p)\\r": ""
+      "group-title": "音樂,[SD]eman"
     },
     {
       "url": "https://stream1.freetv.fun/672aa36ec0e864f79c6d4c9b4ccb4dd670f7429f7eef34227a6df22758d4e31c.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]akaal",
-      "channel": "",
-      "(396p)": "",
-      "[geo-blocked]\\r": ""
+      "group-title": "音樂,[SD]akaal"
     },
     {
       "url": "https://stream1.freetv.fun/f086d933d61166b176cb0a1f7f5253865c71a770a0d0e9c1e33dfde86f901aad.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]kartoon",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]kartoon"
     },
     {
       "url": "https://stream1.freetv.fun/c47efce6e7173e16727d7c3b2c216b9a1c2cb9193be6b2eb6208734727182c59.ctv",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]tabi",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]tabi"
     },
     {
       "url": "https://stream1.freetv.fun/f6e238ddd15ab74f5adcbe127e0ba9b994282ed0d5b838f9673c90697aaee604.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]revival",
-      "channel\\r": ""
+      "group-title": "音樂,[SD]revival"
     },
     {
       "url": "https://stream1.freetv.fun/550836d87db4c48d186590405b11ad942e335f1fffaa9b51bbdf0194e9fda49e.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]channel",
-      "ten": "",
-      "plus\\r": ""
+      "group-title": "音樂,[SD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/8c21ead4e26c1163e075043d89127551b088ca5e273effbf4747d34c366cf00f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]channel",
-      "ten\\r": ""
+      "group-title": "音樂,[VGA]channel"
     },
     {
       "url": "https://stream1.freetv.fun/3eb60bc2491c37182d268298cf3aa66a1e298f0a6090125d186d2049f3f1167f.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[SD]kbc",
-      "channel": "",
-      "1\\r": ""
+      "group-title": "音樂,[SD]kbc"
     },
     {
       "url": "https://stream1.freetv.fun/9d1187fb3d86e52f5b0910f4edb2f196ddc052fab9955d848f40e2a0391e1f95.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]channel",
-      "five\\r": ""
+      "group-title": "音樂,[BD]channel"
     },
     {
       "url": "https://stream1.freetv.fun/51dc70b0e16f8aa19d4765754d8e36dd77a065e4a5a426af9e1896ffb995cded.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[HD]tesory",
-      "channel\\r": ""
+      "group-title": "音樂,[HD]tesory"
     },
     {
       "url": "https://stream1.freetv.fun/76f7e59ca47ced01049cb51983315c9f2bca9863d64bd10b65398674716495b5.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]kartoon",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]kartoon"
     },
     {
       "url": "https://stream1.freetv.fun/e6f0655cf02462b453e15083cba0bc22f7c2ed427d0153b80c0de57bc086a5f6.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[BD]white",
-      "channel\\r": ""
+      "group-title": "音樂,[BD]white"
     },
     {
       "url": "https://stream1.freetv.fun/4d43f74b462cde582244f95ac7b0ea8a00032379ee49c7e786b9b06cbc7669fd.m3u8",
       "tvg-name": "CHANNEL",
-      "[V]\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806161730161952_53.jpg",
-      "group-title": "音樂,[VGA]light",
-      "channel\\r": ""
+      "group-title": "音樂,[VGA]light"
     },
     {
       "url": "https://stream1.freetv.fun/0c79680cd9b7d799a7d55067756e25ce085bc3d05828f3fe4d89313f06ca8106.m3u8",
@@ -751,8 +602,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090457244729_96.png",
-      "group-title": "綜藝,[BD]cmusic",
-      "*x\\r": ""
+      "group-title": "綜藝,[BD]cmusic"
     },
     {
       "url": "https://stream1.freetv.fun/644fa4aa0f97263aee91f530781526d04091f51c81cf01121176db8ab07fb454.m3u8",
@@ -779,8 +629,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2018/07/05/large/20180705143420676538_59.png",
-      "group-title": "兒童,[BD]cn卡通",
-      "*wj\\r": ""
+      "group-title": "兒童,[BD]cn卡通"
     },
     {
       "url": "https://stream1.freetv.fun/f20cb652c27db2bb639fa9cdd118626b96b6eb79335386c2517254d631673758.ctv",
@@ -794,33 +643,24 @@
     {
       "url": "https://stream1.freetv.fun/4bec2ecd110fd4d541e95e31e39c5d9051460b55f214a3ad7dc0cad6c84ec3c4.ctv",
       "tvg-name": "CTV",
-      "CHANNEL\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/img/logo/1_85.jpg",
-      "group-title": "其它,[HD]ca",
-      "ctv": "",
-      "comedy": "",
-      "channel\\r": ""
+      "group-title": "其它,[HD]ca"
     },
     {
       "url": "https://stream1.freetv.fun/d9d89fc885be8d03e67466d9a2ba57cd9ab629d700f17ae4947a88cff0fbbf34.ctv",
       "tvg-name": "CTV",
-      "CHANNEL\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/img/logo/1_85.jpg",
-      "group-title": "其它,[HD]ca",
-      "ctv": "",
-      "drama": "",
-      "channel\\r": ""
+      "group-title": "其它,[HD]ca"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv731",
       "tvg-name": "DAZN",
-      "1(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
@@ -830,71 +670,56 @@
     {
       "url": "https://stream1.freetv.fun/6b7822541a82d9dced09589846808eda412714b30c723e6992bf1ba58fc86913.m3u8",
       "tvg-name": "DAZN",
-      "1(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png",
-      "group-title": "運動,[SD]dazn",
-      "combat": "",
-      "(1080p)\\r": ""
+      "group-title": "運動,[SD]dazn"
     },
     {
       "url": "https://stream1.freetv.fun/06b6214f3d5ee5f7d354b14fe53ac947012b5e07efc6d1b2b8599a5200bdafa5.m3u8",
       "tvg-name": "DAZN",
-      "1(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png",
-      "group-title": "運動,[HD]dazn",
-      "ringside\\r": ""
+      "group-title": "運動,[HD]dazn"
     },
     {
       "url": "https://stream1.freetv.fun/cea572c8598749b8e5def003418c8548e0f81b2d43661e21072845b5b901d2c9.m3u8",
       "tvg-name": "DAZN",
-      "1(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png",
-      "group-title": "運動,[BD]dazn",
-      "combat\\r": ""
+      "group-title": "運動,[BD]dazn"
     },
     {
       "url": "https://stream1.freetv.fun/2c514f0327df08f640ef530faf4644b6c4992534050b7d4e09569c5b8aabf96b.m3u8",
       "tvg-name": "DAZN",
-      "1(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/24/large/20240424024936868909_61.png",
-      "group-title": "運動,[BD]dazn",
-      "ringside\\r": ""
+      "group-title": "運動,[BD]dazn"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv741",
       "tvg-name": "DAZN",
-      "2(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/24/large/20240424025006167243_40.png",
-      "group-title": "運動,[HD]dazn",
-      "2[geo-blocked]\\r": ""
+      "group-title": "運動,[HD]dazn"
     },
     {
       "url": "https://stream1.freetv.fun/28e93b7bc4e1f7c07cfce2bcec0451fe311800b440b455a7570895fdc8df7b9d.m3u8",
       "tvg-name": "DISCOVERY",
-      "HD": "",
-      "WORLD\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/03/13/large/20240313164101367758_71.png",
-      "group-title": "知識,[HD]discovery",
-      "world": "",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "知識,[HD]discovery"
     },
     {
       "url": "https://stream1.freetv.fun/8cdbb8386603267a4bd09b57f2184c8cf65517be58ad0a2f38679f74ddb170a2.ctv",
@@ -903,9 +728,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",
-      "group-title": "知識,[BD]discovery",
-      "h": "",
-      "h[geo-blocked]\\r": ""
+      "group-title": "知識,[BD]discovery"
     },
     {
       "url": "https://stream1.freetv.fun/f8f3291157659f4b82903303107caf2a72c625f9bc33c8c0e144c44470933ab4.m3u8",
@@ -914,8 +737,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",
-      "group-title": "知識,[BD]discovery(tw)",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "知識,[BD]discovery(tw)"
     },
     {
       "url": "https://stream1.freetv.fun/ae1bcd61012a7cb1b781fb6af83dcacdc03f254790032b4374b976b61dd7ea4a.m3u8",
@@ -924,8 +746,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/08/05/large/20230805000246427864_44.png",
-      "group-title": "知識,[HD]asharq",
-      "discovery\\r": ""
+      "group-title": "知識,[HD]asharq"
     },
     {
       "url": "https://stream1.freetv.fun/27410d28859708f06a6acb030ee40346a64dbd3ed8c2b2f380cef0e24a656551.m3u8",
@@ -934,8 +755,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728161448236768_71.png",
-      "group-title": "兒童,[SD]dreamworks(tw)",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "兒童,[SD]dreamworks(tw)"
     },
     {
       "url": "https://stream1.freetv.fun/69c370ba29042628e128c31497cfedd9b2c51132a406adc31c57ccd7491815d4.m3u8",
@@ -944,30 +764,25 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/07/28/large/20240728161448236768_71.png",
-      "group-title": "兒童,[BD]dreamwork",
-      "*x\\r": ""
+      "group-title": "兒童,[BD]dreamwork"
     },
     {
-      "1": "",
       "url": "https://stream1.freetv.fun/e57e95974876231a0a7909757403e48544306940937d2dfa520cf7675ed23cb1.ctv",
       "tvg-name": "ELTA體育1",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719113512627982_77.png",
-      "group-title": "運動,[HD]elta愛爾達體育",
-      "*wj\\r": ""
+      "group-title": "運動,[HD]elta愛爾達體育"
     },
     {
-      "2": "",
       "url": "https://stream1.freetv.fun/1eb53f0e4fcdaa4419b58ac6f0c1323b156d40f236153f366c7ab390a3dfeec7.ctv",
       "tvg-name": "ELTA體育2",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719113626909867_79.png",
-      "group-title": "運動,[HD]elta愛爾達體育",
-      "*wj\\r": ""
+      "group-title": "運動,[HD]elta愛爾達體育"
     },
     {
       "url": "https://stream1.freetv.fun/b9a2e767d016105572cd8746a02687121eff29c306eeb922ff2feab8b7286e4c.ctv",
@@ -985,58 +800,43 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125055529748409_19.png",
-      "group-title": "運動,[HD]delta",
-      "tv\\r": ""
+      "group-title": "運動,[HD]delta"
     },
     {
       "url": "https://stream1.freetv.fun/fbfc2b1d234ced2d4ea26f9e3f41c34de94b0721cb2c898e3a950f4c31d94c9a.ctv",
       "tvg-name": "EYE",
-      "TV戲劇\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/18/large/20230718001716954288_87.jpg",
-      "group-title": "電影,[HD]eye",
-      "戲劇": "",
-      "*wj\\r": ""
+      "group-title": "電影,[HD]eye"
     },
     {
       "url": "https://stream1.freetv.fun/c75e58141ef58e0f247e2e10e092abd579cfe2c98b059404bcb53d7ab9acd480.ctv",
       "tvg-name": "EYE",
-      "TV旅遊\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/18/large/20230718001529180464_63.jpg",
-      "group-title": "其它,[HD]eye",
-      "旅遊": "",
-      "*wj\\r": ""
+      "group-title": "其它,[HD]eye"
     },
     {
       "url": "https://stream1.freetv.fun/d9e3f10685b9dcb39c7f866eefc20bfb77cf226bf2531e6cb2e64acea524293e.ctv",
       "tvg-name": "Eleven",
-      "Sports1\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/03/09/large/20240309021436743554_65.png",
-      "group-title": "運動,[HD]eleven",
-      "sports1": "",
-      "*wj\\r": ""
+      "group-title": "運動,[HD]eleven"
     },
     {
-      "1": "",
       "url": "https://stream1.freetv.fun/d17b4f92a6ed531fffb68e5ec4710eeefdaf8fcc08dc0a89479d24b3113de915.ctv",
       "tvg-name": "Eleven",
-      "sports\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/uploads/tmp_logo/2017/03/02/20170302200527557763_75.png",
-      "group-title": "運動,[BD]pt",
-      "eleven": "",
-      "sports": "",
-      "f\\r": ""
+      "group-title": "運動,[BD]pt"
     },
     {
       "url": "https://stream1.freetv.fun/20998c2a8b975cd25613c538b086137be2dd8b5c3c1cc5b8499993afffe309ed.ctv",
@@ -1045,89 +845,70 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/18/large/20230718012701691568_25.png",
-      "group-title": "綜合,[HD]探索亞洲",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]探索亞洲"
     },
     {
       "url": "https://stream1.freetv.fun/a8fa14dd6b78c04e5135b2f0d7d85309a07247197e9d7d6d1427af329b49583c.m3u8",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[HD]food",
-      "network\\r": ""
+      "group-title": "其它,[HD]food"
     },
     {
       "url": "https://stream1.freetv.fun/b82a7b8a2972a9e15529c339a5cbfa633dd4a212bb9a56dc301c230c15245598.ctv",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[BD]food",
-      "network\\r": ""
+      "group-title": "其它,[BD]food"
     },
     {
       "url": "https://stream1.freetv.fun/3a471fc3cf067146eacb6089e8135616096692ef19ee4cbdf54136b4dba669ec.m3u8",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[BD]food",
-      "network[geo-blocked]\\r": ""
+      "group-title": "其它,[BD]food"
     },
     {
       "url": "https://stream1.freetv.fun/56450b0770f86387a534e0c9256dd61447e3482ac86c2227e73ffcf7bf65a4b7.m3u8",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[BD]food",
-      "network(tw)": "",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "其它,[BD]food"
     },
     {
       "url": "https://stream1.freetv.fun/e7006988906b48e6dd490bb7da375a10fc5746ee8536c3bcf9120c9a4d35c459.m3u8",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[HD]ช่อง",
-      "food": "",
-      "network\\r": ""
+      "group-title": "其它,[HD]ช่อง"
     },
     {
       "url": "https://stream1.freetv.fun/6413440aa02869ac9d254f40ba11b1e004af39ba26c923808ed70f3bf5d1be79.ctv",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[SD]food",
-      "network": "",
-      "*m[geo-blocked]\\r": ""
+      "group-title": "其它,[SD]food"
     },
     {
       "url": "https://stream1.freetv.fun/abe25a2a60988f85a9d579ff7630aa73e838a34d73bfb026c251ebaea7864bd7.ctv",
       "tvg-name": "Food",
-      "Network(TW)\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/08/27/large/20220827225917116348_71.png",
-      "group-title": "其它,[BD]food",
-      "network": "",
-      "*wj\\r": ""
+      "group-title": "其它,[BD]food"
     },
     {
       "url": "https://stream1.freetv.fun/a857a9066d450f3c32451de2a3494e9c2b60fdf56de85dbcfc3b4e8a0590f7cd.m3u8",
@@ -1136,8 +917,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png",
-      "group-title": "知識,[HD]ช่อง",
-      "hgtv\\r": ""
+      "group-title": "知識,[HD]ช่อง"
     },
     {
       "url": "https://stream1.freetv.fun/51a0189fc7f6294e77da121f6e0064d15f538c6c3888f3b85ff633ad9db49bb5.ctv",
@@ -1146,8 +926,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png",
-      "group-title": "知識,[HD]ca",
-      "hgtv\\r": ""
+      "group-title": "知識,[HD]ca"
     },
     {
       "url": "https://stream1.freetv.fun/b81067fedc167b004db678576b02d93448544597c92f2ec2e7b7cb15e59060ed.ctv",
@@ -1156,8 +935,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png",
-      "group-title": "知識,[BD]us",
-      "hgtv\\r": ""
+      "group-title": "知識,[BD]us"
     },
     {
       "url": "https://stream1.freetv.fun/dfddd5ad488fe0cdce30b542a1938122f76b18af38da62c5290d434284801c3c.ctv",
@@ -1166,8 +944,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png",
-      "group-title": "知識,[HD]hgtv",
-      "*wj\\r": ""
+      "group-title": "知識,[HD]hgtv"
     },
     {
       "url": "https://stream1.freetv.fun/4322c6ff3cfa93b97b217887ca697db9c9da0c30c04463af969eda6f353d1893.m3u8",
@@ -1176,8 +953,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2017/08/20/large/20170820230629325523_98.png",
-      "group-title": "知識,[SD]hgtv(tw)",
-      "*s[geo-blocked]\\r": ""
+      "group-title": "知識,[SD]hgtv(tw)"
     },
     {
       "url": "https://stream1.freetv.fun/b4071bf8e755cc3de63150e1668117c38f0e9a1b820f1e303e79df2dc6bf94b8.m3u8",
@@ -1186,8 +962,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[BD]young",
-      "hollywood\\r": ""
+      "group-title": "電影,[BD]young"
     },
     {
       "url": "https://stream1.freetv.fun/f3b97b6ea0f17ebac764316b51ea183cebae8d05cccb4b67b65cbefed2d04d06.m3u8",
@@ -1196,9 +971,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[SD]young",
-      "hollywood": "",
-      "[geo-blocked]\\r": ""
+      "group-title": "電影,[SD]young"
     },
     {
       "url": "https://stream1.freetv.fun/cacfdcddf2704f8a50cf7b53140f8f1bdabe843ca04686f8e0672c0cd8c38ac4.m3u8",
@@ -1207,9 +980,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[SD]made",
-      "in": "",
-      "hollywood\\r": ""
+      "group-title": "電影,[SD]made"
     },
     {
       "url": "https://stream1.freetv.fun/66205b3f0abc81d54dbb5b7d4774f3ff44ed63ee7454d7cc342c1e4c62526c1a.m3u8",
@@ -1218,8 +989,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[SD]mix",
-      "hollywood\\r": ""
+      "group-title": "電影,[SD]mix"
     },
     {
       "url": "https://stream1.freetv.fun/bbbf21ee4afc58dbfcbaa98da54bb3aadd14c2649207295e4e247e98f2e90d90.m3u8",
@@ -1228,9 +998,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[HD]made",
-      "in": "",
-      "hollywood\\r": ""
+      "group-title": "電影,[HD]made"
     },
     {
       "url": "https://stream1.freetv.fun/18720f11dd7c68ada93f44505d36f38eb9c84db63030b27752b60ca0481c33d8.m3u8",
@@ -1239,8 +1007,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/03/05/large/20230305234858603161_67.png",
-      "group-title": "電影,[BD]young",
-      "hollywood\\r": ""
+      "group-title": "電影,[BD]young"
     },
     {
       "url": "https://stream1.freetv.fun/395124f2042462e04665baa1fdd67a74f47418da254b1fa536a7a610f43af2ab.m3u8",
@@ -1249,8 +1016,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png",
-      "group-title": "綜藝,[HD]lifetime",
-      "east\\r": ""
+      "group-title": "綜藝,[HD]lifetime"
     },
     {
       "url": "https://stream1.freetv.fun/1b6e131eebe7d3e720801e8ee358ded4ad172159a1c3383bfad1fa7782f2773e.m3u8",
@@ -1259,8 +1025,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png",
-      "group-title": "綜藝,[HD]time",
-      "line\\r": ""
+      "group-title": "綜藝,[HD]time"
     },
     {
       "url": "https://stream1.freetv.fun/f3276b38f8ae9b78446a0bfeb04c4b8bb0f7abd80f5fbb447359ca4c39c091ab.m3u8",
@@ -1269,8 +1034,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png",
-      "group-title": "綜藝,[BD]lifetime",
-      "*x\\r": ""
+      "group-title": "綜藝,[BD]lifetime"
     },
     {
       "url": "https://stream1.freetv.fun/de99a34f3cdceebc1874bba4e018ddc9f84f4822b58a1385db12216ff0559f87.m3u8",
@@ -1279,8 +1043,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png",
-      "group-title": "綜藝,[HD]ช่อง",
-      "lifetime\\r": ""
+      "group-title": "綜藝,[HD]ช่อง"
     },
     {
       "url": "https://stream1.freetv.fun/9b6d85b723d37b6274188e4f1e53bae8cb8f97bbc4a7543d3514fab163eb5e62.ctv",
@@ -1289,9 +1052,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/04/28/large/20240428174927817268_88.png",
-      "group-title": "綜藝,[HD]us",
-      "lifetime": "",
-      "movies\\r": ""
+      "group-title": "綜藝,[HD]us"
     },
     {
       "url": "https://stream1.freetv.fun/31aec4af430852b5c4e02d6e9122221ff266f100e94bb5b28ab582c64dba2cb6.ctv",
@@ -1305,39 +1066,29 @@
     {
       "url": "https://stream1.freetv.fun/b030d10fd2f7b4894f26a6635ce090079b82025b60c78e03c5ff792ff6144ba9.m3u8",
       "tvg-name": "Love",
-      "Nature\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",
-      "group-title": "知識,[BD]love",
-      "nature\\r": ""
+      "group-title": "知識,[BD]love"
     },
     {
       "url": "https://stream1.freetv.fun/e9e589885a13910a32628a7a68d4afc9193de93af6fb63432d45f9a6a9ca18f9.ctv",
       "tvg-name": "Love",
-      "Nature\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",
-      "group-title": "知識,[HD]love",
-      "nature": "",
-      "uhd": "",
-      "*m[geo-blocked]\\r": ""
+      "group-title": "知識,[HD]love"
     },
     {
       "url": "https://stream1.freetv.fun/a84df93dab87e2760a4b4fe8d0caaa98242c1953fd59a0b13d7a62885f7bb667.m3u8",
       "tvg-name": "Love",
-      "Nature\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/02/05/large/20230205151332194260_50.jpg",
-      "group-title": "知識,[SD]love",
-      "nature": "",
-      "(720p)": "",
-      "[geo-blocked]\\r": ""
+      "group-title": "知識,[SD]love"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv761",
@@ -1351,197 +1102,150 @@
     {
       "url": "https://stream1.freetv.fun/c51b8f7c9dee5b5dfa9e03a30e2efbeef76ef187cd056f9e88e39533c6ee94be.m3u8",
       "tvg-name": "NICE",
-      "TV\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2020/10/01/large/20201001123754394603_13.png",
-      "group-title": "其它,[BD]unife",
-      "tv\\r": ""
+      "group-title": "其它,[BD]unife"
     },
     {
       "url": "https://stream1.freetv.fun/5bab71c4ae50af9ee0d106fe0be9753dc2d5308c9936a1ee000fde069bbf6373.m3u8",
       "tvg-name": "Next",
-      "TV\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png",
-      "group-title": "新聞,[BD]fuji",
-      "tv": "",
-      "next\\r": ""
+      "group-title": "新聞,[BD]fuji"
     },
     {
       "url": "https://stream1.freetv.fun/a3a884359e19db3e41a8b3ea1ccab23513c78ab48d6a7ee474203e3d869067fe.ctv",
       "tvg-name": "Next",
-      "TV\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/uploads/tmp_logo/2015/05/13/20150513050646345107_52.png",
-      "group-title": "新聞,[SD]fuji",
-      "tv": "",
-      "next\\r": ""
+      "group-title": "新聞,[SD]fuji"
     },
     {
       "url": "https://stream1.freetv.fun/08fd35f18cd1a26fe08be8595efdb627fea3a00f1915d5c68472525eccc3a739.m3u8",
       "tvg-name": "PET",
-      "CLUB": "",
-      "TV\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png",
-      "group-title": "其它,[BD]pet",
-      "club": "",
-      "tv\\r": ""
+      "group-title": "其它,[BD]pet"
     },
     {
       "url": "https://stream1.freetv.fun/a91b7494c4bda4ce9c69b2ef08b2605bdbc297220da35632809bcf0e90bc48af.m3u8",
       "tvg-name": "PET",
-      "CLUB": "",
-      "TV\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210221839864411_20.png",
-      "group-title": "其它,[BD]ช่อง",
-      "pet": "",
-      "club\\r": ""
+      "group-title": "其它,[BD]ช่อง"
     },
     {
       "url": "https://stream1.freetv.fun/e577194aacf723061144f6b6802ae224af5aadd4240aeda2be039431aed6136f.ctv",
       "tvg-name": "ROCK",
-      "Entertainment\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",
-      "group-title": "綜藝,[HD]rock",
-      "entertainment[geo-blocked]\\r": ""
+      "group-title": "綜藝,[HD]rock"
     },
     {
       "url": "https://stream1.freetv.fun/b3fbbfcafe9d8a1ef2ceadfba48e43d2d786b37ab7bd87c20e317da7b8f008ad.m3u8",
       "tvg-name": "ROCK",
-      "Entertainment\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",
-      "group-title": "綜藝,[BD]rock",
-      "entertainment": "",
-      "*x\\r": ""
+      "group-title": "綜藝,[BD]rock"
     },
     {
       "url": "https://stream1.freetv.fun/622075628777bf3f4b748908f7cb0ea68a4a517b6e914def086734f146a0c369.ctv",
       "tvg-name": "ROCK",
-      "Entertainment\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318090618776046_10.png",
-      "group-title": "綜藝,[BD]rock",
-      "entertainment": "",
-      "*wj\\r": ""
+      "group-title": "綜藝,[BD]rock"
     },
     {
       "url": "https://stream1.freetv.fun/e216b1ea6da56b76ef3e568deba49988f0ddc89fd87e04706f3aa4b93f16e26e.m3u8",
       "tvg-name": "Smithsonian",
-      "Channel\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
-      "group-title": "知識,[HD]smithsonian",
-      "channel": "",
-      "east\\r": ""
+      "group-title": "知識,[HD]smithsonian"
     },
     {
       "url": "https://stream1.freetv.fun/95919f01ae25d3db2df22d372e5a7f8fb3dd5c0a5e7c89126c3cc8ed847236f3.m3u8",
       "tvg-name": "Smithsonian",
-      "Channel\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
-      "group-title": "知識,[SD]smithsonian",
-      "channel": "",
-      "selects\\r": ""
+      "group-title": "知識,[SD]smithsonian"
     },
     {
       "url": "https://stream1.freetv.fun/41ae10777bc95587d67c5d7841bc9277d8f2216958f6467dba8ed02b88d56520.ctv",
       "tvg-name": "Smithsonian",
-      "Channel\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
-      "group-title": "知識,[SD]smithsonian",
-      "channel": ""
+      "group-title": "知識,[SD]smithsonian"
     },
     {
       "url": "https://stream1.freetv.fun/d24c303b15f499c819d94d4f221f8b1d0aeb7ed35c84f0b473bc803ac9be2068.ctv",
       "tvg-name": "Smithsonian",
-      "Channel\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
-      "group-title": "知識,[HD]ca",
-      "smithsonian": "",
-      "channel\\r": ""
+      "group-title": "知識,[HD]ca"
     },
     {
       "url": "https://stream1.freetv.fun/76dba6293f9dc490a833911a3c98b62eb7219e1e39877ee6989f7dcc94e792f5.m3u8",
       "tvg-name": "Smithsonian",
-      "Channel\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/03/large/20230703010539122476_41.jpeg",
-      "group-title": "知識,[HD]smithsonian",
-      "channel": "",
-      "selects\\r": ""
+      "group-title": "知識,[HD]smithsonian"
     },
     {
       "url": "https://stream1.freetv.fun/63600a71ad76448e69fc83a8d3c9bf63fb3b43635ffdb15edd4f65b03cc02d29.m3u8",
       "tvg-name": "Star",
-      "Movies": "",
-      "Gold\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/04/25/large/20220425163927207256_43.png",
-      "group-title": "電影,[HD]gold",
-      "star\\r": ""
+      "group-title": "電影,[HD]gold"
     },
     {
       "url": "https://stream1.freetv.fun/870de536f1ac337f0a5eddf506fe396667a02945e96e129f591975da47ed74ed.ctv",
       "tvg-name": "TVBS",
-      "Asia\\\"": "",
       "tvg-id": "3509",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg",
-      "group-title": "綜合,[HD]tvbs",
-      "asia": "",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/f7609a9d5a728301933aaa0b368011266dcb976577cb7093a38fdb6bbdbc990b.m3u8",
       "tvg-name": "TVBS",
-      "Asia\\\"": "",
       "tvg-id": "3509",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/02/large/20220302213708363097_69.jpg",
-      "group-title": "綜合,[BD]tvbs",
-      "asia\\r": ""
+      "group-title": "綜合,[BD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/0b66c333e2b6d3452d021168c195f719f7097bd3fc00b61741f2ea9a49434cd9.ctv",
       "tvg-name": "TVBS",
-      "HD\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
@@ -1551,35 +1255,29 @@
     {
       "url": "https://stream1.freetv.fun/3c2e6fd13e82467dba1d66b08bf29cadee70f425aa132aa3836ffcd0b50d7cd7.ctv",
       "tvg-name": "TVBS",
-      "HD\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720162650498510_75.png",
-      "group-title": "綜合,[BD]tvbs",
-      "*wj\\r": ""
+      "group-title": "綜合,[BD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/5325e5d7ff0449ec19c4c62689170c6410bdfb91394e5b684a473f1633d19252.m3u8",
       "tvg-name": "TVBS",
-      "News\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922145019289857_16.png",
-      "group-title": "新聞,[HD]tvbs",
-      "news[geo-blocked]\\r": ""
+      "group-title": "新聞,[HD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/c6c4420675b7ff96e25fc288260e9c1b55c779ad2cadc1aa8c1b6d9887c98a94.ctv",
       "tvg-name": "TVBS",
-      "News\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/09/22/large/20230922145019289857_16.png",
-      "group-title": "新聞,[HD]tvbs",
-      "news新闻[geo-blocked]\\r": ""
+      "group-title": "新聞,[HD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/9ad38f0133f0e392afd8db5aba6a360c9e2b5618af2a7513eac46d58e879b505.ctv",
@@ -1588,9 +1286,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png",
-      "group-title": "綜藝,[BD]tvbs",
-      "歡樂": "",
-      "*wj\\r": ""
+      "group-title": "綜藝,[BD]tvbs"
     },
     {
       "url": "https://stream1.freetv.fun/4735081f5e37437e256f6ff88a9cd85b6b4d665eba293d407187bc820730d49b.ctv",
@@ -1599,8 +1295,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2025/01/28/large/20250128055954129777_18.png",
-      "group-title": "綜藝,[HD]tvbs欢乐台",
-      "（备份）[geo-blocked]\\r": ""
+      "group-title": "綜藝,[HD]tvbs欢乐台"
     },
     {
       "url": "https://stream1.freetv.fun/73f5ccd5924d0c9f3955a782fd4848863955264a34fc787e8db5e2af09862159.m3u8",
@@ -1609,31 +1304,25 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/01/02/large/20240102024504364874_25.png",
-      "group-title": "綜藝,[BD]tvbs综艺",
-      "*x\\r": ""
+      "group-title": "綜藝,[BD]tvbs综艺"
     },
     {
       "url": "https://stream1.freetv.fun/d4c8e687f8e45db7d5314e9be382f8cc5c39ea081876fbffff853eb5399bfba3.m3u8",
       "tvg-name": "Taiwan",
-      "Plus\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg",
-      "group-title": "新聞,[BD]taiwan",
-      "plus": "",
-      "tv[geo-blocked]\\r": ""
+      "group-title": "新聞,[BD]taiwan"
     },
     {
       "url": "https://stream1.freetv.fun/bba4975d014ac372935015f9de9a053bb27a89060c6787a6caca49591a8a7b2e.m3u8",
       "tvg-name": "Taiwan",
-      "Plus\\\"": "",
       "tvg-id": "",
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/11/26/large/20221126155629392519_70.jpg",
-      "group-title": "新聞,[SD]taiwan",
-      "plus\\r": ""
+      "group-title": "新聞,[SD]taiwan"
     },
     {
       "url": "https://stream1.freetv.fun/7800a2993b8300f0ec15bb3d01410220078c20af4158662907a7b6648bcb6ca2.m3u8",
@@ -1647,13 +1336,11 @@
     {
       "url": "https://stream1.freetv.fun/20cdf3d525bbf71dabb226f499088f70d367f613dee5bfa798d5c871b1a80242.ctv",
       "tvg-name": "三立INEWS",
-      "HD\\\"": "",
       "tvg-id": "370173",
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/11/27/large/20221127005733419108_21.jpg",
-      "group-title": "新聞,[BD]inews新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[BD]inews新聞"
     },
     {
       "url": "https://stream1.freetv.fun/103cd30c02d26d164666911be0e4abda2a1cd5d8ef4c1592d45b2427e75961dc.ctv",
@@ -1671,8 +1358,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721173220819747_86.png",
-      "group-title": "新聞,[BD]三立新闻",
-      "*x\\r": ""
+      "group-title": "新聞,[BD]三立新闻"
     },
     {
       "url": "https://stream1.freetv.fun/46bc6232fcf942e551a45f91f013aaec591d8d8fdf57ae18000afd509ff752cd.m3u8",
@@ -1681,8 +1367,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721172453389269_45.png",
-      "group-title": "綜合,[BD]三立综合",
-      "*x\\r": ""
+      "group-title": "綜合,[BD]三立综合"
     },
     {
       "url": "https://stream1.freetv.fun/8bd816d717e0388008359fc0b374a2a0ccfab315e53c11cb19e4146ee62f2f05.ctv",
@@ -1691,8 +1376,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/21/large/20230721172453389269_45.png",
-      "group-title": "綜合,[HD]三立綜合",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]三立綜合"
     },
     {
       "url": "https://stream1.freetv.fun/945b62a11c90469ac374aa5fad47364339e509f9d53b0768e2dc5535207edea6.ctv",
@@ -1710,8 +1394,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2025/01/31/large/20250131032139085563_41.png",
-      "group-title": "綜合,[HD]中天亞洲",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]中天亞洲"
     },
     {
       "url": "https://stream1.freetv.fun/1d5bcf404663458dc4ecbb6af5636f1a69caaf28adbc92bcb0df05160090a4c6.ctv",
@@ -1738,8 +1421,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2016/01/14/large/20160114210645647968_28.jpg",
-      "group-title": "綜藝,[BD]中天娱樂",
-      "*wj\\r": ""
+      "group-title": "綜藝,[BD]中天娱樂"
     },
     {
       "url": "https://stream1.freetv.fun/2a811fc0305ed1797d97d3c437818d720bfea3827e77cdf4e503f49a47f1a78c.m3u8",
@@ -1766,8 +1448,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/03/05/large/20220305151207450324_69.png",
-      "group-title": "新聞,[HD]中天新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[HD]中天新聞"
     },
     {
       "url": "https://stream1.freetv.fun/d0dc419e572496e04901fdd844b4f116a46a43cf2651e93153312310bd703995.ctv",
@@ -1794,8 +1475,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2019/01/15/large/20190115233042115640_98.jpg",
-      "group-title": "綜合,[BD]中天綜合",
-      "*wj[geo-blocked]\\r": ""
+      "group-title": "綜合,[BD]中天綜合"
     },
     {
       "url": "https://stream1.freetv.fun/b9b0628b2474fa439dc957ecb7ae8723067c0aea44c287ada1a509143571d9dd.ctv",
@@ -1840,8 +1520,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164553238162_16.png",
-      "group-title": "新聞,[HD]中視新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[HD]中視新聞"
     },
     {
       "url": "https://stream1.freetv.fun/60198ba0e5eb7c5405993cccfa5dd4028eb8115fe81d2d38305eb24fe8555562.ctv",
@@ -1850,8 +1529,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/11/large/20230711221628321961_26.jpg",
-      "group-title": "綜合,[BD]中視經典",
-      "*wj\\r": ""
+      "group-title": "綜合,[BD]中視經典"
     },
     {
       "url": "https://stream1.freetv.fun/f011a428fab735796e6c5c5f2df0c46acd2524969a4d24dbb32a6fbb38ea95b5.ctv",
@@ -1950,8 +1628,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/img/logo/1_164.jpg",
-      "group-title": "其它,[BD]人间卫视",
-      "*x\\r": ""
+      "group-title": "其它,[BD]人间卫视"
     },
     {
       "url": "https://stream1.freetv.fun/4bb33c1f141b7be6312eb253ec4cb98d17bb6f2980817b5b6c53ac52f4700969.ctv",
@@ -1960,8 +1637,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720155115252575_13.png",
-      "group-title": "電影,[BD]八大戲劇",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]八大戲劇"
     },
     {
       "url": "https://stream1.freetv.fun/07a5a715c84941cdf7eee9b506997e15f13d7c775ffbad2bb2bf90396eecaef7.ctv",
@@ -1970,8 +1646,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720154758414370_68.png",
-      "group-title": "綜藝,[BD]八大第一",
-      "*wj[geo-blocked]\\r": ""
+      "group-title": "綜藝,[BD]八大第一"
     },
     {
       "url": "https://stream1.freetv.fun/b35099e4a03eaa997403b688aef039ea8d8e6522f708285325cabe447474376c.ctv",
@@ -1980,8 +1655,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720154712065553_65.png",
-      "group-title": "綜合,[BD]八大綜合",
-      "*wj\\r": ""
+      "group-title": "綜合,[BD]八大綜合"
     },
     {
       "url": "https://stream1.freetv.fun/3e1319cd2bb268c47e9360129b888e4f67cd2a8d775a9a1edb17952362b3f247.ctv",
@@ -2017,8 +1691,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724132219452361_49.png",
-      "group-title": "綜合,[HD]公視",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]公視"
     },
     {
       "url": "https://stream1.freetv.fun/529550b78324d2bdefb0fe08cfd31c5482661dbbac741711047d41c87c941435.ctv",
@@ -2090,8 +1763,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724094914581648_75.png",
-      "group-title": "新聞,[HD]台視新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[HD]台視新聞"
     },
     {
       "url": "https://stream1.freetv.fun/41157664acf190bce85c72f310a742879b275e1912726bc43f323ff6ae321e09.m3u8",
@@ -2127,8 +1799,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513171825260672_88.jpg",
-      "group-title": "綜合,[HD]國會",
-      "1\\r": ""
+      "group-title": "綜合,[HD]國會"
     },
     {
       "url": "https://stream1.freetv.fun/8cdd553a812ddd9a4657531eaf33a235a34febea6cb124e29c6357c6649fb275.m3u8",
@@ -2137,8 +1808,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/05/13/large/20220513171909653190_67.jpg",
-      "group-title": "綜合,[HD]國會",
-      "2\\r": ""
+      "group-title": "綜合,[HD]國會"
     },
     {
       "url": "https://stream1.freetv.fun/e17e658a35e231ea62088298308d775a6b4fe80bc451f3366f20dc45fbee9bd2.ctv",
@@ -2147,8 +1817,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2015/05/21/large/20150521014333336253_94.png",
-      "group-title": "其它,[BD]大愛2台",
-      "*wj\\r": ""
+      "group-title": "其它,[BD]大愛2台"
     },
     {
       "url": "https://stream1.freetv.fun/2f0c7073512143be6307b6f655ffebb9d4b9ce1c2ffecdd698718ef08c3beee4.m3u8",
@@ -2166,8 +1835,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720204948549014_27.png",
-      "group-title": "電影,[BD]好萊塢電影",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]好萊塢電影"
     },
     {
       "url": "https://stream1.freetv.fun/13300dfea952c75aa1e5224308a7721600e4dd582257c548582e82172e76c293.m3u8",
@@ -2185,8 +1853,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724134652233694_13.png",
-      "group-title": "新聞,[HD]寰宇新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[HD]寰宇新聞"
     },
     {
       "url": "https://stream1.freetv.fun/f646d0f464fd54132f3ff2290e862da130e05aaa08a0339060f53f3688301f07.ctv",
@@ -2195,8 +1862,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720210902132399_36.png",
-      "group-title": "新聞,[VGA]寰宇財經",
-      "*wj\\r": ""
+      "group-title": "新聞,[VGA]寰宇財經"
     },
     {
       "url": "https://stream1.freetv.fun/0c52f62bc57bb75f456200905031ed9dd4e522cc397bd92364b450d58b148608.m3u8",
@@ -2259,9 +1925,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719100412963431_50.png",
-      "group-title": "兒童,[BD]東森幼幼yoyo",
-      "tv": "",
-      "*wj\\r": ""
+      "group-title": "兒童,[BD]東森幼幼yoyo"
     },
     {
       "url": "https://stream1.freetv.fun/16983369bd3e5987e029eea232c7eb34bc599489ac8c8d85843b5cf9b1a51ce5.ctv",
@@ -2270,8 +1934,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/11/26/large/20221126213003695910_75.jpg",
-      "group-title": "電影,[BD]東森戲劇",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]東森戲劇"
     },
     {
       "url": "https://stream1.freetv.fun/9c19eb3cd3c8dd4f5a4e3f2f0e0c3d43e978516935419d6b219725490c7779a4.ctv",
@@ -2280,8 +1943,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/",
-      "group-title": "新聞,[BD]東森新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[BD]東森新聞"
     },
     {
       "url": "https://stream1.freetv.fun/40161630bae639121ee9197701ac610120d0c5674efe83726e8232182092da0b.ctv",
@@ -2290,8 +1952,7 @@
       "tvg-country": "台灣",
       "tvg-language": "英文",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722105927706804_92.png",
-      "group-title": "電影,[BD]東森洋片",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]東森洋片"
     },
     {
       "url": "https://stream1.freetv.fun/4c8fdd8345bbb7d2bb091072d489bfe11312b55018ffcb48ac54c25285193e13.ctv",
@@ -2300,8 +1961,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/uploads/tmp_logo/2017/01/01/20170101141958889491_89.jpg",
-      "group-title": "綜合,[BD]東森綜合",
-      "*wj\\r": ""
+      "group-title": "綜合,[BD]東森綜合"
     },
     {
       "url": "https://stream1.freetv.fun/a34f63cf23e4e386f7b9304a7bf75f568c4886d6ccaec81cee72fd1156ad2e00.ctv",
@@ -2355,8 +2015,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/06/14/large/20230614213306996395_10.jpg",
-      "group-title": "新聞,[HD]東森財經新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[HD]東森財經新聞"
     },
     {
       "url": "https://stream1.freetv.fun/d8756df4416806c5ce981bdef2ac99098b8a3a99e05b32affdd6e324187cf1b4.m3u8",
@@ -2437,8 +2096,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/05/06/large/20220506164750276114_35.png",
-      "group-title": "電影,[BD]東森電影",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]東森電影"
     },
     {
       "url": "https://stream1.freetv.fun/45a0f78f58b360078097c8797db3cc4f98fc98a5382df97f74b1674c56d2b8aa.m3u8",
@@ -2465,8 +2123,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/11/27/large/20221127000500162147_91.jpg",
-      "group-title": "綜合,[HD]民視",
-      "*wj\\r": ""
+      "group-title": "綜合,[HD]民視"
     },
     {
       "url": "rtmp://f13h.mine.nu:1935/sat/tv051",
@@ -2592,8 +2249,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010526048942_44.jpg",
-      "group-title": "兒童,[BD]精选动漫",
-      "*x\\r": ""
+      "group-title": "兒童,[BD]精选动漫"
     },
     {
       "url": "https://stream1.freetv.fun/c5343cb52a7e15e24d242540c67d2a39faa58067d9d1143ea197a8b9f1962804.m3u8",
@@ -2602,8 +2258,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/06/05/large/20230605010456512902_79.jpg",
-      "group-title": "兒童,[BD]经典卡通",
-      "*x\\r": ""
+      "group-title": "兒童,[BD]经典卡通"
     },
     {
       "url": "https://stream1.freetv.fun/d680d32d63e35f728c4c5bd993c258eaaa12d4bbe3844373e10e050578fc3294.m3u8",
@@ -2612,8 +2267,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/02/28/large/20240228002632629515_75.png",
-      "group-title": "電影,[BD]经典电影",
-      "*x\\r": ""
+      "group-title": "電影,[BD]经典电影"
     },
     {
       "url": "https://stream1.freetv.fun/86dd2b959c32f3e8bad2087e1b2ac28f173614805a29007f057a36bff8eb4a87.ctv",
@@ -2631,8 +2285,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/04/28/large/20230428003944893108_94.jpg",
-      "group-title": "電影,[SD]经典电影",
-      "港片枪战\\r": ""
+      "group-title": "電影,[SD]经典电影"
     },
     {
       "url": "https://stream1.freetv.fun/dfe1f69c53c657923f4cef7c06a161c4791160e25dd50781e1452be066f40310.ctv",
@@ -2650,8 +2303,7 @@
       "tvg-country": "台灣",
       "tvg-language": "日語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722105459178241_22.png",
-      "group-title": "綜藝,[BD]緯來日本",
-      "*wj\\r": ""
+      "group-title": "綜藝,[BD]緯來日本"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv771",
@@ -2732,8 +2384,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722105618864183_26.png",
-      "group-title": "運動,[BD]緯來體育",
-      "*wj\\r": ""
+      "group-title": "運動,[BD]緯來體育"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv721",
@@ -2751,8 +2402,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2024/01/14/large/20240114154701302621_82.png",
-      "group-title": "電影,[BD]美亞電影",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]美亞電影"
     },
     {
       "url": "https://stream1.freetv.fun/12e25aeffeee85d6fe045a3f3edb6f0cf25782b51d9d2708ea5d9c0fc9bdf0db.ctv",
@@ -2815,8 +2465,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210223602044025_15.png",
-      "group-title": "電影,[BD]華藝綜",
-      "*wj\\r": ""
+      "group-title": "電影,[BD]華藝綜"
     },
     {
       "url": "https://stream1.freetv.fun/eccf32739b25830eae943450b2e0cd8790e575a94f2edee661670cbceaa71f49.ctv",
@@ -2843,8 +2492,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2016/12/24/large/20161224233801697871_73.jpg",
-      "group-title": "綜合,[BD]華視",
-      "*wj\\r": ""
+      "group-title": "綜合,[BD]華視"
     },
     {
       "url": "rtmp://f13h.mine.nu/sat/tv111",
@@ -2961,8 +2609,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2016/06/17/large/20160617165249161501_56.png",
-      "group-title": "新聞,[BD]非凡新聞",
-      "*wj\\r": ""
+      "group-title": "新聞,[BD]非凡新聞"
     },
     {
       "url": "https://stream1.freetv.fun/0573c868b50d77a847b27aac5aae897863bb74e836b008b421ed1b9d2375a88a.m3u8",
@@ -2998,8 +2645,7 @@
       "tvg-country": "台灣",
       "tvg-language": "國語",
       "tvg-logo": "https://epg.pw/media/images/channel/2023/07/24/large/20230724170326264507_47.png",
-      "group-title": "電影,[HD]龍華戲劇",
-      "*wj\\r": ""
+      "group-title": "電影,[HD]龍華戲劇"
     },
     {
       "url": "https://stream1.freetv.fun/f9e4358bb09913f4e5f1c09e2d6e50458024d9eacf3e2d274516bb85955a0a07.m3u8",
