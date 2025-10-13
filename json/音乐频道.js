@@ -1,0 +1,26 @@
+module.exports = {
+  "count": 3,
+  "list": [
+    {
+      "url": "http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8",
+      "tvg-name": "潮流音乐",
+      "tvg-id": "潮流音乐",
+      "tvg-logo": "https://tb.zbds.top/logo/潮流音乐.png",
+      "group-title": "音乐频道,"
+    },
+    {
+      "url": "http://a.live.hnradio.com/yypd/radio120k_yypd.m3u8?auth_key=1588751172-0-0-d97b858279c1c86650172b9913ea4af2",
+      "tvg-name": "音乐之声",
+      "tvg-id": "音乐之声",
+      "tvg-logo": "https://tb.zbds.top/logo/音乐之声.png",
+      "group-title": "音乐频道,"
+    },
+    {
+      "url": "https://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
+      "tvg-name": "音乐现场",
+      "tvg-id": "音乐现场",
+      "tvg-logo": "https://tb.zbds.top/logo/音乐现场.png",
+      "group-title": "音乐频道,"
+    }
+  ]
+}

@@ -1,0 +1,110 @@
+module.exports = {
+  "count": 15,
+  "list": [
+    {
+      "url": "http://58.57.40.22:9901/tsfile/live/1060_1.m3u8",
+      "tvg-name": "卡酷少儿",
+      "tvg-id": "20",
+      "tvg-logo": "https://tb.zbds.top/logo/卡酷少儿.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://58.57.40.22:9901/tsfile/live/1059_1.m3u8",
+      "tvg-name": "金鹰卡通",
+      "tvg-id": "73",
+      "tvg-logo": "https://tb.zbds.top/logo/金鹰卡通.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://gmxw.7766.org:808/hls/175/index.m3u8",
+      "tvg-name": "广东少儿",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/广东少儿.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "https://ali-m-l.cztv.com/channels/lantian/channel008/1080p.m3u8",
+      "tvg-name": "浙江少儿",
+      "tvg-id": "浙江少儿",
+      "tvg-logo": "https://tb.zbds.top/logo/浙江少儿.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://120.238.94.10:9901/tsfile/live/1037_1.m3u8",
+      "tvg-name": "哈哈炫动",
+      "tvg-id": "11",
+      "tvg-logo": "https://tb.zbds.top/logo/哈哈炫动.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://104.244.79.187:4994/proxy?url=http%3A//104.244.79.187%3A5050/litv/4gtv-4gtv057",
+      "tvg-name": "靖洋卡通",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/靖洋卡通.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "https://live.iill.top/huya/11342413",
+      "tvg-name": "中华小当家",
+      "tvg-id": "中华小当家",
+      "tvg-logo": "https://tb.zbds.top/logo/中华小当家.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/30080236",
+      "tvg-name": "名侦探柯南",
+      "tvg-id": "名侦探柯南",
+      "tvg-logo": "https://tb.zbds.top/logo/名侦探柯南.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23865080",
+      "tvg-name": "喜羊羊与灰太狼",
+      "tvg-id": "喜羊羊与灰太狼",
+      "tvg-logo": "https://tb.zbds.top/logo/喜羊羊与灰太狼.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "https://live.metshop.top/douyu/3949681",
+      "tvg-name": "海绵宝宝",
+      "tvg-id": "海绵宝宝",
+      "tvg-logo": "https://tb.zbds.top/logo/海绵宝宝.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11352879",
+      "tvg-name": "猫和老鼠",
+      "tvg-id": "猫和老鼠",
+      "tvg-logo": "https://tb.zbds.top/logo/猫和老鼠.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://live.zohi.tv/video/s10001-fztv-4/index.m3u8",
+      "tvg-name": "福州少儿",
+      "tvg-id": "福州少儿",
+      "tvg-logo": "https://tb.zbds.top/logo/福州少儿.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/23749096",
+      "tvg-name": "精灵宝可梦",
+      "tvg-id": "精灵宝可梦",
+      "tvg-logo": "https://tb.zbds.top/logo/精灵宝可梦.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "http://ebsonairios.ebs.co.kr/ebsutablet500k/tablet500k/playlist.m3u8",
+      "tvg-name": "韩国EBS少儿",
+      "tvg-id": "韩国EBS少儿",
+      "tvg-logo": "https://tb.zbds.top/logo/韩国EBS少儿.png",
+      "group-title": "儿童频道,"
+    },
+    {
+      "url": "https://ls.qingting.fm/live/4972/64k.m3u8",
+      "tvg-name": "黑龙江少儿",
+      "tvg-id": "黑龙江少儿",
+      "tvg-logo": "https://tb.zbds.top/logo/黑龙江少儿.png",
+      "group-title": "儿童频道,"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+module.exports = {
+  "count": 1,
+  "list": [
+    {
+      "url": "https://www.goodiptv.club/douyu/5907076",
+      "tvg-name": "漫画解说",
+      "tvg-id": "漫画解说",
+      "tvg-logo": "https://tb.zbds.top/logo/漫画解说.png",
+      "group-title": "解说频道,"
+    }
+  ]
+}
