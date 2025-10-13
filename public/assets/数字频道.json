@@ -1,5 +1,5 @@
 {
-  "count": 5,
+  "count": 6,
   "list": [
     {
       "url": "http://111.31.106.140/downflv.brtvcloud.com/8klive/8kliveok.m3u8",
@@ -34,6 +34,13 @@
       "tvg-name": "纪实科教",
       "tvg-id": "中国天气",
       "tvg-logo": "https://tb.zbds.top/logo/纪实科教.png",
+      "group-title": "数字频道,"
+    },
+    {
+      "url": "http://112.46.105.20:8009/hls/72/index.m3u8",
+      "tvg-name": "都市剧场",
+      "tvg-id": "都市剧场",
+      "tvg-logo": "https://tb.zbds.top/logo/都市剧场.png",
       "group-title": "数字频道,"
     }
   ]

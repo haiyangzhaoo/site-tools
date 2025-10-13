@@ -1,5 +1,5 @@
 {
-  "count": 77,
+  "count": 79,
   "list": [
     {
       "url": "http://113.195.172.192:808/hls/114/index.m3u8",
@@ -37,14 +37,21 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058",
+      "url": "http://live4play.uk/livehttpplay?channel_id=12037",
+      "tvg-name": "靖天电影",
+      "tvg-id": "靖天电影",
+      "tvg-logo": "https://tb.zbds.top/logo/靖天电影.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://bvm.808848.xyz:50007/4gtv-4gtv058/index.m3u8",
       "tvg-name": "靖天戏剧",
       "tvg-id": "靖天戏剧",
       "tvg-logo": "https://tb.zbds.top/logo/靖天戏剧.png",
       "group-title": "电影频道,"
     },
     {
-      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055",
+      "url": "http://bvm.808848.xyz:50007/4gtv-4gtv055/index.m3u8",
       "tvg-name": "靖天映画",
       "tvg-id": "靖天映画",
       "tvg-logo": "https://tb.zbds.top/logo/靖天映画.png",
@@ -100,13 +107,6 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/23734256",
-      "tvg-name": "使徒行者",
-      "tvg-id": "使徒行者",
-      "tvg-logo": "https://tb.zbds.top/logo/使徒行者.png",
-      "group-title": "电影频道,"
-    },
-    {
       "url": "http://iptv.jxpan.vip:18888/aio/huya/23734246",
       "tvg-name": "倚天屠龙记",
       "tvg-id": "倚天屠龙记",
@@ -142,10 +142,10 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342424",
-      "tvg-name": "刘德华电影",
-      "tvg-id": "刘德华电影",
-      "tvg-logo": "https://tb.zbds.top/logo/刘德华电影.png",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465856",
+      "tvg-name": "刑事侦缉档案",
+      "tvg-id": "刑事侦缉档案",
+      "tvg-logo": "https://tb.zbds.top/logo/刑事侦缉档案.png",
       "group-title": "电影频道,"
     },
     {
@@ -170,13 +170,6 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342412",
-      "tvg-name": "周星驰电影",
-      "tvg-id": "周星驰电影",
-      "tvg-logo": "https://tb.zbds.top/logo/周星驰电影.png",
-      "group-title": "电影频道,"
-    },
-    {
       "url": "https://stream.hrbtv.net/yspd/playlist.m3u8",
       "tvg-name": "哈尔滨影视",
       "tvg-id": "哈尔滨影视",
@@ -191,24 +184,17 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465850",
-      "tvg-name": "大唐双龙传",
-      "tvg-id": "大唐双龙传",
-      "tvg-logo": "https://tb.zbds.top/logo/大唐双龙传.png",
-      "group-title": "电影频道,"
-    },
-    {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/23865161",
-      "tvg-name": "大时代",
-      "tvg-id": "大时代",
-      "tvg-logo": "https://tb.zbds.top/logo/大时代.png",
-      "group-title": "电影频道,"
-    },
-    {
       "url": "https://epg.pw/stream/cb817875cf26eb683af274dd8cdf7f559a71353d9565c32447c8d98894bc8095.ctv",
       "tvg-name": "天映经典",
       "tvg-id": "天映经典",
       "tvg-logo": "https://tb.zbds.top/logo/天映经典.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465853",
+      "tvg-name": "妙手仁心",
+      "tvg-id": "妙手仁心",
+      "tvg-logo": "https://tb.zbds.top/logo/妙手仁心.png",
       "group-title": "电影频道,"
     },
     {
@@ -226,38 +212,10 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465848",
-      "tvg-name": "寻秦记",
-      "tvg-id": "寻秦记",
-      "tvg-logo": "https://tb.zbds.top/logo/寻秦记.png",
-      "group-title": "电影频道,"
-    },
-    {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465849",
-      "tvg-name": "封神榜",
-      "tvg-id": "封神榜",
-      "tvg-logo": "https://tb.zbds.top/logo/封神榜.png",
-      "group-title": "电影频道,"
-    },
-    {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/23824164",
-      "tvg-name": "射雕英雄传",
-      "tvg-id": "射雕英雄传",
-      "tvg-logo": "https://tb.zbds.top/logo/射雕英雄传.png",
-      "group-title": "电影频道,"
-    },
-    {
       "url": "http://iptv.jxpan.vip:18888/aio/huya/21059577",
       "tvg-name": "怪兽电影",
       "tvg-id": "怪兽电影",
       "tvg-logo": "https://tb.zbds.top/logo/怪兽电影.png",
-      "group-title": "电影频道,"
-    },
-    {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342386",
-      "tvg-name": "成龙电影",
-      "tvg-id": "成龙电影",
-      "tvg-logo": "https://tb.zbds.top/logo/成龙电影.png",
       "group-title": "电影频道,"
     },
     {
@@ -272,13 +230,6 @@
       "tvg-name": "战争电影",
       "tvg-id": "战争电影",
       "tvg-logo": "https://tb.zbds.top/logo/战争电影.png",
-      "group-title": "电影频道,"
-    },
-    {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465855",
-      "tvg-name": "扫黄先锋",
-      "tvg-id": "扫黄先锋",
-      "tvg-logo": "https://tb.zbds.top/logo/扫黄先锋.png",
       "group-title": "电影频道,"
     },
     {
@@ -303,17 +254,17 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342421",
-      "tvg-name": "林正英电影",
-      "tvg-id": "林正英电影",
-      "tvg-logo": "https://tb.zbds.top/logo/林正英电影.png",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/30080233",
+      "tvg-name": "无心法师",
+      "tvg-id": "无心法师",
+      "tvg-logo": "https://tb.zbds.top/logo/无心法师.png",
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/21059579",
-      "tvg-name": "枪战电影",
-      "tvg-id": "枪战电影",
-      "tvg-logo": "https://tb.zbds.top/logo/枪战电影.png",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342390",
+      "tvg-name": "李连杰电影",
+      "tvg-id": "李连杰电影",
+      "tvg-logo": "https://tb.zbds.top/logo/李连杰电影.png",
       "group-title": "电影频道,"
     },
     {
@@ -352,6 +303,13 @@
       "group-title": "电影频道,"
     },
     {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/29465851",
+      "tvg-name": "洗冤录",
+      "tvg-id": "洗冤录",
+      "tvg-logo": "https://tb.zbds.top/logo/洗冤录.png",
+      "group-title": "电影频道,"
+    },
+    {
       "url": "http://iptv.jxpan.vip:18888/aio/huya/23903123",
       "tvg-name": "活佛济公3",
       "tvg-id": "活佛济公3",
@@ -380,10 +338,24 @@
       "group-title": "电影频道,"
     },
     {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/30080229",
+      "tvg-name": "狄仁杰电影",
+      "tvg-id": "狄仁杰电影",
+      "tvg-logo": "https://tb.zbds.top/logo/狄仁杰电影.png",
+      "group-title": "电影频道,"
+    },
+    {
       "url": "http://iptv.jxpan.vip:18888/aio/huya/11342414",
       "tvg-name": "玄幻电影",
       "tvg-id": "玄幻电影",
       "tvg-logo": "https://tb.zbds.top/logo/玄幻电影.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11602058",
+      "tvg-name": "王晶电影",
+      "tvg-id": "王晶电影",
+      "tvg-logo": "https://tb.zbds.top/logo/王晶电影.png",
       "group-title": "电影频道,"
     },
     {
@@ -408,6 +380,13 @@
       "group-title": "电影频道,"
     },
     {
+      "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
+      "tvg-name": "电影刘德华",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影刘德华.png",
+      "group-title": "电影频道,"
+    },
+    {
       "url": "http://live.metshop.top/huya/11352941?cdn=alicdn",
       "tvg-name": "电影功夫片",
       "tvg-id": "1",
@@ -415,10 +394,45 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://live.metshop.top/huya/11352974?cdn=alicdn",
-      "tvg-name": "电影犯罪片",
+      "url": "http://live.metshop.top/huya/11602077?cdn=alicdn",
+      "tvg-name": "电影动作电影",
       "tvg-id": "1",
-      "tvg-logo": "https://tb.zbds.top/logo/电影犯罪片.png",
+      "tvg-logo": "https://tb.zbds.top/logo/电影动作电影.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/11336587?cdn=alicdn",
+      "tvg-name": "电影周星星",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影周星星.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/11601977?cdn=alicdn",
+      "tvg-name": "电影嫣然影厅",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影嫣然影厅.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/21059574?cdn=alicdn",
+      "tvg-name": "电影战争片",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影战争片.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/21059585?cdn=alicdn",
+      "tvg-name": "电影谍战",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影谍战.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/21059587?cdn=alicdn",
+      "tvg-name": "电影谍战片",
+      "tvg-id": "1",
+      "tvg-logo": "https://tb.zbds.top/logo/电影谍战片.png",
       "group-title": "电影频道,"
     },
     {
@@ -464,13 +478,6 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/21059585",
-      "tvg-name": "谍战电影",
-      "tvg-id": "谍战电影",
-      "tvg-logo": "https://tb.zbds.top/logo/谍战电影.png",
-      "group-title": "电影频道,"
-    },
-    {
       "url": "http://iptv.jxpan.vip:18888/aio/huya/11601986",
       "tvg-name": "贺岁电影",
       "tvg-id": "贺岁电影",
@@ -492,10 +499,10 @@
       "group-title": "电影频道,"
     },
     {
-      "url": "http://iptv.jxpan.vip:18888/aio/huya/23863796",
-      "tvg-name": "野蛮亲家",
-      "tvg-id": "野蛮亲家",
-      "tvg-logo": "https://tb.zbds.top/logo/野蛮亲家.png",
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11342435",
+      "tvg-name": "金庸武侠",
+      "tvg-id": "金庸武侠",
+      "tvg-logo": "https://tb.zbds.top/logo/金庸武侠.png",
       "group-title": "电影频道,"
     },
     {
@@ -531,6 +538,13 @@
       "tvg-name": "韩国电影2",
       "tvg-id": "韩国电影2",
       "tvg-logo": "https://tb.zbds.top/logo/韩国电影2.png",
+      "group-title": "电影频道,"
+    },
+    {
+      "url": "http://iptv.jxpan.vip:18888/aio/huya/11352876",
+      "tvg-name": "黄渤电影",
+      "tvg-id": "黄渤电影",
+      "tvg-logo": "https://tb.zbds.top/logo/黄渤电影.png",
       "group-title": "电影频道,"
     },
     {

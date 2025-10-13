@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 33,
   "list": [
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8",
@@ -76,6 +76,13 @@
       "tvg-name": "夏河",
       "tvg-id": "夏河",
       "tvg-logo": "https://tb.zbds.top/logo/夏河.png",
+      "group-title": "纪录频道,"
+    },
+    {
+      "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd",
+      "tvg-name": "奎屯汉语",
+      "tvg-id": "奎屯汉语",
+      "tvg-logo": "https://tb.zbds.top/logo/奎屯汉语.png",
       "group-title": "纪录频道,"
     },
     {
