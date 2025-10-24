@@ -1,236 +1,194 @@
 {
-  "count": 33,
+  "count": 27,
   "list": [
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8",
-      "tvg-name": "航拍中国第二季",
-      "tvg-id": "航拍中国第二季",
-      "tvg-logo": "https://tb.zbds.top/logo/航拍中国第二季.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "航拍中国第二季",
+      "tvg_id": "航拍中国第二季",
+      "tvg_logo": "https://tb.zbds.top/logo/航拍中国第二季.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream5.jlntv.cn/df/sd/live.m3u8?zjild",
-      "tvg-name": "东丰",
-      "tvg-id": "东丰",
-      "tvg-logo": "https://tb.zbds.top/logo/东丰.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "东丰",
+      "tvg_id": "东丰",
+      "tvg_logo": "https://tb.zbds.top/logo/东丰.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://12371ksc.v.kcdnvip.com/12371/dangyuanwang_1/index.m3u8",
-      "tvg-name": "中国党员教育",
-      "tvg-id": "中国党员教育",
-      "tvg-logo": "https://tb.zbds.top/logo/中国党员教育.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "中国党员教育",
+      "tvg_id": "中国党员教育",
+      "tvg_logo": "https://tb.zbds.top/logo/中国党员教育.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/93fc12dbf14241c18c23da104fbade23/4000.m3u8",
-      "tvg-name": "中国村庄",
-      "tvg-id": "中国村庄",
-      "tvg-logo": "https://tb.zbds.top/logo/中国村庄.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "中国村庄",
+      "tvg_id": "中国村庄",
+      "tvg_logo": "https://tb.zbds.top/logo/中国村庄.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://pili-live-hls.hfmt.net/gntv/lttv.m3u8?zgand",
-      "tvg-name": "临潭",
-      "tvg-id": "临潭",
-      "tvg-logo": "https://tb.zbds.top/logo/临潭.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://stream10.jlntv.cn/jiutaitv/sd/live.m3u8?zjild",
-      "tvg-name": "九台",
-      "tvg-id": "九台",
-      "tvg-logo": "https://tb.zbds.top/logo/九台.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "临潭",
+      "tvg_id": "临潭",
+      "tvg_logo": "https://tb.zbds.top/logo/临潭.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8",
-      "tvg-name": "人与自然",
-      "tvg-id": "人与自然",
-      "tvg-logo": "https://tb.zbds.top/logo/人与自然.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "人与自然",
+      "tvg_id": "人与自然",
+      "tvg_logo": "https://tb.zbds.top/logo/人与自然.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "https://liveout.btzx.com.cn/62ds9e/6o77s4.m3u8?zxinjd",
-      "tvg-name": "兵团五师双河影",
-      "tvg-id": "兵团五师双河影",
-      "tvg-logo": "https://tb.zbds.top/logo/兵团五师双河影.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "兵团五师双河影",
+      "tvg_id": "兵团五师双河影",
+      "tvg_logo": "https://tb.zbds.top/logo/兵团五师双河影.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream5.jlntv.cn/sl/sd/live.m3u8?zjild",
-      "tvg-name": "双辽",
-      "tvg-id": "双辽",
-      "tvg-logo": "https://tb.zbds.top/logo/双辽.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "双辽",
+      "tvg_id": "双辽",
+      "tvg_logo": "https://tb.zbds.top/logo/双辽.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/c6baf6f74bb944aeacee1065ea72c798/1200.m3u8",
-      "tvg-name": "地理中国",
-      "tvg-id": "地理中国",
-      "tvg-logo": "https://tb.zbds.top/logo/地理中国.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "地理中国",
+      "tvg_id": "地理中国",
+      "tvg_logo": "https://tb.zbds.top/logo/地理中国.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://pili-live-hls.hfmt.net/gntv/xhtv.m3u8?zgand",
-      "tvg-name": "夏河",
-      "tvg-id": "夏河",
-      "tvg-logo": "https://tb.zbds.top/logo/夏河.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "夏河",
+      "tvg_id": "夏河",
+      "tvg_logo": "https://tb.zbds.top/logo/夏河.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://218.84.12.186:8001/hls/main/playlist.m3u8?zxinjd",
-      "tvg-name": "奎屯汉语",
-      "tvg-id": "奎屯汉语",
-      "tvg-logo": "https://tb.zbds.top/logo/奎屯汉语.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "奎屯汉语",
+      "tvg_id": "奎屯汉语",
+      "tvg_logo": "https://tb.zbds.top/logo/奎屯汉语.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://tvdrs.wsrtv.com.cn:8100/channellive/ch1.flv?zyund",
-      "tvg-name": "文山州新闻",
-      "tvg-id": "文山州新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/文山州新闻.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "文山州新闻",
+      "tvg_id": "文山州新闻",
+      "tvg_logo": "https://tb.zbds.top/logo/文山州新闻.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream5.jlntv.cn/lh/sd/live.m3u8?zjild",
-      "tvg-name": "柳河",
-      "tvg-id": "柳河",
-      "tvg-logo": "https://tb.zbds.top/logo/柳河.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "柳河",
+      "tvg_id": "柳河",
+      "tvg_logo": "https://tb.zbds.top/logo/柳河.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream10.jlntv.cn/huadian/sd/live.m3u8?zjild",
-      "tvg-name": "桦甸",
-      "tvg-id": "桦甸",
-      "tvg-logo": "https://tb.zbds.top/logo/桦甸.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://222.179.155.21:1935/ch1.m3u8?zzhongqd",
-      "tvg-name": "江津新闻",
-      "tvg-id": "江津新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/江津新闻.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://stream5.jlntv.cn/wq/sd/live.m3u8?zjild",
-      "tvg-name": "汪清",
-      "tvg-id": "汪清",
-      "tvg-logo": "https://tb.zbds.top/logo/汪清.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd",
-      "tvg-name": "玛纳斯",
-      "tvg-id": "玛纳斯",
-      "tvg-logo": "https://tb.zbds.top/logo/玛纳斯.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "桦甸",
+      "tvg_id": "桦甸",
+      "tvg_logo": "https://tb.zbds.top/logo/桦甸.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream8.jlntv.cn/hctv/sd/live.m3u8?zjild",
-      "tvg-name": "珲春新闻",
-      "tvg-id": "珲春新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/珲春新闻.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "珲春新闻",
+      "tvg_id": "珲春新闻",
+      "tvg_logo": "https://tb.zbds.top/logo/珲春新闻.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream8.jlntv.cn/baishan2/playlist.m3u8?zjild",
-      "tvg-name": "白山公共",
-      "tvg-id": "白山公共",
-      "tvg-logo": "https://tb.zbds.top/logo/白山公共.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "白山公共",
+      "tvg_id": "白山公共",
+      "tvg_logo": "https://tb.zbds.top/logo/白山公共.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://pili-live-hls.hfmt.net/gntv/lqtv.m3u8?zgand",
-      "tvg-name": "碌曲",
-      "tvg-id": "碌曲",
-      "tvg-logo": "https://tb.zbds.top/logo/碌曲.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "碌曲",
+      "tvg_id": "碌曲",
+      "tvg_logo": "https://tb.zbds.top/logo/碌曲.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream5.jlntv.cn/ps/sd/live.m3u8?zjild",
-      "tvg-name": "磐石",
-      "tvg-id": "磐石",
-      "tvg-logo": "https://tb.zbds.top/logo/磐石.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "磐石",
+      "tvg_id": "磐石",
+      "tvg_logo": "https://tb.zbds.top/logo/磐石.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8",
-      "tvg-name": "自然传奇",
-      "tvg-id": "自然传奇",
-      "tvg-logo": "https://tb.zbds.top/logo/自然传奇.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://stream8.jlntv.cn/shulan/sd/live.m3u8?zjild",
-      "tvg-name": "舒兰新闻",
-      "tvg-id": "舒兰新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/舒兰新闻.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "自然传奇",
+      "tvg_id": "自然传奇",
+      "tvg_logo": "https://tb.zbds.top/logo/自然传奇.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://pili-live-hls.hfmt.net/gntv/zqtv.m3u8?zgand",
-      "tvg-name": "舟曲新闻",
-      "tvg-id": "舟曲新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/舟曲新闻.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "舟曲新闻",
+      "tvg_id": "舟曲新闻",
+      "tvg_logo": "https://tb.zbds.top/logo/舟曲新闻.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://pili-live-rtmp.luan2.hfmt.net/luan2/xifeng/123456.m3u8?zgand",
-      "tvg-name": "西峰",
-      "tvg-id": "西峰",
-      "tvg-logo": "https://tb.zbds.top/logo/西峰.png",
-      "group-title": "纪录频道,"
-    },
-    {
-      "url": "http://stream5.jlntv.cn/hn/sd/live.m3u8?zjild",
-      "tvg-name": "辉南新闻",
-      "tvg-id": "辉南新闻",
-      "tvg-logo": "https://tb.zbds.top/logo/辉南新闻.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "西峰",
+      "tvg_id": "西峰",
+      "tvg_logo": "https://tb.zbds.top/logo/西峰.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream5.jlntv.cn/thx/sd/live.m3u8?zjild",
-      "tvg-name": "通化县",
-      "tvg-id": "通化县",
-      "tvg-logo": "https://tb.zbds.top/logo/通化县.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "通化县",
+      "tvg_id": "通化县",
+      "tvg_logo": "https://tb.zbds.top/logo/通化县.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://110.19.181.138:10080/hls/F509Rh7GR/F509Rh7GR_live.m3u8?zneimd",
-      "tvg-name": "鄂托克旗电视台",
-      "tvg-id": "鄂托克旗电视台",
-      "tvg-logo": "https://tb.zbds.top/logo/鄂托克旗电视台.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "鄂托克旗电视台",
+      "tvg_id": "鄂托克旗电视台",
+      "tvg_logo": "https://tb.zbds.top/logo/鄂托克旗电视台.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream8.jlntv.cn/jytv/sd/live.m3u8?zjild",
-      "tvg-name": "靖宇",
-      "tvg-id": "靖宇",
-      "tvg-logo": "https://tb.zbds.top/logo/靖宇.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "靖宇",
+      "tvg_id": "靖宇",
+      "tvg_logo": "https://tb.zbds.top/logo/靖宇.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "https://hls.cntv.lxdns.com/asp/hls/2000/0303000a/3/default/f0a47e155d32450daa1d36a04fd7d262/2000.m3u8",
-      "tvg-name": "飞碟之谜01",
-      "tvg-id": "飞碟之谜01",
-      "tvg-logo": "https://tb.zbds.top/logo/飞碟之谜01.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "飞碟之谜01",
+      "tvg_id": "飞碟之谜01",
+      "tvg_logo": "https://tb.zbds.top/logo/飞碟之谜01.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "https://newcntv.qcloudcdn.com/asp/hls/2000/0303000a/3/default/d2454bbb542d4613a9db478dab2addfd/2000.m3u8",
-      "tvg-name": "飞碟之谜02",
-      "tvg-id": "飞碟之谜02",
-      "tvg-logo": "https://tb.zbds.top/logo/飞碟之谜02.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "飞碟之谜02",
+      "tvg_id": "飞碟之谜02",
+      "tvg_logo": "https://tb.zbds.top/logo/飞碟之谜02.png",
+      "group_title": "纪录频道,"
     },
     {
       "url": "http://stream8.jlntv.cn/ljtv/sd/live.m3u8?zjild",
-      "tvg-name": "龙井",
-      "tvg-id": "龙井",
-      "tvg-logo": "https://tb.zbds.top/logo/龙井.png",
-      "group-title": "纪录频道,"
+      "tvg_name": "龙井",
+      "tvg_id": "龙井",
+      "tvg_logo": "https://tb.zbds.top/logo/龙井.png",
+      "group_title": "纪录频道,"
     }
   ]
 }
