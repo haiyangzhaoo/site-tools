@@ -65,14 +65,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://p8.vzan.com:443/slowlive/147077707554082780/live.m3u8",
-      "tvg_name": "七星关电视台",
-      "tvg_id": "七星关电视台",
-      "tvg_logo": "https://tb.zbds.top/logo/七星关电视台.png",
-      "group_title": "地方频道,"
-    },
-    {
-      "url": "http://123.146.162.24:8013/tslslive/PU2vzMI/hls/live_sd.m3u8",
+      "url": "http://123.146.162.24:8017/c2F0hmi/1000/live.m3u8",
       "tvg_name": "万州三峡移民",
       "tvg_id": "万州三峡移民",
       "tvg_logo": "https://tb.zbds.top/logo/万州三峡移民.png",
@@ -177,7 +170,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
+      "url": "http://tvpull.dxhmt.cn:9081/tv/11281-1.m3u8",
       "tvg_name": "义马新闻综合",
       "tvg_id": "义马新闻综合",
       "tvg_logo": "https://tb.zbds.top/logo/义马新闻综合.png",
@@ -583,10 +576,10 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://luzhi.xuyongrongmei.com:1935/live/_definst_/xyxw/playlist.m3u8",
-      "tvg_name": "叙永综合",
-      "tvg_id": "叙永综合",
-      "tvg_logo": "https://tb.zbds.top/logo/叙永综合.png",
+      "url": "https://l2fpdktp.live.sxmty.com/live/hls/e4c3b363cc4549788e2d983f403e07db/d99ce1eb686e41b9afc888110bd95aa7.m3u8?zshanxd",
+      "tvg_name": "古县综合",
+      "tvg_id": "古县综合",
+      "tvg_logo": "https://tb.zbds.top/logo/古县综合.png",
       "group_title": "地方频道,"
     },
     {
@@ -695,7 +688,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://stream.hrbtv.net/ylpd/sd/live.m3u8",
+      "url": "http://stream.hrbtv.net/ylpd/sd/live.m3u8",
       "tvg_name": "哈尔滨娱乐",
       "tvg_id": "哈尔滨娱乐",
       "tvg_logo": "https://tb.zbds.top/logo/哈尔滨娱乐.png",
@@ -709,7 +702,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://stream.hrbtv.net/shpd/playlist.m3u8",
+      "url": "http://111.43.126.240:9003/hls/3/index.m3u8",
       "tvg_name": "哈尔滨生活",
       "tvg_id": "哈尔滨生活",
       "tvg_logo": "https://tb.zbds.top/logo/哈尔滨生活.png",
@@ -779,7 +772,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://www.guzhenm.com:7001/hls/hd-live.m3u8?%E5%85%B3%E6%B3%A8%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7[%E6%99%B4%E5%9B%AD]",
+      "url": "http://www.guzhenm.com:7001/hls/hd-live.m3u8",
       "tvg_name": "固镇新闻",
       "tvg_id": "固镇新闻",
       "tvg_logo": "https://tb.zbds.top/logo/固镇新闻.png",
@@ -821,10 +814,17 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://218.84.12.186:8002/hls/main/playlist.m3u8?zxinjd",
+      "url": "http://218.84.12.186:8002/hls/main/playlist.m3u8",
       "tvg_name": "奎屯哈萨克语",
       "tvg_id": "奎屯哈萨克语",
       "tvg_logo": "https://tb.zbds.top/logo/奎屯哈萨克语.png",
+      "group_title": "地方频道,"
+    },
+    {
+      "url": "http://fjnhdb.chinashadt.com:2036/live/stream:nh1.stream/playlist.m3u8",
+      "tvg_name": "宁化电视一套",
+      "tvg_id": "宁化电视一套",
+      "tvg_logo": "https://tb.zbds.top/logo/宁化电视一套.png",
       "group_title": "地方频道,"
     },
     {
@@ -891,6 +891,13 @@
       "group_title": "地方频道,"
     },
     {
+      "url": "http://live.ahsz.tv/video/s10001-szzh/index.m3u8",
+      "tvg_name": "宿松新闻综合",
+      "tvg_id": "宿松新闻综合",
+      "tvg_logo": "https://tb.zbds.top/logo/宿松新闻综合.png",
+      "group_title": "地方频道,"
+    },
+    {
       "url": "http://live.ynurl.com/video/s10040-pbzh/index.m3u8?zyund",
       "tvg_name": "屏边综合",
       "tvg_id": "屏边综合",
@@ -916,13 +923,6 @@
       "tvg_name": "山东生活",
       "tvg_id": "山东生活",
       "tvg_logo": "https://tb.zbds.top/logo/山东生活.png",
-      "group_title": "地方频道,"
-    },
-    {
-      "url": "http://183.188.111.173:9003/hls/46/index.m3u8",
-      "tvg_name": "山西经济与科技",
-      "tvg_id": "山西经济与科技",
-      "tvg_logo": "https://tb.zbds.top/logo/山西经济与科技.png",
       "group_title": "地方频道,"
     },
     {
@@ -1248,7 +1248,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8?zhend",
+      "url": "http://tvpull.dxhmt.cn:9081/tv/11329-1.m3u8",
       "tvg_name": "新野综合",
       "tvg_id": "新野综合",
       "tvg_logo": "https://tb.zbds.top/logo/新野综合.png",
@@ -1304,7 +1304,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://stream.thmz.com/wxtv3/sd/live.m3u8",
+      "url": "http://stream.thmz.com/wxtv3/playlist.m3u8",
       "tvg_name": "无锡都市资讯",
       "tvg_id": "无锡都市资讯",
       "tvg_logo": "https://tb.zbds.top/logo/无锡都市资讯.png",
@@ -1458,6 +1458,13 @@
       "group_title": "地方频道,"
     },
     {
+      "url": "https://tvpull.smartwq.cn/wqlive/convergencemedia/playlist.m3u8?ztianjd",
+      "tvg_name": "武清综合",
+      "tvg_id": "武清综合",
+      "tvg_logo": "https://tb.zbds.top/logo/武清综合.png",
+      "group_title": "地方频道,"
+    },
+    {
       "url": "https://live.wjyanghu.com/live/CH1.m3u8",
       "tvg_name": "武进新闻",
       "tvg_id": "武进新闻",
@@ -1465,7 +1472,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://live.wjyanghu.com/live/CH2.m3u8",
+      "url": "http://live.wjyanghu.com/live/CH2.m3u8",
       "tvg_name": "武进生活",
       "tvg_id": "武进生活",
       "tvg_logo": "https://tb.zbds.top/logo/武进生活.png",
@@ -1504,13 +1511,6 @@
       "tvg_name": "江川综合",
       "tvg_id": "江川综合",
       "tvg_logo": "https://tb.zbds.top/logo/江川综合.png",
-      "group_title": "地方频道,"
-    },
-    {
-      "url": "http://222.179.155.21:1935/ch1.m3u8",
-      "tvg_name": "江津新闻综合",
-      "tvg_id": "江津新闻综合",
-      "tvg_logo": "https://tb.zbds.top/logo/江津新闻综合.png",
       "group_title": "地方频道,"
     },
     {
@@ -1605,7 +1605,21 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://live.dxhmt.cn:9081/tv/11726-1.m3u8",
+      "url": "http://tmpstream.hyrtv.cn/hygg/sd/live.m3u8",
+      "tvg_name": "河源公共",
+      "tvg_id": "河源公共",
+      "tvg_logo": "https://tb.zbds.top/logo/河源公共.png",
+      "group_title": "地方频道,"
+    },
+    {
+      "url": "http://tmpstream.hyrtv.cn/xwzh/sd/live.m3u8",
+      "tvg_name": "河源综合",
+      "tvg_id": "河源综合",
+      "tvg_logo": "https://tb.zbds.top/logo/河源综合.png",
+      "group_title": "地方频道,"
+    },
+    {
+      "url": "http://tvpull.dxhmt.cn:9081/tv/11726-1.m3u8",
       "tvg_name": "泌阳新闻综合",
       "tvg_id": "泌阳新闻综合",
       "tvg_logo": "https://tb.zbds.top/logo/泌阳新闻综合.png",
@@ -1668,17 +1682,10 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://111.14.181.15:9901/tsfile/live/1009_1.m3u8",
-      "tvg_name": "济宁公共",
-      "tvg_id": "济宁公共",
-      "tvg_logo": "https://tb.zbds.top/logo/济宁公共.png",
-      "group_title": "地方频道,"
-    },
-    {
-      "url": "http://111.14.181.15:9901/tsfile/live/1007_1.m3u8",
-      "tvg_name": "济宁综合",
-      "tvg_id": "济宁综合",
-      "tvg_logo": "https://tb.zbds.top/logo/济宁综合.png",
+      "url": "http://124.128.73.58:9901/tsfile/live/1004_1.m3u8?key=txiptv&playlive=1&authid=0",
+      "tvg_name": "济南都市",
+      "tvg_id": "济南都市",
+      "tvg_logo": "https://tb.zbds.top/logo/济南都市.png",
       "group_title": "地方频道,"
     },
     {
@@ -1878,7 +1885,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://live.dxhmt.cn:9081/tv/11221-1.m3u8",
+      "url": "http://tvpull.dxhmt.cn:9081/tv/11221-1.m3u8",
       "tvg_name": "渑池新闻综合",
       "tvg_id": "渑池新闻综合",
       "tvg_logo": "https://tb.zbds.top/logo/渑池新闻综合.png",
@@ -1906,14 +1913,14 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
+      "url": "http://hzcm-live.media.hugd.com/613c47f0ab0d4eaa98b21378d0db6ded/0051d31c9dd543a7825eea4e49675b2a.m3u8?auth_key=2277598059-0a5ebfa1c0dc4671b42a60810fc37039-0-fa625b7d1feab612062453c12e3c8887",
       "tvg_name": "湖州文化娱乐",
       "tvg_id": "湖州文化娱乐",
       "tvg_logo": "https://tb.zbds.top/logo/湖州文化娱乐.png",
       "group_title": "地方频道,"
     },
     {
-      "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865&amp;fbl=",
+      "url": "http://hzcm-live.media.hugd.com/3f5fa7d64c7c46a38c6bd8ad35e836cc/65128273761b4731ae53729ea6dcf932.m3u8?auth_key=2277598215-9d21c15111244bea8d298c361d31a72e-0-d031198f58d44b0e91ba2e3f3b188865",
       "tvg_name": "湖州新闻综合",
       "tvg_id": "湖州新闻综合",
       "tvg_logo": "https://tb.zbds.top/logo/湖州新闻综合.png",
@@ -1938,13 +1945,6 @@
       "tvg_name": "滦平新闻",
       "tvg_id": "滦平新闻",
       "tvg_logo": "https://tb.zbds.top/logo/滦平新闻.png",
-      "group_title": "地方频道,"
-    },
-    {
-      "url": "http://traffic.jbh.tjbh.com/live/bhtv10/playlist.m3u8",
-      "tvg_name": "滨海新闻综合",
-      "tvg_id": "滨海新闻综合",
-      "tvg_logo": "https://tb.zbds.top/logo/滨海新闻综合.png",
       "group_title": "地方频道,"
     },
     {
@@ -1990,7 +1990,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://218.84.127.245:1026/hls/main1/playlist.m3u8?zxinjd,",
+      "url": "http://218.84.127.245:1026/hls/main1/playlist.m3u8",
       "tvg_name": "玛纳斯综合",
       "tvg_id": "玛纳斯综合",
       "tvg_logo": "https://tb.zbds.top/logo/玛纳斯综合.png",
@@ -2151,7 +2151,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "https://play.kankanlive.com/live/1659926941626981.m3u8",
+      "url": "http://play.kankanlive.com/live/1683944827526991.m3u8",
       "tvg_name": "秦安综合",
       "tvg_id": "秦安综合",
       "tvg_logo": "https://tb.zbds.top/logo/秦安综合.png",
@@ -2529,13 +2529,6 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://bclivepull.handannews.com.cn/BClive/NewsBroadcast.m3u8",
-      "tvg_name": "邯郸新闻",
-      "tvg_id": "邯郸新闻",
-      "tvg_logo": "https://tb.zbds.top/logo/邯郸新闻.png",
-      "group_title": "地方频道,"
-    },
-    {
       "url": "https://jwcdnqx.hebyun.com.cn/live/hdkj/1500k/tzwj_video.m3u8",
       "tvg_name": "邯郸科技教育",
       "tvg_id": "邯郸科技教育",
@@ -2578,7 +2571,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://183.64.181.25:40023/rongchang01.m3u8",
+      "url": "http://120.76.248.139/live/bfgd/4200000168.m3u8",
       "tvg_name": "重庆汽摩",
       "tvg_id": "重庆汽摩",
       "tvg_logo": "https://tb.zbds.top/logo/重庆汽摩.png",
@@ -2606,7 +2599,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://183.64.174.171:40123/ch1.m3u8?zzhongqd",
+      "url": "http://183.64.174.171:40123/ch1.m3u8",
       "tvg_name": "铜梁综合",
       "tvg_id": "铜梁综合",
       "tvg_logo": "https://tb.zbds.top/logo/铜梁综合.png",
@@ -2683,7 +2676,7 @@
       "group_title": "地方频道,"
     },
     {
-      "url": "http://live.ynurl.com/video/s10027-LCDST/index.m3u8",
+      "url": "https://zb-live.ynurl.com/longchuan/58f88df3-605e-4c57-865c-8e8f85241ca1.m3u8",
       "tvg_name": "陇川综合",
       "tvg_id": "陇川综合",
       "tvg_logo": "https://tb.zbds.top/logo/陇川综合.png",
@@ -2750,6 +2743,13 @@
       "tvg_name": "青川综合",
       "tvg_id": "青川综合",
       "tvg_logo": "https://tb.zbds.top/logo/青川综合.png",
+      "group_title": "地方频道,"
+    },
+    {
+      "url": "http://111.14.181.15:9901/tsfile/live/1007_1.m3u8",
+      "tvg_name": "青州综合",
+      "tvg_id": "青州综合",
+      "tvg_logo": "https://tb.zbds.top/logo/青州综合.png",
       "group_title": "地方频道,"
     },
     {

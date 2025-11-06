@@ -1,5 +1,5 @@
 {
-  "count": 32,
+  "count": 33,
   "list": [
     {
       "url": "http://58.57.40.22:9901/tsfile/live/0001_1.m3u8",
@@ -9,9 +9,9 @@
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1001_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0002_1.m3u8",
       "tvg_name": "CCTV2",
-      "tvg_id": "235",
+      "tvg_id": "228",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV2.png",
       "group_title": "央视频道,"
     },
@@ -72,44 +72,44 @@
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1010_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0010_1.m3u8",
       "tvg_name": "CCTV10",
-      "tvg_id": "221",
+      "tvg_id": "239",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV10.png",
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1011_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0011_1.m3u8",
       "tvg_name": "CCTV11",
-      "tvg_id": "202",
+      "tvg_id": "26",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV11.png",
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1012_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0012_1.m3u8",
       "tvg_name": "CCTV12",
-      "tvg_id": "215",
+      "tvg_id": "30",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV12.png",
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1013_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0013_1.m3u8",
       "tvg_name": "CCTV13",
-      "tvg_id": "203",
+      "tvg_id": "201",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV13.png",
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1014_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0014_1.m3u8",
       "tvg_name": "CCTV14",
-      "tvg_id": "218",
+      "tvg_id": "27",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV14.png",
       "group_title": "央视频道,"
     },
     {
-      "url": "http://58.57.40.22:9901/tsfile/live/1015_1.m3u8",
+      "url": "http://39.164.160.249:9901/tsfile/live/0015_1.m3u8",
       "tvg_name": "CCTV15",
-      "tvg_id": "209",
+      "tvg_id": "204",
       "tvg_logo": "https://tb.zbds.top/logo/CCTV15.png",
       "group_title": "央视频道,"
     },
@@ -195,6 +195,13 @@
       "tvg_name": "CETV2",
       "tvg_id": "CETV2",
       "tvg_logo": "https://tb.zbds.top/logo/CETV2.png",
+      "group_title": "央视频道,"
+    },
+    {
+      "url": "http://gslbmgsplive.miguvideo.com/migu/kailu/cetv4/50/20240709/index.m3u8?msisdn=2025090309003329cd481a5313461999ea66e0b5c14a1b&mdspid=&spid=699004&netType=0&sid=5910022154&pid=2028597139&timestamp=20250903090033&Channel_ID=0116_2600037000-99000-200300220100002&ProgramID=923287339&ParentNodeID=-99&assertID=5910022154&client_ip=106.13.250.83&SecurityKey=20250903090033&promotionId=&mvid=5900006640&mcid=500020&playurlVersion=WX-A1-8.8.1-RELEASE&userid=&jmhm=&videocodec=h264&bean=mgspad&tid=android&conFee=0&puData=a0dd23e241f091b5c99903fbe22f27e3&ddCalcu=3ae0v7da2dbf2a232ee2b4f13f0099919bc5&sv=10004&ct=android",
+      "tvg_name": "CETV4",
+      "tvg_id": "CETV4",
+      "tvg_logo": "https://tb.zbds.top/logo/CETV4.png",
       "group_title": "央视频道,"
     },
     {

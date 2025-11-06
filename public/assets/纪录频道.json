@@ -1,5 +1,5 @@
 {
-  "count": 27,
+  "count": 29,
   "list": [
     {
       "url": "http://newcntv.qcloudcdn.com/asp/hls/4000/0303000a/3/default/2bdfdad540b342f592f9817cb7f3b79a/4000.m3u8",
@@ -41,6 +41,20 @@
       "tvg_name": "人与自然",
       "tvg_id": "人与自然",
       "tvg_logo": "https://tb.zbds.top/logo/人与自然.png",
+      "group_title": "纪录频道,"
+    },
+    {
+      "url": "http://110.153.180.106:55555/out_1/index.m3u8?zxinjd",
+      "tvg_name": "伊犁汉语",
+      "tvg_id": "伊犁汉语",
+      "tvg_logo": "https://tb.zbds.top/logo/伊犁汉语.png",
+      "group_title": "纪录频道,"
+    },
+    {
+      "url": "http://110.153.180.106:55555/out_2/index.m3u8?zxinjd",
+      "tvg_name": "伊犁维吾尔",
+      "tvg_id": "伊犁维吾尔",
+      "tvg_logo": "https://tb.zbds.top/logo/伊犁维吾尔.png",
       "group_title": "纪录频道,"
     },
     {

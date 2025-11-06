@@ -64,15 +64,63 @@
     "url": "https://iptv.hacks.tools/domestic/IPv4 直播源/category/解说频道/m3u"
   },
   {
-    "title": "香港频道NEW",
+    "title": "香港频道",
     "url": "https://iptv.hacks.tools/domestic/IPv4 直播源/category/香港频道/m3u"
   },
   {
-    "title": "澳门频道NEW",
+    "title": "澳门频道",
     "url": "https://iptv.hacks.tools/domestic/IPv4 直播源/category/澳门频道/m3u"
   },
   {
-    "title": "台湾频道NEW",
+    "title": "台湾频道",
     "url": "https://iptv.hacks.tools/domestic/IPv4 直播源/category/台湾频道/m3u"
+  },
+  {
+    "title": "英语",
+    "url": "https://iptv.hacks.tools/international/language/eng"
+  },
+  {
+    "title": "西班牙语",
+    "url": "https://iptv.hacks.tools/international/language/spa"
+  },
+  {
+    "title": "中文",
+    "url": "https://iptv.hacks.tools/international/language/zho"
+  },
+  {
+    "title": "法语",
+    "url": "https://iptv.hacks.tools/international/language/fra"
+  },
+  {
+    "title": "阿拉伯语",
+    "url": "https://iptv.hacks.tools/international/language/ara"
+  },
+  {
+    "title": "葡萄牙语",
+    "url": "https://iptv.hacks.tools/international/language/por"
+  },
+  {
+    "title": "俄语",
+    "url": "https://iptv.hacks.tools/international/language/rus"
+  },
+  {
+    "title": "土耳其语",
+    "url": "https://iptv.hacks.tools/international/language/tur"
+  },
+  {
+    "title": "韩语",
+    "url": "https://iptv.hacks.tools/international/language/kor"
+  },
+  {
+    "title": "日语",
+    "url": "https://iptv.hacks.tools/international/language/jpn"
+  },
+  {
+    "title": "新加坡",
+    "url": "https://iptv.hacks.tools/international/language/singapore"
+  },
+  {
+    "title": "马来西亚",
+    "url": "https://iptv.hacks.tools/international/language/malaysia"
   }
 ]
