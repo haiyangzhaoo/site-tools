@@ -1,8 +1,8 @@
 {
-  "count": 471,
+  "count": 394,
   "list": [
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/2mmaroc/playlist.m3u8",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/2mmaroc/browser-dash/2mmaroc.mpd",
       "tvg_id": "2M.ma@SD",
       "tvg_logo": "https://i.imgur.com/PJYTfHi.png",
       "group_title": "General,2M"
@@ -21,12 +21,6 @@
       "tvg_id": "2MMonde.ma@Plus1",
       "tvg_logo": "https://i.imgur.com/MvpntzA.png",
       "group_title": "General,2M"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/algerian4kids/playlist.m3u8",
-      "tvg_id": "4KidsTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/507piHp.png",
-      "group_title": "Kids,4Kids"
     },
     {
       "url": "https://lenz.splus.ir/PLTV/88888888/224/3221227000/index.m3u8",
@@ -149,6 +143,12 @@
       "group_title": "Education,Al"
     },
     {
+      "url": "https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8",
+      "tvg_id": "AlAoula.ma@SD",
+      "tvg_logo": "https://i.imgur.com/nq53d2N.png",
+      "group_title": "General,Al"
+    },
+    {
       "url": "http://167.172.161.13/hls/feedspare/6udfi7v8a3eof6nlps6e9ovfrs65c7l7.m3u8",
       "tvg_id": "AlAqsaTV.ps@SD",
       "tvg_logo": "https://i.imgur.com/Z2rfrQ8.png",
@@ -197,13 +197,7 @@
       "group_title": "Undefined,Al"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/albarlemania/playlist.m3u8",
-      "tvg_id": "AlBarlemania.mr@SD",
-      "tvg_logo": "https://i.postimg.cc/XYPQrPz6/albarlemania.png",
-      "group_title": "Legislative,Al"
-    },
-    {
-      "url": "https://rtmp-live-ingest-eu-west-3-universe-dacast-com.akamaized.net/transmuxv1/streams/dbb8ac05-a020-784c-3a95-6ed027941532.m3u8",
+      "url": "https://cdn-eu-west-prod-ingest-infra-dacast-com.akamaized.net/23cf2e00-28b0-b7b4-2569-ab7d19233fd7/index.m3u8",
       "tvg_id": "AlDafrahTV.ae@SD",
       "tvg_logo": "https://i.imgur.com/sOMOe9t.png",
       "group_title": "General,Al"
@@ -245,18 +239,6 @@
       "group_title": "Religious,Al"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119696/alhudtv/playlist.m3u8",
-      "tvg_id": "AlHudaTV.ke@SD",
-      "tvg_logo": "https://i.imgur.com/9iziYTd.png",
-      "group_title": "Religious,Al"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/alinsentv/playlist.m3u8",
-      "tvg_id": "AlInsenTV.tn@SD",
-      "tvg_logo": "https://i.imgur.com/Hkdwoe8.png",
-      "group_title": "Religious,Al"
-    },
-    {
       "url": "https://cdn.catiacast.video/abr/8d2ffb0aba244e8d9101a9488a7daa05/playlist.m3u8",
       "tvg_id": "AlIraqia.iq@SD",
       "tvg_logo": "https://i.imgur.com/8qQouTW.jpg",
@@ -285,12 +267,6 @@
       "tvg_id": "AlJanoubTV.iq@SD",
       "tvg_logo": "https://i.postimg.cc/bNsnZvcd/aljanoubtv.png",
       "group_title": "News,Al"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/aljanoubiatv/playlist.m3u8",
-      "tvg_id": "AlJanoubiyaTV.tn@SD",
-      "tvg_logo": "https://i.postimg.cc/y6f96ZGw/aljanoubiyatv.png",
-      "group_title": "General,Al"
     },
     {
       "url": "https://live-hls-apps-aja-fa.getaj.net/AJA/index.m3u8",
@@ -327,12 +303,6 @@
       "tvg_id": "AlJazeeraMubasherBroadcast2.qa@SD",
       "tvg_logo": "https://i.imgur.com/nJmi6G6.png",
       "group_title": "News,Al"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkaherawalnas2/playlist.m3u8",
-      "tvg_id": "AlKaheraWalNas2.eg@SD",
-      "tvg_logo": "https://i.postimg.cc/DZvJnvPv/alkaherawalnas2.png",
-      "group_title": "General,Al"
     },
     {
       "url": "https://672a3a5c8e335.streamlock.net/AlMaaref/smil:almaareflive.smil/playlist.m3u8",
@@ -383,7 +353,7 @@
       "group_title": "News,Al"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almasriya/playlist.m3u8",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/almasriyah/browser-HLS8/almasriyah.m3u8",
       "tvg_id": "AlMasriyah.eg@SD",
       "tvg_logo": "https://i.ibb.co/Kx7wmXCQ/almasriya.png",
       "group_title": "General,Al"
@@ -407,7 +377,7 @@
       "group_title": "News,Al"
     },
     {
-      "url": "https://bcovlive-a.akamaihd.net/d30cbb3350af4cb7a6e05b9eb1bfd850/eu-west-1/6057955906001/playlist.m3u8",
+      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alqaheranews/playlist.m3u8",
       "tvg_id": "AlQaheraNews.eg@SD",
       "tvg_logo": "https://i.postimg.cc/gj6YPQQc/alqaheranews.png",
       "group_title": "News,Al"
@@ -489,12 +459,6 @@
       "group_title": "General,Al"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alshams/playlist.m3u8",
-      "tvg_id": "AlShamsTV.eg@SD",
-      "tvg_logo": "https://i.postimg.cc/nr7C1XH1/alshamstv.png",
-      "group_title": "General,Al"
-    },
-    {
       "url": "https://svs.itworkscdn.net/kablatvlive/kabtv1.smil/playlist.m3u8",
       "tvg_id": "AlSharqiyaMinKabla.ae@SD",
       "tvg_logo": "https://i.imgur.com/m4qheI4.png",
@@ -505,12 +469,6 @@
       "tvg_id": "AlSunnahAlNabawiyahTV.sa@SD",
       "tvg_logo": "https://i.imgur.com/S6LcTJv.png",
       "group_title": "Religious,Al"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alwathaeqyia/playlist.m3u8",
-      "tvg_id": "AlWathaeqya.eg@SD",
-      "tvg_logo": "https://i.imgur.com/CwC7fz6.png",
-      "group_title": "Documentary,Al"
     },
     {
       "url": "https://nl.livekadeh.com/hls2/alwilayah_tv.m3u8",
@@ -575,7 +533,7 @@
       "group_title": "General,Al-Nahar"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alnahardrama/playlist.m3u8",
+      "url": "http://213.57.91.138:8000/play/a06n",
       "tvg_id": "AlNaharDrama.eg@SD",
       "tvg_logo": "https://i.ibb.co/ksnNhr5w/Al-Nahar-Drama.png",
       "group_title": "Series,Al-Nahar"
@@ -617,22 +575,10 @@
       "group_title": "Religious,Alfath"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/alfathal3amh/playlist.m3u8",
-      "tvg_id": "AlfathTV.eg@SD",
-      "tvg_logo": "https://i.imgur.com/87bdieg.png",
-      "group_title": "Religious,Alfath"
-    },
-    {
       "url": "http://95.216.180.111:1935/live/10/playlist.m3u8",
       "tvg_id": "AlForatTV.iq@SD",
       "tvg_logo": "https://i.imgur.com/f6PQzKd.png",
       "group_title": "General,Alforat"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/alhadathalyoum/playlist.m3u8",
-      "tvg_id": "AlHadathAlyoum.eg@SD",
-      "tvg_logo": "https://i.ibb.co/sd2k94pS/Final-Hadath.png",
-      "group_title": "News,AlHadath"
     },
     {
       "url": "https://ghaasiflu.online/alhqeqa/index.m3u8",
@@ -645,12 +591,6 @@
       "tvg_id": "AlhayatDrama.eg@SD",
       "tvg_logo": "https://i.imgur.com/vVM7I4a.png",
       "group_title": "Series,Alhayat"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayathd/playlist.m3u8",
-      "tvg_id": "AlhayatTV.eg@SD",
-      "tvg_logo": "https://i.imgur.com/bl9ie9u.png",
-      "group_title": "General,Alhayat"
     },
     {
       "url": "https://mn-nl.mncdn.com/alhiwar_live/smil:alhiwar.smil/playlist.m3u8",
@@ -698,12 +638,6 @@
       "url": "https://58cc65c534c67.streamlock.net/alkarmatv.com/alkarmame1.smil/playlist.m3u8",
       "tvg_id": "AlkarmaTVMiddleEast.us@SD",
       "tvg_logo": "https://i.imgur.com/6OmNw5A.png",
-      "group_title": "Religious,Alkarma"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/alkarmausa/playlist.m3u8",
-      "tvg_id": "AlkarmaTVNorthAmerica.us@SD",
-      "tvg_logo": "https://www.lyngsat.com/logo/tv/aa/alkarma-tv-north-america-us.png",
       "group_title": "Religious,Alkarma"
     },
     {
@@ -765,12 +699,6 @@
       "tvg_id": "AlkhuzamaRadio.sa@SD",
       "tvg_logo": "https://shahid.mbc.net/mediaObject/61010cbc-91c5-4ce1-94a4-ed40adadb97b",
       "group_title": "Undefined,Alkhuzama"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almagdtv/playlist.m3u8",
-      "tvg_id": "AlmagdTV.us@SD",
-      "tvg_logo": "https://i.postimg.cc/pdZrGNbg/almagdtv.png",
-      "group_title": "Religious,Almagd"
     },
     {
       "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -847,10 +775,10 @@
       "group_title": "Music,Arabica"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/arradia/playlist.m3u8",
-      "tvg_id": "Arriadia.mr@SD",
-      "tvg_logo": "https://i.imgur.com/LyZwUzH.png",
-      "group_title": "Sports,Arriadia"
+      "url": "https://oppomu.serv00.net/maro7/maarry.php?m3u8",
+      "tvg_id": "Arryadia.ma@SD",
+      "tvg_logo": "https://i.imgur.com/XjzK3gZ.png",
+      "group_title": "Sports,Arryadia"
     },
     {
       "url": "https://svs.itworkscdn.net/asharqdiscoverylive/asharqd.smil/playlist_dvr.m3u8",
@@ -889,6 +817,12 @@
       "group_title": "Undefined,Asil"
     },
     {
+      "url": "https://xddrts.alwaysdata.net/maro7/maassadi.php?m3u8",
+      "tvg_id": "Assadissa.ma@SD",
+      "tvg_logo": "https://i.postimg.cc/YS9NzzTf/assadissa.png",
+      "group_title": "Religious,Assadissa"
+    },
+    {
       "url": "https://softverse.b-cdn.net/Assirat/assiratobs/playlist.m3u8",
       "tvg_id": "AssiratTV.ir@SD",
       "tvg_logo": "https://i.postimg.cc/s2NY6ZrF/assirattv.png",
@@ -901,16 +835,10 @@
       "group_title": "Kids,Atfal"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/athagavia/playlist.m3u8",
-      "tvg_id": "Athagavia.mr@SD",
-      "tvg_logo": "https://i.imgur.com/UzRNRz8.png",
-      "group_title": "Culture,Athagavia"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/attesiatv/playlist.m3u8",
-      "tvg_id": "AttessiaTV.tn@SD",
-      "tvg_logo": "https://i.imgur.com/kmfRNVy.png",
-      "group_title": "General,Attessia"
+      "url": "https://oppomu.serv00.net/maro7/maarrabia.php?m3u8",
+      "tvg_id": "Athaqafia.ma@SD",
+      "tvg_logo": "https://i.postimg.cc/K8ctm5cS/athaqafia.png",
+      "group_title": "Culture,Athaqafia"
     },
     {
       "url": "https://stream.atvsat.com/atvsatlive/smil:atvsatlive.smil/playlist.m3u8",
@@ -929,12 +857,6 @@
       "tvg_id": "BabyFirst.us@US",
       "tvg_logo": "https://i.imgur.com/WxLHBwu.png",
       "group_title": "Kids,BabyFirst"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/bahiatv/playlist.m3u8",
-      "tvg_id": "BahiaTV.dz@SD",
-      "tvg_logo": "https://i.postimg.cc/tTBLmkgq/bahiatv.png",
-      "group_title": "General,Bahia"
     },
     {
       "url": "https://5c7b683162943.streamlock.net/live/ngrp:bahraininternational_all/playlist.m3u8",
@@ -1009,37 +931,7 @@
       "group_title": "Undefined,Big"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/bonferey/playlist.m3u8",
-      "tvg_id": "Bonferey.ne@SD",
-      "tvg_logo": "https://i.imgur.com/7JvJ9YQ.png",
-      "group_title": "News,Bonferey"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/csat/playlist.m3u8",
-      "tvg_id": "CSat.us@SD",
-      "tvg_logo": "https://i.postimg.cc/Y9Gm0psQ/csat.png",
-      "group_title": "Religious,C"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/canal3monde/playlist.m3u8",
-      "tvg_id": "Canal3Monde.ne@SD",
-      "tvg_logo": "https://i.imgur.com/MWakZfV.png",
-      "group_title": "General,Canal"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119695/canal3niger/playlist.m3u8",
-      "tvg_id": "Canal3Niger.ne@SD",
-      "tvg_logo": "https://i.imgur.com/Yf35GQC.png",
-      "group_title": "General,Canal"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/carthageplus/playlist.m3u8",
-      "tvg_id": "CarthagePlus.tn@SD",
-      "tvg_logo": "https://i.imgur.com/5BsDW4B.png",
-      "group_title": "Entertainment,Carthage+"
-    },
-    {
-      "url": "https://bcovlive-a.akamaihd.net/0c223ac0a9d34b30b100cb92ee83b70a/us-west-2/6057955906001/playlist.m3u8",
+      "url": "http://213.57.91.138:8000/play/a06o",
       "tvg_id": "CBC.eg@SD",
       "tvg_logo": "https://i.imgur.com/8apNaLP.png",
       "group_title": "General,CBC"
@@ -1051,7 +943,7 @@
       "group_title": "Series,CBC"
     },
     {
-      "url": "https://bcovlive-a.akamaihd.net/753a1f2c951b4fb3914f30e1deb147d8/us-west-2/6057955906001/playlist.m3u8",
+      "url": "http://213.57.91.138:8000/play/a06p",
       "tvg_id": "CBCSofra.eg@SD",
       "tvg_logo": "https://i.imgur.com/YAdk2WR.png",
       "group_title": "Lifestyle,CBC"
@@ -1093,18 +985,6 @@
       "group_title": "Culture;Documentary,China"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/chinguittv/playlist.m3u8",
-      "tvg_id": "ChinguitTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/acUPRii.png",
-      "group_title": "General,Chinguit"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/alhayatcinema/playlist.m3u8",
-      "tvg_id": "Cima.eg@SD",
-      "tvg_logo": "https://i.ibb.co/p6SPr0Ym/Cima.png",
-      "group_title": "Movies,Cima"
-    },
-    {
       "url": "https://live.creacast.com/cna/smil:cna.smil/playlist.m3u8",
       "tvg_id": "CNA.dz@SD",
       "tvg_logo": "https://i.imgur.com/Ki3ySUE.png",
@@ -1129,12 +1009,6 @@
       "group_title": "Education;News,Dabanga"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/davatv/playlist.m3u8",
-      "tvg_id": "DavaTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/Kfmxg7v.png",
-      "group_title": "General,Dava"
-    },
-    {
       "url": "https://ghaasiflu.online/tarab/index.m3u8",
       "tvg_id": "DijlahTarab.iq@SD",
       "tvg_logo": "https://i.imgur.com/UJqDWVB.png",
@@ -1147,16 +1021,10 @@
       "group_title": "News,Dijlah"
     },
     {
-      "url": "https://bcovlive-a.akamaihd.net/ba3169004d40484b9ff29e194964c9e8/eu-west-1/6057955906001/playlist.m3u8",
+      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmc/playlist.m3u8",
       "tvg_id": "DMC.eg@SD",
       "tvg_logo": "https://i.imgur.com/iy70Xxr.png",
       "group_title": "General,DMC"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/dmcdrama/playlist.m3u8",
-      "tvg_id": "DMCDrama.eg@SD",
-      "tvg_logo": "https://i.imgur.com/OOXylJI.png",
-      "group_title": "Series,DMC"
     },
     {
       "url": "https://dmisdracta.cdn.mgmlcdn.com/events/smil:events.stream.smil/chunklist.m3u8",
@@ -1213,63 +1081,9 @@
       "group_title": "News,DW"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouknews/playlist.m3u8",
-      "tvg_id": "EchoroukNews.dz@SD",
-      "tvg_logo": "https://i.imgur.com/TNtjYcw.png",
-      "group_title": "News,Echorouk"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/echorouktv/playlist.m3u8",
-      "tvg_id": "EchoroukTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/33rf7KV.png",
-      "group_title": "General,Echorouk"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/egyptiantvhd/playlist.m3u8",
-      "tvg_id": "EgyptianTV.eg@SD",
-      "tvg_logo": "https://i.imgur.com/rrizXzM.png",
-      "group_title": "General,Egyptian"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/eldjazairn1/playlist.m3u8",
-      "tvg_id": "ElDjazairN1.dz@SD",
-      "tvg_logo": "https://i.imgur.com/jnuu5eN.png",
-      "group_title": "News,El"
-    },
-    {
       "url": "https://stream.wsla.top/play/1.m3u8",
       "tvg_id": "ElFadjerTV.dz@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/El_Fadjer_TV.png/512px-El_Fadjer_TV.png",
-      "group_title": "General,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elbiladtv/playlist.m3u8",
-      "tvg_id": "ElHayatTV.dz@SD",
-      "tvg_logo": "https://i.postimg.cc/yYZ5Cc6T/elhayattv.png",
-      "group_title": "General,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmahadratv/playlist.m3u8",
-      "tvg_id": "ElMahadra.mr@SD",
-      "tvg_logo": "https://i.postimg.cc/6pVmyKv2/elmahadra.png",
-      "group_title": "Religious,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/elmaqar/playlist.m3u8",
-      "tvg_id": "ElMaqar.us@SD",
-      "tvg_logo": "https://i.imgur.com/zZtY8cn.png",
-      "group_title": "Religious,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmedinatv/playlist.m3u8",
-      "tvg_id": "ElMedina.mr@SD",
-      "tvg_logo": "https://i.imgur.com/qFinuvv.png",
-      "group_title": "General,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/elmehwar/playlist.m3u8",
-      "tvg_id": "ElMehwarChannel.eg@SD",
-      "tvg_logo": "https://i.ibb.co/84t3yXTV/mehwar.png",
       "group_title": "General,El"
     },
     {
@@ -1285,22 +1099,10 @@
       "group_title": "Music,El"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/tunisianat/playlist.m3u8",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/tunisienationale/browser-dash/tunisienationale.mpd",
       "tvg_id": "ElWatania1.tn@SD",
       "tvg_logo": "https://i.imgur.com/gNr2V14.png",
       "group_title": "General,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119176/tunisianat2/playlist.m3u8",
-      "tvg_id": "ElWatania2.tn@SD",
-      "tvg_logo": "https://i.imgur.com/kgkrD3V.png",
-      "group_title": "General,El"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elheddaftv/playlist.m3u8",
-      "tvg_id": "ElHeddafTV.dz@SD",
-      "tvg_logo": "https://i.postimg.cc/K8hWGjRh/elheddaftv.png",
-      "group_title": "Sports,El-Heddaf"
     },
     {
       "url": "http://media3.smc-host.com:1935/elbesharagtv.com/gtv.smil/playlist.m3u8",
@@ -1309,64 +1111,10 @@
       "group_title": "Religious,Elbeshara"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/elhiwarettounsi/playlist.m3u8",
-      "tvg_id": "ElhiwarEttounsiTV.tn@SD",
-      "tvg_logo": "https://i.imgur.com/qYG1qLO.png",
-      "group_title": "General,Elhiwar"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elmourabitontv/playlist.m3u8",
-      "tvg_id": "ElmourabitonTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/O2Acspl.png",
-      "group_title": "General,Elmourabiton"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/elmouritania/playlist.m3u8",
-      "tvg_id": "Elmouritania.mr@SD",
-      "tvg_logo": "https://i.imgur.com/4tOijYj.png",
-      "group_title": "General,Elmouritania"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119051/elmouritania2/playlist.m3u8",
-      "tvg_id": "Elmouritania2.mr@SD",
-      "tvg_logo": "https://i.imgur.com/TARqO63.png",
-      "group_title": "General,Elmouritania"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/elwataniyatv/playlist.m3u8",
-      "tvg_id": "ElwataniyaTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/I8LYqan.png",
-      "group_title": "General,Elwataniya"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/ennahartv/playlist.m3u8",
-      "tvg_id": "EnnaharTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/C0TCA1s.png",
-      "group_title": "News,Ennahar"
-    },
-    {
-      "url": "https://mn-nl.mncdn.com/awraastv/awraastv_hd.smil/playlist.m3u8",
-      "tvg_id": "EreTV.fr@SD",
-      "tvg_logo": "https://i.imgur.com/utMKPpl.png",
-      "group_title": "Religious,Ère"
-    },
-    {
       "url": "https://jmc-live.ercdn.net/eritreatv/eritreatv.m3u8",
       "tvg_id": "ERiTV1.er@SD",
       "tvg_logo": "https://i.imgur.com/bTR0Huw.png",
       "group_title": "General,ERi-TV"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119196/aloula/playlist.m3u8",
-      "tvg_id": "ERTU1.eg@SD",
-      "tvg_logo": "https://i.imgur.com/uuIqiAy.png",
-      "group_title": "General,ERTU"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/cbcextranews/playlist.m3u8",
-      "tvg_id": "ExtraNews.eg@SD",
-      "tvg_logo": "https://i.imgur.com/9HREF7o.png",
-      "group_title": "News,Extra"
     },
     {
       "url": "https://shls-live-enc.edgenextcdn.net/out/v1/bba3ef00b71b470fa955d93a9ca8c277/index.m3u8",
@@ -1417,12 +1165,6 @@
       "group_title": "General,Future"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/ghimemtv/playlist.m3u8",
-      "tvg_id": "GhimemTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/TNIqFJT.png",
-      "group_title": "General,Ghimem"
-    },
-    {
       "url": "https://ncdn.telewebion.com/habib/live/playlist.m3u8",
       "tvg_id": "HabibTV.ir@SD",
       "tvg_logo": "https://i.ibb.co/spZRy7mg/habib.png",
@@ -1463,12 +1205,6 @@
       "tvg_id": "HalaTV.il@SD",
       "tvg_logo": "https://i.imgur.com/028M4Ew.png",
       "group_title": "General,Hala"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/hannibaltv/playlist.m3u8",
-      "tvg_id": "HannibalTV.tn@SD",
-      "tvg_logo": "https://i.postimg.cc/wTnCtHjg/hannibaltv.png",
-      "group_title": "General,Hannibal"
     },
     {
       "url": "https://raw.githubusercontent.com/ipstreet312/freeiptv/master/ressources/dzflix/helwa.m3u8",
@@ -1675,6 +1411,12 @@
       "group_title": "News,Kurdsat"
     },
     {
+      "url": "https://oppomu.serv00.net/maro7/malaayoune.php?m3u8",
+      "tvg_id": "LaayouneTV.ma@SD",
+      "tvg_logo": "https://www.snrt.ma/sites/default/files/2023-04/laayoune.png",
+      "group_title": "General,Laayoune"
+    },
+    {
       "url": "https://rotana.hibridcdn.net/rotananet/lbc_net-7Y83PP5adWixDF93/playlist.m3u8",
       "tvg_id": "LBC.sa@SD",
       "tvg_logo": "https://i.imgur.com/whyZXzW.png",
@@ -1683,34 +1425,10 @@
       "[Geo_blocked]\\r\\n#EXTVLCOPT:http-referrer": "https://rotana.net/"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120757/libyaalahrarhd/playlist.m3u8",
-      "tvg_id": "LibyaAlAhrarTV.qa@SD",
-      "tvg_logo": "https://i.imgur.com/xkQKVGi.png",
-      "group_title": "News,Libya"
-    },
-    {
       "url": "https://cdn-globecast.akamaized.net/live/eds/libya_al_watanya/hls_roku/index.m3u8",
       "tvg_id": "LibyaAlWataniya.ly@SD",
       "tvg_logo": "https://i.imgur.com/KSUny9D.jpeg",
       "group_title": "General,Libya"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyaalrasmia/playlist.m3u8",
-      "tvg_id": "LibyaAlrasmiaChannel.ly@SD",
-      "tvg_logo": "https://i.imgur.com/a0a1UyA.png",
-      "group_title": "General,Libya"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/libyaalmustaqbal/playlist.m3u8",
-      "tvg_id": "LibyaMostakbal.ly@SD",
-      "tvg_logo": "https://i.imgur.com/vNv6APA.png",
-      "group_title": "General,Libya"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/libyasport1hd/playlist.m3u8",
-      "tvg_id": "LibyaSportTV.ly@SD",
-      "tvg_logo": "https://i.imgur.com/8pPhlQr.png",
-      "group_title": "Sports,Libya"
     },
     {
       "url": "https://brightstar-arabic-pull-secure.akamaized.net/brightstararabic/stream.m3u8",
@@ -1887,13 +1605,13 @@
       "group_title": "Movies,MBC+"
     },
     {
-      "url": "https://streaming1.medi1tv.com/live/smil:medi1ar.smil/playlist.m3u8",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-arabic_g90v4ec/playlist_dvr.m3u8",
       "tvg_id": "Medi1TVArabic.ma@SD",
       "tvg_logo": "https://i.imgur.com/3YsZPY6.jpeg",
       "group_title": "News,Medi"
     },
     {
-      "url": "https://streaming1.medi1tv.com/live/smil:medi1tv.smil/playlist.m3u8",
+      "url": "https://cdn.live.easybroadcast.io/abr_corp/83_medi1tv-maghreb_jnbspmg/playlist_dvr.m3u8",
       "tvg_id": "Medi1TVMaghreb.ma@SD",
       "tvg_logo": "https://i.imgur.com/F5OFQsp.jpeg",
       "group_title": "News,Medi"
@@ -1911,12 +1629,6 @@
       "group_title": "Music,Melody"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120686/mesat2/playlist.m3u8",
-      "tvg_id": "MESat.eg@SD",
-      "tvg_logo": "https://i.imgur.com/Wq7HXtR.png",
-      "group_title": "Religious,MESat"
-    },
-    {
       "url": "https://miracle.stream.boxigy.com/hls/miracle1.m3u8",
       "tvg_id": "MiracleChannel.se@SD",
       "tvg_logo": "https://i.imgur.com/yrt7Rw9.png",
@@ -1927,18 +1639,6 @@
       "tvg_id": "MiracleTV.se@SD",
       "tvg_logo": "https://i.imgur.com/rc68GZJ.png",
       "group_title": "Religious,Miracle"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/misralzera3eya/playlist.m3u8",
-      "tvg_id": "MisrAlZeraya.eg@SD",
-      "tvg_logo": "https://i.imgur.com/hudbg2E.png",
-      "group_title": "Education,Misr"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/mix/playlist.m3u8",
-      "tvg_id": "MixHollywood.eg@SD",
-      "tvg_logo": "https://i.imgur.com/1ENdbZn.png",
-      "group_title": "Movies,Mix"
     },
     {
       "url": "https://d2ow8h651gs7dx.cloudfront.net/out/v1/371fb663da604e659a2fb99bf89d92d4/index.m3u8",
@@ -2051,18 +1751,6 @@
       "group_title": "Music,Nidae"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/nileculture/playlist.m3u8",
-      "tvg_id": "NileCulture.eg@SD",
-      "tvg_logo": "https://i.imgur.com/fcIuSiX.png",
-      "group_title": "Culture,Nile"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119198/alnilenews/playlist.m3u8",
-      "tvg_id": "NileNews.eg@SD",
-      "tvg_logo": "https://i.ibb.co/Kz0H3mLP/Nile-News.png",
-      "group_title": "News,Nile"
-    },
-    {
       "url": "https://nogoumtv.nrpstream.com/hls/stream.m3u8",
       "tvg_id": "NogoumFMTV.eg@SD",
       "tvg_logo": "https://i.imgur.com/krp3kgv.png",
@@ -2129,22 +1817,10 @@
       "group_title": "General,Oman"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/ondrama/playlist.m3u8",
-      "tvg_id": "OnDrama.eg@SD",
-      "tvg_logo": "https://i.imgur.com/qpaKDtL.png",
-      "group_title": "Series,On"
-    },
-    {
-      "url": "https://bcovlive-a.akamaihd.net/3dc60bab470f4c9fbf00408ecb7c3d7a/eu-west-1/6057955906001/playlist_dvr.m3u8",
+      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120977/onehd/playlist.m3u8",
       "tvg_id": "OnE.eg@SD",
       "tvg_logo": "https://i.imgur.com/EPln9yU.png",
       "group_title": "News,On"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/onetv/playlist.m3u8",
-      "tvg_id": "OneTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/wluVKm3.png",
-      "group_title": "Entertainment,One"
     },
     {
       "url": "https://hms.pfs.gdn/v1/broadcast/one/playlist.m3u8",
@@ -2157,12 +1833,6 @@
       "tvg_id": "OneFM.lb@SD",
       "tvg_logo": "https://imgur.com/O4DuR9G",
       "group_title": "Music,OneFM"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/ortc/playlist.m3u8",
-      "tvg_id": "ORTCTV.km@SD",
-      "tvg_logo": "https://i.imgur.com/G93088y.png",
-      "group_title": "General,ORTC"
     },
     {
       "url": "https://fl1002.bozztv.com/ga-otvlebanon/index.m3u8",
@@ -2431,7 +2101,7 @@
       "group_title": "General,Roya"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119687/rttodayarabic/playlist.m3u8",
+      "url": "https://rt-arb.rttv.com/dvr/rtarab/playlist.m3u8",
       "tvg_id": "RTArabic.ru@SD",
       "tvg_logo": "https://i.imgur.com/G8vGrn1.png",
       "group_title": "News,RT"
@@ -2441,18 +2111,6 @@
       "tvg_id": "RTD4.dj@SD",
       "tvg_logo": "https://i.imgur.com/CERPj3J.png",
       "group_title": "General,RTD"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbalad/playlist.m3u8",
-      "tvg_id": "SadaElbalad.eg@SD",
-      "tvg_logo": "https://i.imgur.com/vOKvPeK.png",
-      "group_title": "Undefined,Sada"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/sadaalbaladdrama/playlist.m3u8",
-      "tvg_id": "SadaElbaladDrama.eg@SD",
-      "tvg_logo": "https://i.imgur.com/3VLjZKc.png",
-      "group_title": "Series,Sada"
     },
     {
       "url": "https://live.relentlessinnovations.net:1936/sadaehaq/sadaehaq/playlist.m3u8",
@@ -2467,34 +2125,10 @@
       "group_title": "Religious,Safeer"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/sahara24/playlist.m3u8",
-      "tvg_id": "Sahara24.mr@HD",
-      "tvg_logo": "https://i.imgur.com/pnzWYwT.png",
-      "group_title": "News,Sahara"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/saheltv/playlist.m3u8",
-      "tvg_id": "SahelTV.mr@SD",
-      "tvg_logo": "https://i.imgur.com/vwsCer2.png",
-      "group_title": "General,Sahel"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salaamtv/playlist.m3u8",
-      "tvg_id": "SalamTV.ug@SD",
-      "tvg_logo": "https://i.imgur.com/XCNoTbE.png",
-      "group_title": "Religious,Salam"
-    },
-    {
       "url": "https://dmieigthvllta.cdn.mgmlcdn.com/samadubaiht/smil:samadubai.stream.smil/chunklist.m3u8",
       "tvg_id": "SamaDubai.ae@SD",
       "tvg_logo": "https://i.imgur.com/F5g3ymW.png",
       "group_title": "General,Sama"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/samiratv/playlist.m3u8",
-      "tvg_id": "SamiraTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/XZzINfq.png",
-      "group_title": "Cooking,Samira"
     },
     {
       "url": "https://svs.itworkscdn.net/sat7arabiclive/sat7arabic.smil/playlist_dvr.m3u8",
@@ -2527,7 +2161,7 @@
       "group_title": "General,SBC"
     },
     {
-      "url": "https://sensestv.com:4433/hls/sensesonline/index.m3u8",
+      "url": "http://31.14.41.69:8080/hls/sensesonline/index.m3u8",
       "tvg_id": "SensesTV.lb@SD",
       "tvg_logo": "https://i.imgur.com/hnTx8eK.png",
       "group_title": "Undefined,Senses"
@@ -2599,12 +2233,6 @@
       "group_title": "Culture,StoryChannel"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120913/sudanbasicedu/playlist.m3u8",
-      "tvg_id": "SudanEduTV.sd@SD",
-      "tvg_logo": "https://i.imgur.com/Zr3t7IX.png",
-      "group_title": "Education,Sudan"
-    },
-    {
       "url": "https://cdn-globecast.akamaized.net/live/eds/sudan_tv/hls_roku/index.m3u8",
       "tvg_id": "SudanTV.sd@SD",
       "tvg_logo": "https://i.imgur.com/XUPAYAA.png",
@@ -2623,10 +2251,10 @@
       "group_title": "Kids,Taha"
     },
     {
-      "url": "https://ap02.iqplay.tv:8082/iqb8002/t5kb86/playlist.m3u8",
-      "tvg_id": "TakbeerTV.uk@SD",
-      "tvg_logo": "https://i.postimg.cc/t4fnM9H1/takbeertv.png",
-      "group_title": "Undefined,Takbeer"
+      "url": "https://cdnet.alwaysdata.net/maro7/matamaz.php?m3u8",
+      "tvg_id": "TamazightTV.ma@SD",
+      "tvg_logo": "https://i.imgur.com/fm6S7we.png",
+      "group_title": "General,Tamazight"
     },
     {
       "url": "https://kilolink.pulsarstarsolutions.com/live/smil:tanasuhtv.smil/manifest.m3u8",
@@ -2653,52 +2281,10 @@
       "group_title": "General,Tele"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/telvzatv/playlist.m3u8",
-      "tvg_id": "TelvzaTV.tn@SD",
-      "tvg_logo": "https://i.imgur.com/3VTZ1QC.png",
-      "group_title": "General,Telvza"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/ten/playlist.m3u8",
-      "tvg_id": "TeN.eg@SD",
-      "tvg_logo": "https://i.imgur.com/gMnn6PD.png",
-      "group_title": "General,TeN"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/thewaytv/playlist.m3u8",
-      "tvg_id": "TheWayTV.us@SD",
-      "tvg_logo": "https://i.postimg.cc/qqgRppgK/thewaytv.png",
-      "group_title": "Religious,The"
-    },
-    {
-      "url": "http://1789-181.123091763.it.com/live/882115_.m3u8",
-      "tvg_id": "Thmanyah1.sa@SD",
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-      "group_title": "Sports,Thmanyah"
-    },
-    {
-      "url": "http://1789-181.123091763.it.com/live/785917_.m3u8",
-      "tvg_id": "Thmanyah2.sa@SD",
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-      "group_title": "Sports,Thmanyah"
-    },
-    {
-      "url": "http://1789-181.123091763.it.com/live/595243_.m3u8",
-      "tvg_id": "Thmanyah3.sa@SD",
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Thmanyah_Logo.svg/500px-Thmanyah_Logo.svg.png",
-      "group_title": "Sports,Thmanyah"
-    },
-    {
       "url": "https://tv-trtarabi.medya.trt.com.tr/master.m3u8",
       "tvg_id": "TRTArabi.tr@SD",
       "tvg_logo": "https://i.imgur.com/dEfI2M9.png",
       "group_title": "News,TRT"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120681/tunisna/playlist.m3u8",
-      "tvg_id": "TunisnaTV.tn@SD",
-      "tvg_logo": "https://i.imgur.com/EePmh2R.png",
-      "group_title": "General,Tunisna"
     },
     {
       "url": "https://alpha.tv.online.tm/hls/ch007.m3u8",
@@ -2707,52 +2293,10 @@
       "group_title": "General,Türkmenistan"
     },
     {
-      "url": "http://149.62.177.98:8000/play/a00i/index.m3u8",
-      "tvg_id": "TV1.dz@SD",
-      "tvg_logo": "https://i.imgur.com/F0DOrxX.png",
-      "group_title": "General,TV1"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/canalalgerie/playlist.m3u8",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
       "tvg_id": "TV2.dz@SD",
       "tvg_logo": "https://i.imgur.com/VEb631f.png",
       "group_title": "General,TV2"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01z/index.m3u8",
-      "tvg_id": "TV3.dz@SD",
-      "tvg_logo": "https://i.imgur.com/EQTGCbm.png",
-      "group_title": "News,TV3"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01u/index.m3u8",
-      "tvg_id": "TV5.dz@SD",
-      "tvg_logo": "https://i.imgur.com/zQr0SDM.png",
-      "group_title": "Religious,TV5"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01v/index.m3u8",
-      "tvg_id": "TV6.dz@SD",
-      "tvg_logo": "https://i.imgur.com/nu0CpJn.png",
-      "group_title": "Entertainment,TV6"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01w/index.m3u8",
-      "tvg_id": "TV7.dz@SD",
-      "tvg_logo": "https://i.imgur.com/40rR4hD.png",
-      "group_title": "Education,TV7"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01x/index.m3u8",
-      "tvg_id": "TV8.dz@SD",
-      "tvg_logo": "https://i.imgur.com/LlQcIWM.png",
-      "group_title": "Documentary,TV8"
-    },
-    {
-      "url": "http://149.62.177.98:8000/play/a01y/index.m3u8",
-      "tvg_id": "TV9.dz@SD",
-      "tvg_logo": "https://i.imgur.com/fGO0WUa.png",
-      "group_title": "Legislative,TV9"
     },
     {
       "url": "https://cdn.catiacast.video/abr/9436b5ab3c1171ab04a59af11951292f/playlist.m3u8",
@@ -2833,12 +2377,6 @@
       "tvg_id": "ZagrosTV.iq@SD",
       "tvg_logo": "https://i.imgur.com/9Mspf32.png",
       "group_title": "General,Zagros"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120683/zahratv/playlist.m3u8",
-      "tvg_id": "ZAHRATV.dz@SD",
-      "tvg_logo": "https://i.postimg.cc/BnDZ3V76/zahratv.png",
-      "group_title": "Cooking,ZAHRA"
     },
     {
       "url": "https://fl1002.bozztv.com/gf-zarintv/index.m3u8",

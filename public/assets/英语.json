@@ -1,5 +1,5 @@
 {
-  "count": 2493,
+  "count": 2507,
   "list": [
     {
       "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120684/1kzntv/playlist.m3u8",
@@ -84,12 +84,6 @@
       "tvg_id": "3StonesTV.ke@SD",
       "tvg_logo": "https://i.imgur.com/im3g7T2.png",
       "group_title": "General,3"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120682/algerian4kids/playlist.m3u8",
-      "tvg_id": "4KidsTV.dz@SD",
-      "tvg_logo": "https://i.imgur.com/507piHp.png",
-      "group_title": "Kids,4Kids"
     },
     {
       "url": "https://6prlive.akamaized.net/hls/live/2033806/6PR/index.m3u8",
@@ -230,7 +224,7 @@
       "group_title": "Auto,30A"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/651432fa98020f000878b407/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1c2b30-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2882b967-2b16-4fb7-ad00-ca48535d1336",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e925bc68d18a00077bb990/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78ce00-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d510e704-124c-497f-89cb-732e27dd295a",
       "tvg_id": "48Hours.us@SD",
       "tvg_logo": "https://i.imgur.com/Q7THHhX.png",
       "group_title": "Series,48"
@@ -876,7 +870,7 @@
       "group_title": "General,Adom"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63c9550df13a9b00078677a7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c78f511-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bd268c5-ffe8-41b9-87eb-00b21764a8c4",
+      "url": "https://d3rl6ns7c3ilda.cloudfront.net/scheduler/scheduleMaster/438.m3u8",
       "tvg_id": "AdventureSportsTV.us@SD",
       "tvg_logo": "https://i.imgur.com/9oyc88J.png",
       "group_title": "Sports,Adventure"
@@ -972,12 +966,6 @@
       "group_title": "News,AIT"
     },
     {
-      "url": "https://livetv.tvait.com:1935/hls/stream1.m3u8",
-      "tvg_id": "AITTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/xtrs7ej.png",
-      "group_title": "News,AIT"
-    },
-    {
       "url": "https://cdn1.logichost.in/ajmantv/live/playlist.m3u8",
       "tvg_id": "AjmanTV.ae@SD",
       "tvg_logo": "https://i.imgur.com/hVNIwgE.png",
@@ -1060,12 +1048,6 @@
       "tvg_id": "AllRealitybyWEtv.us@SD",
       "tvg_logo": "https://i.imgur.com/HZTz5HJ.png",
       "group_title": "Series,All"
-    },
-    {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119197/almagdtv/playlist.m3u8",
-      "tvg_id": "AlmagdTV.us@SD",
-      "tvg_logo": "https://i.postimg.cc/pdZrGNbg/almagdtv.png",
-      "group_title": "Religious,Almagd"
     },
     {
       "url": "https://597f64b67707a.streamlock.net/almagd.tv/almagd.smil/playlist.m3u8",
@@ -1278,12 +1260,6 @@
       "group_title": "Travel,Anytime"
     },
     {
-      "url": "http://doxatv.flashmediacast.com:1935/doxatv/livestream/playlist.m3u8",
-      "tvg_id": "Apple68TV.us@SD",
-      "tvg_logo": "https://i.imgur.com/xQct5s2.jpg",
-      "group_title": "Entertainment,Apple68"
-    },
-    {
       "url": "https://reflect-applevalley.cablecast.tv/live-3/live/live.m3u8",
       "tvg_id": "AppleValleyChannel180.us@SD",
       "tvg_logo": "https://i.imgur.com/3h9RkFA.png",
@@ -1374,6 +1350,12 @@
       "tvg_id": "ArubaTVPlus.aw@SD",
       "tvg_logo": "https://i.imgur.com/9s6LZJZ.png",
       "group_title": "Entertainment,ArubaTV"
+    },
+    {
+      "url": "https://stream.asiatvnet.com:8181/memfs/99ecd987-6f4a-405d-ae2d-cca35d4c2103.m3u8",
+      "tvg_id": "AsiaTV.lk@HD",
+      "tvg_logo": "https://saddlebrown-jellyfish-181801.hostingersite.com/ATV-logo.png",
+      "group_title": "Entertainment;Family;General,Asia"
     },
     {
       "url": "https://amg01201-cinedigmenterta-asiancrush-cineverse-x701o.amagi.tv/playlist/amg01201-cinedigmenterta-asiancrush-cineverse/playlist.m3u8",
@@ -2122,7 +2104,7 @@
       "group_title": "Sports,BEK"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1cc770-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6ec515b7-6205-4240-a742-81047fffc0a2",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63ecbedda9957100089ca486/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84ac5696-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=efdc0c45-3350-44ad-87e8-545561770707",
       "tvg_id": "BellatorMMA.us@SD",
       "tvg_logo": "https://i.imgur.com/VBKoLHk.png",
       "group_title": "Sports,Bellator"
@@ -3154,12 +3136,6 @@
       "group_title": "Religious,CDM"
     },
     {
-      "url": "https://asiakwa.com/ceejaytv/index.fmp4.m3u8",
-      "tvg_id": "CeeJayTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/YgLMMOr.png",
-      "group_title": "Entertainment,CeeJay"
-    },
-    {
       "url": "https://rpn.bozztv.com/gusa/gusa-celebrityscene/index.m3u8",
       "tvg_id": "CelebritySceneTV.us@SD",
       "tvg_logo": "https://i.imgur.com/n36jriB.png",
@@ -3604,7 +3580,7 @@
       "group_title": "Classic,Classic"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240c3f9189ce00087dd17e/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799157-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b0939c7d-0d09-49b1-a6ca-f5d30195d075",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f779951372da90007fd45e8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c280711-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=1c3ac7db-5cfe-4d39-aec3-70a684e58c38",
       "tvg_id": "Classica.us@SD",
       "tvg_logo": "https://i.imgur.com/bLjmQTU.png",
       "group_title": "Music,Classica"
@@ -3668,12 +3644,6 @@
       "tvg_id": "CMTvKenya.ke@SD",
       "tvg_logo": "https://i.imgur.com/ewHBokK.jpg",
       "group_title": "General,CMTv"
-    },
-    {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240d00dbdaaa00085bc5e2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c799158-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=591a5510-6f0c-4769-9f52-fb2ec0e8a3ea",
-      "tvg_id": "StingrayCMusic.ca@SD",
-      "tvg_logo": "https://i.imgur.com/3UppN5P.png",
-      "group_title": "Music,CMusic"
     },
     {
       "url": "https://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index.m3u8",
@@ -4122,7 +4092,7 @@
       "group_title": "Documentary,DangerTV"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1d3ca0-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=6893d11a-d794-409e-a9f2-0afb2b6100aa",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5e843d849109b700075d5ada/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=84acf2d2-4b92-11ef-aece-533610f1ea34&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2e3ab5c8-117b-416c-9ac1-fbde8843a568",
       "tvg_id": "DarkMatterTV.us@SD",
       "tvg_logo": "https://i.imgur.com/9K8T3ND.png",
       "group_title": "Series,Dark"
@@ -4308,6 +4278,12 @@
       "group_title": "Kids,Disney"
     },
     {
+      "url": "http://66.102.120.18:8000/play/a013/index.m3u8",
+      "tvg_id": "DisneyChannel.in@HD",
+      "tvg_logo": "https://i.postimg.cc/854KwmH1/disneychannel.png",
+      "group_title": "Kids,Disney"
+    },
+    {
       "url": "http://116.90.120.149:8000/play/a0e9/index.m3u8",
       "tvg_id": "DisneyInternationalHD.in@SD",
       "tvg_logo": "https://i.imgur.com/JkGvrc6.png",
@@ -4348,12 +4324,6 @@
       "tvg_id": "Diva.za@SD",
       "tvg_logo": "https://i.imgur.com/U9wMnQ0.png",
       "group_title": "Lifestyle,Diva"
-    },
-    {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240ccfaa2d690008dc4406/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a0682-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=959d0b22-4af5-4741-8264-1da92550e8c1",
-      "tvg_id": "StingrayDJAZZ.ca@SD",
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
-      "group_title": "Music,Djazz"
     },
     {
       "url": "https://cdn-live.dltv.ac.th/dltv01.m3u8",
@@ -4638,6 +4608,12 @@
       "group_title": "Sports,Egg"
     },
     {
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965",
+      "tvg_id": "ElConflictoTV.us@SD",
+      "tvg_logo": "https://i.imgur.com/ANfci17.png",
+      "group_title": "Undefined,El"
+    },
+    {
       "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=1544",
       "tvg_id": "ElRey.us@SD",
       "tvg_logo": "https://i.imgur.com/u8hbbij.png",
@@ -4894,7 +4870,7 @@
       "group_title": "Music,Fame95"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e920403bd6940007fb68b8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7a2d94-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d53010fa-6841-4947-a218-d0d4d4f52c95",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5f77939a630f530007dde654/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca60-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=2d96a4ae-0762-4da9-b4eb-3198467ed4a1",
       "tvg_id": "FamilyTies.us@SD",
       "tvg_logo": "https://i.imgur.com/WJEkKCb.png",
       "group_title": "Series,Family"
@@ -4915,6 +4891,66 @@
       "url": "https://fl1.moveonjoy.com/PAC_12/index.m3u8",
       "tvg_id": "FanDuelSportsNetwork.us@HD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/FanDuel_Sports_Network_logo.svg/330px-FanDuel_Sports_Network_logo.svg.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31003/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkDetroit.us@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/b/b2/FanDuel_Sports_Network_Detroit_logo.svg",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31004/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkDetroitExtra.us@SD",
+      "tvg_logo": "https://i.imgur.com/FXw3v4u.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31005/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkFlorida.us@SD",
+      "tvg_logo": "https://i.imgur.com/V1XSgDr.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31006/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkFloridaPlus.us@SD",
+      "tvg_logo": "https://i.imgur.com/jNfU9hF.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31017/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkNorth.us@SD",
+      "tvg_logo": "https://i.imgur.com/VCy962a.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31019/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkOhio.us@SD",
+      "tvg_logo": "https://i.imgur.com/dcNrFyg.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31030/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkOhioCleveland.us@SD",
+      "tvg_logo": "https://i.imgur.com/7SLneBF.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31034/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkSoCal.us@SD",
+      "tvg_logo": "",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31035/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkSoutheast.us@SD",
+      "tvg_logo": "https://i.imgur.com/BUmngwB.png",
+      "group_title": "Sports,FanDuel"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/31041/index.m3u8",
+      "tvg_id": "FanDuelSportsNetworkSun.us@SD",
+      "tvg_logo": "https://i.imgur.com/TvrHLaH.png",
       "group_title": "Sports,FanDuel"
     },
     {
@@ -5015,6 +5051,12 @@
       "tvg_id": "FidoTV.us@SD",
       "tvg_logo": "https://i.imgur.com/p13E4cf.png",
       "group_title": "Entertainment,Fido"
+    },
+    {
+      "url": "https://a62dad94.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWV1X0ZJRkFQbHVzRW5nbGlzaF9ITFM/playlist.m3u8",
+      "tvg_id": "FIFAPlus.uk@English",
+      "tvg_logo": "https://i.imgur.com/l5iax42.png",
+      "group_title": "Sports,FIFA+"
     },
     {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5812b0f2237a6ff45d16c3f9/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c28ca64-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=5722f4bc-fbe1-409f-ad8f-4559e5ebda2f",
@@ -5618,22 +5660,10 @@
       "group_title": "Entertainment,Gh"
     },
     {
-      "url": "https://stream-server9-jupiter.muxlive.com/hls/ghlifetv/index.m3u8",
-      "tvg_id": "GHLifeTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/wECsJEU.png",
-      "group_title": "General,GHLife"
-    },
-    {
       "url": "https://amg00353-amg00353c30-samsung-au-3440.playouts.now.amagi.tv/playlist.m3u8",
       "tvg_id": "GhostHunters.us@UK",
       "tvg_logo": "https://i.imgur.com/KdBr6rG.png",
       "group_title": "Series,Ghost"
-    },
-    {
-      "url": "http://37.48.120.77:8080/hls/ghtvonline.m3u8",
-      "tvg_id": "GHtvHolland.nl@SD",
-      "tvg_logo": "https://i.imgur.com/hOGS5LL.png",
-      "group_title": "General,GHtv"
     },
     {
       "url": "https://livestream.telvue.com/cmap1/f7b44cfafd5c52223d5498196c8a2e7b.sdp/playlist.m3u8",
@@ -5670,6 +5700,12 @@
       "tvg_id": "GlendaleTV.us@SD",
       "tvg_logo": "https://i.imgur.com/akbtQ33.png",
       "group_title": "Legislative,Glendale"
+    },
+    {
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/glewedtv-spanish/master.m3u8",
+      "tvg_id": "GlewedTV.us@SD",
+      "tvg_logo": "https://i.imgur.com/ppM9hQs.png",
+      "group_title": "General,Glewed"
     },
     {
       "url": "http://liveen24-manminglobal3.ktcdn.co.kr/liveen24/gcnus_1300k.stream/playlist.m3u8",
@@ -6018,12 +6054,6 @@
       "tvg_id": "HauntTV.us@SD",
       "tvg_logo": "https://yt3.googleusercontent.com/ytc/AIdro_kFORSMlXKT0V9fBpkp5TS7VbpwlNC6XbfZxrSSWUt1UA",
       "group_title": "Entertainment,Haunt"
-    },
-    {
-      "url": "https://webstreaming-3.viewmedia.tv/web_041/Stream/playlist.m3u8",
-      "tvg_id": "HealingJesusTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/ZZryVU9.png",
-      "group_title": "Religious,Healing"
     },
     {
       "url": "https://hls-live-media-gc.cdn01.net/mpegts/232076_1278943/k7NorBrWxVGqpF2GcaB7Ow/1760757747/media_mpegts_0.m3u8",
@@ -6652,12 +6682,6 @@
       "group_title": "Series,Jersey"
     },
     {
-      "url": "https://5a1178b42cc03.streamlock.net/jesustemple/jesustemple/playlist.m3u8",
-      "tvg_id": "TempleTV.ng@SD",
-      "tvg_logo": "https://i.imgur.com/qy9Mutu.png",
-      "group_title": "Undefined,Jesus"
-    },
-    {
       "url": "https://lo2-1.gemporia.com/abrjewellerymaker/smil:livestream.smil/playlist.m3u8",
       "tvg_id": "JewelleryMaker.uk@SD",
       "tvg_logo": "https://i.imgur.com/O7SdkBh.png",
@@ -6682,21 +6706,6 @@
       "group_title": "Culture;Religious,Jewish"
     },
     {
-      "url": "https://saruman1.tharen.cfd/jimy/usergenq3n0lz7kr.m3u8",
-      "tvg_id": "JimJam.ro@SD",
-      "tvg_logo": "https://i.imgur.com/ODhkYyx.png",
-      "group_title": "Kids",
-      "http_referrer": "https://canale-tv.com/",
-      "http_user-agent": "Mozilla/5.0",
-      "(576p)\\r\\n#EXTVLCOPT:http_referrer": "https://canale-tv.com/#EXTVLCOPT:http-user-agent"
-    },
-    {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64ddcf8e9c1e390008349fc8/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7ac9d4-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ff0b5333-a2df-4153-b8dd-a021884c8085",
-      "tvg_id": "JohnnyCarsonTV.us@SD",
-      "tvg_logo": "https://i.imgur.com/KBTqpJ7.png",
-      "group_title": "Series,Johnny"
-    },
-    {
       "url": "https://livecdn.live247stream.com/joomusic/tv/playlist.m3u8",
       "tvg_id": "JooMusic.pk@SD",
       "tvg_logo": "https://i.imgur.com/KHuKQQL.png",
@@ -6715,13 +6724,13 @@
       "group_title": "Travel,Journy"
     },
     {
-      "url": "http://69.64.57.208/joynews/playlist.m3u8",
+      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2120427/joynews/playlist.m3u8",
       "tvg_id": "JoyNews.gh@SD",
       "tvg_logo": "https://i.imgur.com/kGuMNmR.png",
       "group_title": "News,Joy"
     },
     {
-      "url": "http://69.64.57.208/joyprime/playlist.m3u8",
+      "url": "https://g2qd3exjy7an-hls-live.5centscdn.com/joyprim/ghanaweb.stream/playlist.m3u8",
       "tvg_id": "JoyPrime.gh@SD",
       "tvg_logo": "https://i.imgur.com/svxV4gJ.png",
       "group_title": "General,Joy"
@@ -7063,6 +7072,12 @@
       "group_title": "Sports,Kozoom"
     },
     {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-arizonasfamily-vizious/playlist.m3u8",
+      "tvg_id": "KPHODT1.us@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
+      "group_title": "General,KPHO-DT1"
+    },
+    {
       "url": "https://cvtv.cvalley.net/hls/KPXEION/KPXEION.m3u8",
       "tvg_id": "KPXEDT1.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/Ion_logo.svg/512px-Ion_logo.svg.png",
@@ -7121,6 +7136,12 @@
       "tvg_id": "KSBYDT1.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/NBC_logo_2022_%28vertical%29.svg/512px-NBC_logo_2022_%28vertical%29.svg.png",
       "group_title": "General,KSBY"
+    },
+    {
+      "url": "https://stream-losangeles.scientology.org/master.m3u8",
+      "tvg_id": "KSCNDT1.us@SD",
+      "tvg_logo": "https://i.imgur.com/HFmkjiR.png",
+      "group_title": "Undefined,KSCN-DT1"
     },
     {
       "url": "https://content.uplynk.com/channel/50d0fa1b042945a3a4f550f9b8412c83.m3u8",
@@ -7713,7 +7734,7 @@
       "group_title": "Religious,LoveworldSAT"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/63b5964d1bdba1000712521f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7af0e6-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=ceff1aa0-cebb-4159-99d2-7b38b17807a8",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60f74ba51c82ac000776c669/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c29b4c3-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=929f711f-6565-41d9-84a9-9f2c83d020e5",
       "tvg_id": "Lupinthe3rd.us@SD",
       "tvg_logo": "https://i.imgur.com/Wopu3y9.png",
       "group_title": "Animation,Lupin"
@@ -7723,12 +7744,6 @@
       "tvg_id": "LuxeTV.lu@SD",
       "tvg_logo": "https://i.imgur.com/24ehonx.png",
       "group_title": "Lifestyle,Luxe"
-    },
-    {
-      "url": "https://tv.localstreamgh.com/MabeshTV/index.m3u8",
-      "tvg_id": "MabeshTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/Y2ATesY.png",
-      "group_title": "Religious,Mabesh"
     },
     {
       "url": "https://rpn.bozztv.com/gusa/gusa-mwg/index.m3u8",
@@ -8085,12 +8100,6 @@
       "group_title": "Series,Midsomer"
     },
     {
-      "url": "http://mightytv.srfms.com:1935/mightytv/livestream/playlist.m3u8",
-      "tvg_id": "MightyTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/6gCKLRw.png",
-      "group_title": "Music,Mighty"
-    },
-    {
       "url": "https://fl1.moveonjoy.com/Military_History/index.m3u8",
       "tvg_id": "MilitaryHistory.us@SD",
       "tvg_logo": "https://i.imgur.com/S1SnpoA.png",
@@ -8217,12 +8226,6 @@
       "group_title": "Religious,MOGPA"
     },
     {
-      "url": "https://flus.moinestifm.ro/ro.moinesti/index.m3u8",
-      "tvg_id": "MoinestiTV.ro@SD",
-      "tvg_logo": "https://i.imgur.com/MjS7LCr.png",
-      "group_title": "Music,Moinesti"
-    },
-    {
       "url": "https://castus-vod-dev.s3.amazonaws.com/vod_clients/monroe/live/ch1/video.m3u8",
       "tvg_id": "MonroeCountyTV.us@SD",
       "tvg_logo": "https://i.imgur.com/YJfzdSu.png",
@@ -8307,7 +8310,7 @@
       "group_title": "Undefined,MotorTrend"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6093f2ae4dd5ab0007d1ff9d/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=1b1e7523-4b81-11ef-a8ac-e146e4e7be02&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3105f589-5bf9-41ef-8229-51bdf3abb1d2",
+      "url": "https://stream.ads.ottera.tv/playlist.m3u8?network_id=535",
       "tvg_id": "Motorvision.de@SD",
       "tvg_logo": "https://i.imgur.com/v4kj8pI.png",
       "group_title": "Auto,Motorvision"
@@ -8427,7 +8430,7 @@
       "group_title": "Religious,MTA8"
     },
     {
-      "url": "https://bozztv.com/36bay2/mtavariarxi/playlist.m3u8",
+      "url": "https://live20.bozztv.com/dvrfl05/gin-mtavariarxi/index.m3u8",
       "tvg_id": "MtavariArkhi.ge@SD",
       "tvg_logo": "https://i.imgur.com/tLtGnJW.png",
       "group_title": "General,Mtavari"
@@ -8749,12 +8752,6 @@
       "tvg_id": "NaturalTV.tr@SD",
       "tvg_logo": "https://i.imgur.com/rfcJ674.png",
       "group_title": "Culture,Natural"
-    },
-    {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca",
-      "tvg_id": "StingrayNaturescape.ca@SD",
-      "tvg_logo": "https://i.imgur.com/882kd90.png",
-      "group_title": "Music,Naturescape"
     },
     {
       "url": "https://a-cdn.klowdtv.com/live2/nautical_720p/playlist.m3u8",
@@ -9312,6 +9309,36 @@
       "url": "https://nhl-firetv.amagi.tv/playlist.m3u8",
       "tvg_id": "NHLNetwork.us@SD",
       "tvg_logo": "https://i.imgur.com/UNZ8bef.png",
+      "group_title": "Sports,NHL"
+    },
+    {
+      "url": "http://fl1.moveonjoy.com/NHL_12/index.m3u8",
+      "tvg_id": "NHLCenterIce12.us@SD",
+      "tvg_logo": "https://i.imgur.com/pBKZZ8z.png",
+      "group_title": "Sports,NHL"
+    },
+    {
+      "url": "http://fl1.moveonjoy.com/NHL_13/index.m3u8",
+      "tvg_id": "NHLCenterIce13.us@SD",
+      "tvg_logo": "https://i.imgur.com/pBKZZ8z.png",
+      "group_title": "Sports,NHL"
+    },
+    {
+      "url": "http://fl1.moveonjoy.com/NHL_14/index.m3u8",
+      "tvg_id": "NHLCenterIce14.us@SD",
+      "tvg_logo": "https://i.imgur.com/pBKZZ8z.png",
+      "group_title": "Sports,NHL"
+    },
+    {
+      "url": "http://fl1.moveonjoy.com/NHL_1/index.m3u8",
+      "tvg_id": "NHLCentreIce1.ca@SD",
+      "tvg_logo": "https://i.imgur.com/pBKZZ8z.png",
+      "group_title": "Sports,NHL"
+    },
+    {
+      "url": "http://fl1.moveonjoy.com/NHL_4/index.m3u8",
+      "tvg_id": "NHLCentreIce4.ca@SD",
+      "tvg_logo": "https://i.imgur.com/pBKZZ8z.png",
       "group_title": "Sports,NHL"
     },
     {
@@ -9949,12 +9976,6 @@
       "group_title": "Entertainment,Oxygen"
     },
     {
-      "url": "https://stream.ecable.tv/oyerepa/tracks-v1a1/mono.m3u8",
-      "tvg_id": "OyerepaTV.gh@SD",
-      "tvg_logo": "https://i.imgur.com/dVEUXY0.png",
-      "group_title": "General,Oyerepa"
-    },
-    {
       "url": "https://pac12-sportstribal.amagi.tv/playlist.m3u8",
       "tvg_id": "Pac12Insider.us@SD",
       "tvg_logo": "https://i.imgur.com/736QREy.png",
@@ -10333,12 +10354,6 @@
       "group_title": "Comedy,Pluto"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e927ebc2db99000787c00a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d25-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=3681bac2-c906-4f96-a6ce-650e92a5ab2d",
-      "tvg_id": "PlutoTVCourtroom.us@SD",
-      "tvg_logo": "https://i.imgur.com/4a8mG7P.png",
-      "group_title": "Entertainment,Pluto"
-    },
-    {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92708a7ce600007b2676a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b8d26-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=59a15527-cb90-4bf4-90ab-ec456c5d2df2",
       "tvg_id": "PlutoTVCrimeDrama.us@SD",
       "tvg_logo": "https://i.imgur.com/9j1njE3.png",
@@ -10561,10 +10576,10 @@
       "group_title": "News,PNN"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/635656ed26e11400077add0f/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7bb436-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=4bbef974-a7b4-4128-b8bb-80945ad9a81c",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5dae0a40e8ee0d000975e99b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2b6273-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=298d60df-b4bb-48e1-8d15-ae444466d9d9",
       "tvg_id": "pocketwatch.us@SD",
       "tvg_logo": "https://i.imgur.com/T0V90Lz.png",
-      "group_title": "Kids,Pocket.watch"
+      "group_title": "Kids,pocket.watch"
     },
     {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/6675c7868768aa0008d7f1c7/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=d3595b5a-7553-4a6b-b9dd-c30951631395&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=bc32713f-dc5f-45d9-8650-2b4e69506b23",
@@ -11373,12 +11388,6 @@
       "group_title": "Religious,Safeer"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119694/salaamtv/playlist.m3u8",
-      "tvg_id": "SalamTV.ug@SD",
-      "tvg_logo": "https://i.imgur.com/XCNoTbE.png",
-      "group_title": "Religious,Salam"
-    },
-    {
       "url": "https://live.salttelevision.com/app/stream/abr.m3u8",
       "tvg_id": "SaltTV.ug@SD",
       "tvg_logo": "https://i.imgur.com/AK9nE6Y.png",
@@ -11879,10 +11888,46 @@
       "group_title": "Sports,Sportsman"
     },
     {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6477/index.m3u8",
+      "tvg_id": "Sportsnet.ca@East",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",
+      "group_title": "Sports,Sportsnet"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6462/index.m3u8",
+      "tvg_id": "Sportsnet360.ca@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/b/bb/SN_360_logo.svg/512px-SN_360_logo.svg.png",
+      "group_title": "Sports,Sportsnet"
+    },
+    {
       "url": "https://fl1.moveonjoy.com/SNY/index.m3u8",
       "tvg_id": "SportsNetNewYork.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/SNY_logo.svg/512px-SNY_logo.svg.png",
       "group_title": "Sports,SportsNet"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6438/index.m3u8",
+      "tvg_id": "SportsnetOne.ca@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/en/thumb/f/fc/Sportsnetone2011.svg/512px-Sportsnetone2011.svg.png",
+      "group_title": "Sports,Sportsnet"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6439/index.m3u8",
+      "tvg_id": "Sportsnet.ca@Ontario",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",
+      "group_title": "Sports,Sportsnet"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6479/index.m3u8",
+      "tvg_id": "Sportsnet.ca@Pacific",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",
+      "group_title": "Sports,Sportsnet"
+    },
+    {
+      "url": "http://e14921eb.amazzin.pw/iptv/PBPM6BS9YL9N39/6478/index.m3u8",
+      "tvg_id": "Sportsnet.ca@West",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Logo_Sportsnet_2011.svg/512px-Logo_Sportsnet_2011.svg.png",
+      "group_title": "Sports,Sportsnet"
     },
     {
       "url": "https://viamotionhsi.netplus.ch/live/eds/srfinfo/browser-HLS8/srfinfo.m3u8",
@@ -11981,7 +12026,7 @@
       "group_title": "Sports,Star"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/643ea768e0789d0008548886/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c2962-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d491b1b5-034d-44e2-b45a-989c3dcd68d8",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5efbd39f8c4ce900075d7698/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2bd7a1-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d71afd5b-b301-46b0-bf30-b8f1833c66d5",
       "tvg_id": "StarTrek.us@SD",
       "tvg_logo": "https://i.imgur.com/8cvXYiT.png",
       "group_title": "Series,Star"
@@ -12029,6 +12074,18 @@
       "group_title": "Music,Stingray"
     },
     {
+      "url": "https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8",
+      "tvg_id": "StingrayCMusic.ca@SD",
+      "tvg_logo": "https://i.imgur.com/3UppN5P.png",
+      "group_title": "Music,Stingray"
+    },
+    {
+      "url": "https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8",
+      "tvg_id": "StingrayDJAZZ.ca@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Stingray_Djazz.png/512px-Stingray_Djazz.png",
+      "group_title": "Music,Stingray"
+    },
+    {
       "url": "https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8",
       "tvg_id": "StingrayEasyListening.ca@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/Stingray_Music_logo.svg/512px-Stingray_Music_logo.svg.png",
@@ -12062,6 +12119,12 @@
       "url": "https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8",
       "tvg_id": "StingrayKaraoke.ca@SD",
       "tvg_logo": "https://i.imgur.com/9TLTLS3.png",
+      "group_title": "Music,Stingray"
+    },
+    {
+      "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+      "tvg_id": "StingrayNaturescape.ca@SD",
+      "tvg_logo": "https://i.imgur.com/882kd90.png",
       "group_title": "Music,Stingray"
     },
     {
@@ -12591,12 +12654,6 @@
       "group_title": "Series,The"
     },
     {
-      "url": "https://asiakwa.com/thebasetv/index.m3u8",
-      "tvg_id": "TheBaseGospel.gh@SD",
-      "tvg_logo": "https://i.imgur.com/0moSF3t.png",
-      "group_title": "Music,The"
-    },
-    {
       "url": "https://stream.castr.com/67320cbb6b3df3c4694581ce/live_a80e55b0a03411efa6eeb56ae1378053/index.m3u8",
       "tvg_id": "TheBeachChannel.us@SD",
       "tvg_logo": "https://i.imgur.com/KShaqAp.png",
@@ -12605,13 +12662,13 @@
       "24/7]\\r\\n#EXTVLCOPT:http_referrer": "https://player.castr.com/#KODIPROP:inputstream.adaptive.stream_headers"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64b82075e4391c0008c3c1fe/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5071-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7b163328-7998-4aee-803b-e7321d13cbf9",
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01201-cinedigmenterta-bobross-cineverse/playlist.m3u8",
       "tvg_id": "TheBobRossChannel.us@SD",
       "tvg_logo": "https://i.imgur.com/gFHKCbZ.png",
       "group_title": "Series,The"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e91c8933682c000754fc45/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5072-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=7d85b7eb-3d33-422e-9445-9473e1d0d141",
+      "url": "https://aegis-cloudfront-1.tubi.video/e17b8de5-e8b7-415a-8377-5707a2f9a727/playlist.m3u8",
       "tvg_id": "TheCarolBurnettShow.us@SD",
       "tvg_logo": "https://i.imgur.com/1a03FlX.png",
       "group_title": "Classic,The"
@@ -12681,6 +12738,12 @@
       "tvg_id": "TheJamieOliverChannel.us@SD",
       "tvg_logo": "https://i.imgur.com/4v93XUB.png",
       "group_title": "Lifestyle,The"
+    },
+    {
+      "url": "https://aegis-cloudfront-1.tubi.video/475550ae-8708-46a5-a7c3-54acb3d91480/playlist.m3u8",
+      "tvg_id": "JohnnyCarsonTV.us@SD",
+      "tvg_logo": "https://i.imgur.com/KBTqpJ7.png",
+      "group_title": "Series,The"
     },
     {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/62e92e536f28870007fa9b3a/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c5077-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=d7542660-a0a4-415c-a70a-fae3199e0e29",
@@ -12815,12 +12878,6 @@
       "group_title": "Series,The"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/10010/dvr/hls/thewaytv/playlist.m3u8",
-      "tvg_id": "TheWayTV.us@SD",
-      "tvg_logo": "https://i.postimg.cc/qqgRppgK/thewaytv.png",
-      "group_title": "Religious,The"
-    },
-    {
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/627ae4fcf001df00074d6e5b/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd5-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=df13c2c6-8880-4f3d-b7b6-a18acfcb3069",
       "tvg_id": "TheWeatherChannelenEspanol.us@SD",
       "tvg_logo": "https://i.imgur.com/afs44R2.png",
@@ -12851,7 +12908,7 @@
       "group_title": "Religious,theDove"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/65a8054907e03a0008926323/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7c7784-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=b009a45e-cfd3-41fc-ba90-2b4d44bcb950",
+      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d51e791b7dba3b2ae990ab2/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2c4cd7-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=9483c3b5-d057-42f4-8da0-57c5bf2344ab",
       "tvg_id": "ThisOldHouse.us@SD",
       "tvg_logo": "https://i.imgur.com/nrVLyE6.png",
       "group_title": "Series,This"
@@ -13235,7 +13292,7 @@
       "group_title": "General,TV1"
     },
     {
-      "url": "https://uvotv-aniview.global.ssl.fastly.net/hls/live/2119194/canalalgerie/playlist.m3u8",
+      "url": "https://viamotionhsi.netplus.ch/live/eds/canalalgerie/browser-dash/canalalgerie.mpd",
       "tvg_id": "TV2.dz@SD",
       "tvg_logo": "https://i.imgur.com/VEb631f.png",
       "group_title": "General,TV2"
@@ -14261,6 +14318,12 @@
       "group_title": "News,WFTS-DT1"
     },
     {
+      "url": "https://stream-tampa.scientology.org/master.m3u8",
+      "tvg_id": "WFTTDT1.us@SD",
+      "tvg_logo": "https://i.imgur.com/HFmkjiR.png",
+      "group_title": "Undefined,WFTT-DT1"
+    },
+    {
       "url": "https://content.uplynk.com/channel/8975f81e6efd4e609873c3e8e25c7756.m3u8",
       "tvg_id": "WFTXDT1.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
@@ -14555,6 +14618,12 @@
       "group_title": "Undefined,WOFL-DT1"
     },
     {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-cleveland19newsplus-vizious/playlist.m3u8",
+      "tvg_id": "WOIODT1.us@SD",
+      "tvg_logo": "https://i.imgur.com/EoL0pgf.png",
+      "group_title": "Undefined,WOIO-DT1"
+    },
+    {
       "url": "https://5a5c57d042315.streamlock.net/live11704001/ngrp:government_all/playlist.m3u8",
       "tvg_id": "WLCT96.us@SD",
       "tvg_logo": "https://i.imgur.com/ooby0ka.png",
@@ -14675,6 +14744,12 @@
       "group_title": "Undefined,WSB-DT1"
     },
     {
+      "url": "https://mdstrm.com/live-stream-playlist/67ed74e8af482ba71d47fd7b.m3u8",
+      "tvg_id": "WSBSDT1.us@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/1/18/MegaTV.png",
+      "group_title": "Undefined,WSBS-DT1"
+    },
+    {
       "url": "https://cdn-ue1-prod.tsv2.amagi.tv/linear/amg00327-coxmediagroup-wsocbreaking-ono/playlist.m3u8",
       "tvg_id": "WSOCDT1.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/2/27/WWAY_logo.png",
@@ -14751,6 +14826,12 @@
       "tvg_id": "WWORDT1.us@SD",
       "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/MyNetworkTV_2D_Logo.svg/512px-MyNetworkTV_2D_Logo.svg.png",
       "group_title": "Undefined,WWOR-DT1"
+    },
+    {
+      "url": "https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg00312-graytelevisioni-wxixfox19news-vizious/playlist.m3u8",
+      "tvg_id": "WXIXDT1.us@SD",
+      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Fox_Networks_Group_US_logo.svg/512px-Fox_Networks_Group_US_logo.svg.png",
+      "group_title": "Undefined,WXIX-DT1"
     },
     {
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wxtv/wxtv.isml/hls/wxtv.m3u8",

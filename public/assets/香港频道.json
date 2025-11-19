@@ -1,8 +1,8 @@
 {
-  "count": 161,
+  "count": 160,
   "list": [
     {
-      "url": "https://stream1.freetv.fun/101a5ed81b2c826d80c51a8f2de5b95047c66c974e6a68d55f7ada8de6c09ef9.m3u8",
+      "url": "https://stream1.freetv.fun/c879816a86f4bb3fd2f95098e7ca8bf0eb998d9cf641b4193f606bf9b8c28934.m3u8",
       "tvg_name": "ATV",
       "tvg_id": "",
       "tvg_country": "香港",
@@ -20,31 +20,13 @@
       "group_title": "綜合,[BD]tvri"
     },
     {
-      "url": "https://stream1.freetv.fun/8cac8c4133ee1db3d71c9227e5fc03a695849902e8f338ee04eddc7212660bf6.m3u8",
-      "tvg_name": "AXN(HK)",
-      "tvg_id": "368365",
-      "tvg_country": "香港",
-      "tvg_language": "英文",
-      "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125012136947792_49.png",
-      "group_title": "電影,[HD]axn"
-    },
-    {
-      "url": "https://stream1.freetv.fun/f740aed2a8a2b44304b2d5fbc52945df9d9c5b6264690a08d84969a303d374a4.m3u8",
-      "tvg_name": "AXN(HK)",
-      "tvg_id": "368365",
-      "tvg_country": "香港",
-      "tvg_language": "英文",
-      "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125012136947792_49.png",
-      "group_title": "電影,[HD]axn"
-    },
-    {
-      "url": "https://stream1.freetv.fun/bac2107c8204c290efc6c6224146418641af787e31995157d64d567afbc00279.ctv",
+      "url": "https://stream1.freetv.fun/f7e07c8db204f39fcb199fab1adf84e6a1047928216d45499d917b490377618d.m3u8",
       "tvg_name": "Animax(HK)",
       "tvg_id": "368333",
       "tvg_country": "香港",
       "tvg_language": "日語",
       "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png",
-      "group_title": "兒童,[BD]cctv-9纪录[geo-blocked]"
+      "group_title": "兒童,[SD]animax"
     },
     {
       "url": "https://stream1.freetv.fun/a07acecf57e19b302cbfd1bcbc128969b7015d1048157424e28a2d912e22a7fb.m3u8",
@@ -54,24 +36,6 @@
       "tvg_language": "日語",
       "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png",
       "group_title": "兒童,[HD]cctv-4"
-    },
-    {
-      "url": "https://stream1.freetv.fun/f85e44b570ac7eab9970fc354595e1f75eaa5f942fa1608e9156891d3cd493b5.ctv",
-      "tvg_name": "Animax(HK)",
-      "tvg_id": "368333",
-      "tvg_country": "香港",
-      "tvg_language": "日語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png",
-      "group_title": "兒童,[SD]animax[geo-blocked]"
-    },
-    {
-      "url": "https://stream1.freetv.fun/f7e07c8db204f39fcb199fab1adf84e6a1047928216d45499d917b490377618d.m3u8",
-      "tvg_name": "Animax(HK)",
-      "tvg_id": "368333",
-      "tvg_country": "香港",
-      "tvg_language": "日語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2025/01/25/large/20250125013114796464_35.png",
-      "group_title": "兒童,[SD]animax"
     },
     {
       "url": "https://stream1.freetv.fun/cfb0e1d702176706da0e8d1c877f4844b5fbf27fb9a1fb8eab728a656f879061.m3u8",
@@ -110,15 +74,6 @@
       "group_title": "綜藝,[BD]香港c"
     },
     {
-      "url": "https://stream1.freetv.fun/6b50bcf9cb4d2741a3835367c9507f9aff68040a95c16eb3ab143ffd914fd493.ctv",
-      "tvg_name": "C+頻道",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/08/06/large/20220806135716055628_86.jpg",
-      "group_title": "綜藝,[HD]plus"
-    },
-    {
       "url": "https://stream1.freetv.fun/a4ff58ef1c87be11dc5b78a17be6e841d60a4d92f61e0cdded3c566349c99702.ctv",
       "tvg_name": "C+頻道",
       "tvg_id": "",
@@ -137,25 +92,7 @@
       "group_title": "綜藝,[BD]viju"
     },
     {
-      "url": "https://stream1.freetv.fun/9f1b84dd3a947a7915d0bc74607ef26453ecebe1bbc5d5c0fa624007ac18b0ec.ctv",
-      "tvg_name": "CCTV1(RTHK33)",
-      "tvg_id": "368552",
-      "tvg_country": "香港",
-      "tvg_language": "國語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
-      "group_title": "新聞,[BD]cctv-1"
-    },
-    {
-      "url": "https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.ctv",
-      "tvg_name": "CCTV1(RTHK33)",
-      "tvg_id": "368552",
-      "tvg_country": "香港",
-      "tvg_language": "國語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
-      "group_title": "新聞,[BD]cctv1"
-    },
-    {
-      "url": "https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.ctv",
+      "url": "https://stream1.freetv.fun/1e233c3fa02ad66a59876f9f9d5500a9b99b490836014ad39c51e69a17b3c563.m3u8",
       "tvg_name": "CCTV1(RTHK33)",
       "tvg_id": "368552",
       "tvg_country": "香港",
@@ -200,13 +137,13 @@
       "group_title": "新聞,[BD]cctv1[geo-blocked]"
     },
     {
-      "url": "https://stream1.freetv.fun/03f7309c87f8123b414526cdb3af993423055700d321370f2452910618907527.ctv",
+      "url": "https://stream1.freetv.fun/95cc7a9a16c9974d8c981d42c9a213879904ab744e95150717697089791ab4f0.m3u8",
       "tvg_name": "CCTV1(RTHK33)",
       "tvg_id": "368552",
       "tvg_country": "香港",
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
-      "group_title": "新聞,[BD]cctv1[geo-blocked]"
+      "group_title": "新聞,[BD]cctv1"
     },
     {
       "url": "https://stream1.freetv.fun/1ac2829498275b94069f38237608a409baf61852cd00057d2347d2fe05e8b91c.m3u8",
@@ -224,7 +161,7 @@
       "tvg_country": "香港",
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
-      "group_title": "新聞,[BD]cctv-01[geo-blocked]"
+      "group_title": "新聞,[BD]cctv-01"
     },
     {
       "url": "https://stream1.freetv.fun/aca593418a5d387996e89adf3a0452856e5623d7759d2ff35078a7e3968f47e8.ctv",
@@ -234,6 +171,15 @@
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
       "group_title": "新聞,[HD]cctv-1"
+    },
+    {
+      "url": "https://stream1.freetv.fun/31f1a5c3a963625aff1eb70a33e10695ddabfc1d0f6c0c4e8bfeadf9d62a225e.ctv",
+      "tvg_name": "CCTV1(RTHK33)",
+      "tvg_id": "368552",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2024/05/16/large/20240516043525045887_55.png",
+      "group_title": "新聞,[BD]cctv1"
     },
     {
       "url": "https://stream1.freetv.fun/bb7f1ff370bc4f3fedd17c6a6745f85c3ff4d805f979f661e5e3f5631e8e0bd7.m3u8",
@@ -260,7 +206,7 @@
       "tvg_country": "香港",
       "tvg_language": "英文",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",
-      "group_title": "電影,[HD]tvs"
+      "group_title": "電影,[VGA]tvs"
     },
     {
       "url": "https://stream1.freetv.fun/436cbc179ba091f343261a83fbb9814174fffdb20016f78bcef09e9f52187884.m3u8",
@@ -269,7 +215,7 @@
       "tvg_country": "香港",
       "tvg_language": "英文",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",
-      "group_title": "電影,[HD]tvs"
+      "group_title": "電影,[VGA]tvs"
     },
     {
       "url": "https://stream1.freetv.fun/4dcfe6b94315e523fdc36c33af599d211682761d528521f889ff25a32659ef44.m3u8",
@@ -305,7 +251,7 @@
       "tvg_country": "香港",
       "tvg_language": "英文",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",
-      "group_title": "電影,[HD]paramount"
+      "group_title": "電影,[SD]paramount"
     },
     {
       "url": "https://stream1.freetv.fun/fd70eb95cd85dcdbca37276d748b27e62558b30068263b66d59e1b49299cf2ff.m3u8",
@@ -371,6 +317,15 @@
       "group_title": "電影,[HD]artflix"
     },
     {
+      "url": "https://stream1.freetv.fun/db47f343a9d7a7a121b67836e4725313cde8eaff7599493dbe1f35294fe37d15.m3u8",
+      "tvg_name": "MOVIE",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "英文",
+      "tvg_logo": "https://epg.pw/media/images/channel/2024/04/15/large/20240415121455440051_22.png",
+      "group_title": "電影,[BD]movie"
+    },
+    {
       "url": "https://stream1.freetv.fun/141f07133aa4803196087b63fd11e88d843351405878057911f08d686ee5a654.m3u8",
       "tvg_name": "MOVIE",
       "tvg_id": "",
@@ -422,34 +377,7 @@
       "tvg_country": "香港",
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/08/13/large/20240813015310724171_63.png",
-      "group_title": "電影,[SD]popc[geo-blocked]"
-    },
-    {
-      "url": "https://stream1.freetv.fun/550269ea796595f6d0515251ee02a26991ae691497a392296074bcb02a7a8bf5.m3u8",
-      "tvg_name": "RTHK31",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png",
-      "group_title": "綜藝,[HD]rthk31"
-    },
-    {
-      "url": "https://stream1.freetv.fun/dd3834055ed859a58f44afd4885259741512f9af40c58a034545907964f6f45f.m3u8",
-      "tvg_name": "RTHK31",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png",
-      "group_title": "綜藝,[HD]rthk31"
-    },
-    {
-      "url": "https://stream1.freetv.fun/bcd3e759b0c9f8807280e9cb8fc50c6919ffad577b1d5d21f392f601d93301bc.ctv",
-      "tvg_name": "RTHK31",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719083758215404_92.png",
-      "group_title": "綜藝,[HD]rthk31"
+      "group_title": "電影,[BD]popc[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/9bf369ba2735d74a70c88f6c3c6b3b47d32d51f8e786a4ec54ad43c82424e17d.ctv",
@@ -461,16 +389,16 @@
       "group_title": "新聞,[HD]rthk-32"
     },
     {
-      "url": "https://stream1.freetv.fun/1b31ebcbf99f65f05813d10147a23e182e7613ca47838bdfa1557ba4d6434e51.m3u8",
+      "url": "https://stream1.freetv.fun/9562080bfd7deed527ee6fa94318a17965b46d06c059b8a7bbc2c6d632880e11.ctv",
       "tvg_name": "RTHK32",
       "tvg_id": "",
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/19/large/20230719083827856598_33.png",
-      "group_title": "新聞,[HD]rthk32"
+      "group_title": "新聞,[HD]rthk-32"
     },
     {
-      "url": "https://stream1.freetv.fun/566bd891e4db2fa7249916f91ab599743f4f7abaf8a3098f1d5b9da26a7b1910.m3u8",
+      "url": "https://stream1.freetv.fun/1b31ebcbf99f65f05813d10147a23e182e7613ca47838bdfa1557ba4d6434e51.m3u8",
       "tvg_name": "RTHK32",
       "tvg_id": "",
       "tvg_country": "香港",
@@ -506,13 +434,22 @@
       "group_title": "運動,[HD]ช่อง"
     },
     {
+      "url": "https://stream1.freetv.fun/ee1a1952b82299e1d57d54772681dc680cefbabb8deb4d6811a8fe3a15743026.m3u8",
+      "tvg_name": "TVB",
+      "tvg_id": "368361",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
+      "group_title": "綜藝,[BD]xtv"
+    },
+    {
       "url": "https://stream1.freetv.fun/5c71ddc1ee039d8057898c807e9cda2dfc61c7534d017fbf7c0de04c5c58c890.ctv",
       "tvg_name": "TVB",
       "tvg_id": "368361",
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[HD]tvb"
+      "group_title": "綜藝,[BD]tvb"
     },
     {
       "url": "https://stream1.freetv.fun/9b1d2634ded81a6f0c6b081dc085a8ae6a7b15bf2052ee9ff3dc67beb175664c.m3u8",
@@ -539,7 +476,7 @@
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[HD]tvb"
+      "group_title": "綜藝,[BD]tvb"
     },
     {
       "url": "https://stream1.freetv.fun/dec5e1d162ddc4e733fb714c2c8795323ccf94261596cffe7ee65f0034986c70.ctv",
@@ -548,7 +485,7 @@
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[HD]tvb"
+      "group_title": "綜藝,[BD]tvb"
     },
     {
       "url": "https://stream1.freetv.fun/98f8d72ac1e36f0754f5ffbe2be02dc15727ab560b18903a36a7ad4655d931a3.ctv",
@@ -560,31 +497,22 @@
       "group_title": "綜藝,[BD]tvbplus"
     },
     {
-      "url": "https://stream1.freetv.fun/45b5e3b36b8de2cefeacb68ed46660185a95abb2ad353aaaaef7f7adc7f0f8ad.ctv",
-      "tvg_name": "TVB",
-      "tvg_id": "368361",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[HD]tvbplus"
-    },
-    {
-      "url": "https://stream1.freetv.fun/b7ff9fabeb588ee6666d131fbadc3d864134dbdd416f4550c8a7934ad9fd9903.ctv",
-      "tvg_name": "TVB",
-      "tvg_id": "368361",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[BD]tvbplus[geo-blocked]"
-    },
-    {
       "url": "https://stream1.freetv.fun/f154902517f39c01a56296587c62613fee9c99bc97e5dc6867da9a187c96aa13.m3u8",
       "tvg_name": "TVB",
       "tvg_id": "368361",
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
-      "group_title": "綜藝,[VGA]etv"
+      "group_title": "綜藝,[HD]etv"
+    },
+    {
+      "url": "https://stream1.freetv.fun/1fd7d352660d0e549be59e51213eafd0ce835917ec3447480a2a3611e969563d.ctv",
+      "tvg_name": "TVB",
+      "tvg_id": "368361",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722193451659796_71.png",
+      "group_title": "綜藝,[BD]tvbplus"
     },
     {
       "url": "https://stream1.freetv.fun/82a199ce6a224f942ef3436c7fed3112698f5592a7759e7a10145dea7eb55fd0.m3u8",
@@ -677,6 +605,15 @@
       "group_title": "綜藝,[HD]tvb娱乐新闻"
     },
     {
+      "url": "https://stream1.freetv.fun/d2e0ed204eedfb09cfab9b3b52b8650add49758c43cb81e502da46c6cbcf2a63.ctv",
+      "tvg_name": "TVB娛樂新聞(MAS)",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720201504213005_11.png",
+      "group_title": "綜藝,[HD]tvb娱乐新闻"
+    },
+    {
       "url": "https://stream1.freetv.fun/99bb646a71d6fb69f3287af93bc08e97e334d626c7889509579bf47e76b641f8.ctv",
       "tvg_name": "TVB黃金翡翠台",
       "tvg_id": "368358",
@@ -719,6 +656,24 @@
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
+      "group_title": "綜藝,[HD]viutv"
+    },
+    {
+      "url": "https://stream1.freetv.fun/4b1a401b0a28174a645749406d87be9f140f3b3112128ffb51a42d0607c84433.ctv",
+      "tvg_name": "ViuTV",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
+      "group_title": "綜藝,[HD]viutv"
+    },
+    {
+      "url": "https://stream1.freetv.fun/a24b57db27b6bb78392779d79d59adaaf8d40804a336a9e0d852ae2e6027d269.ctv",
+      "tvg_name": "ViuTV",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
       "group_title": "綜藝,[BD]viutv"
     },
     {
@@ -749,6 +704,15 @@
       "group_title": "綜藝,[HD]viu6tv"
     },
     {
+      "url": "https://stream1.freetv.fun/31a2f366553c9bf6c0d3be89e7098c77f2730f04366cda5578563ba7e6589d34.m3u8",
+      "tvg_name": "ViuTV",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
+      "group_title": "綜藝,[HD]viutv"
+    },
+    {
       "url": "https://stream1.freetv.fun/855fcf2cb6242c3bbf91d073a966eefcecb239f58f03460b4947d32ee7785d2c.ctv",
       "tvg_name": "ViuTV",
       "tvg_id": "",
@@ -759,15 +723,6 @@
     },
     {
       "url": "https://stream1.freetv.fun/ad77293b3968d9314a0a612d10a82fcd2617e3370c750355a5ff31cced30ca13.ctv",
-      "tvg_name": "ViuTV",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720193225282526_84.png",
-      "group_title": "綜藝,[HD]viutv"
-    },
-    {
-      "url": "https://stream1.freetv.fun/24011fe722dc3f5e8fc2c34317c9d94ebd36a707dbd89426eb1072fea51f5b25.ctv",
       "tvg_name": "ViuTV",
       "tvg_id": "",
       "tvg_country": "香港",
@@ -812,7 +767,7 @@
       "group_title": "綜藝,[HD]viutvsix"
     },
     {
-      "url": "https://stream1.freetv.fun/901c1176db0b1eb941d8e6eaad2863eca387b6635096d95118ed69bc92f788e1.m3u8",
+      "url": "https://stream1.freetv.fun/81f8263b5c506ce4cb168c12c4253f1607b0288b96bab58e6e82b8826dec624a.m3u8",
       "tvg_name": "ViuTVsix",
       "tvg_id": "410273",
       "tvg_country": "香港",
@@ -821,7 +776,7 @@
       "group_title": "綜藝,[HD]viutvsix"
     },
     {
-      "url": "https://stream1.freetv.fun/81f8263b5c506ce4cb168c12c4253f1607b0288b96bab58e6e82b8826dec624a.m3u8",
+      "url": "https://stream1.freetv.fun/901c1176db0b1eb941d8e6eaad2863eca387b6635096d95118ed69bc92f788e1.m3u8",
       "tvg_name": "ViuTVsix",
       "tvg_id": "410273",
       "tvg_country": "香港",
@@ -866,6 +821,15 @@
       "group_title": "其它,[BD]snap"
     },
     {
+      "url": "https://stream1.freetv.fun/20bf8910adfeb3308bf8d0ef2e6b136fedacf4af549dcc7d2e2dc0e6829108cc.m3u8",
+      "tvg_name": "亞洲電影",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/img/logo/2013/10/30/d5b5b5e3c4cee3986b95193ca869e654.png",
+      "group_title": "電影,[SD]功夫电影"
+    },
+    {
       "url": "https://stream1.freetv.fun/b6a501d2882e86783e129b6bd4a12c0c8ac416e3bc4f630ff6b262d891514870.m3u8",
       "tvg_name": "劇集1臺",
       "tvg_id": "",
@@ -881,7 +845,16 @@
       "tvg_country": "香港",
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg",
-      "group_title": "電影,[BD]周星驰[geo-blocked]"
+      "group_title": "電影,[HD]周星驰[geo-blocked]"
+    },
+    {
+      "url": "https://stream1.freetv.fun/9f3262ab6ce441f38deedef3b6d4025e0587abd40e00c00b7059d6fa9b4debbb.m3u8",
+      "tvg_name": "周星馳專輯",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2019/04/05/large/20190405223557361641_51.jpg",
+      "group_title": "電影,[SD]周星驰[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/c7fad06ba64871cf82704406244a7b18902363ea9b42f6471d826d3ac1429157.m3u8",
@@ -956,6 +929,15 @@
       "group_title": "電影,[HD]明珠"
     },
     {
+      "url": "https://stream1.freetv.fun/02a84e717bde4c74530fa751aff6d340c4a1757f966a59bdc9f37751a121ce37.ctv",
+      "tvg_name": "明珠臺(備)",
+      "tvg_id": "368369",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png",
+      "group_title": "電影,[BD]明珠"
+    },
+    {
       "url": "https://stream1.freetv.fun/4db377997e788111dc3a7a47fec67132e36bd8221c27f01f0d14ae82d86bc4ff.ctv",
       "tvg_name": "明珠臺(備)",
       "tvg_id": "368369",
@@ -980,7 +962,7 @@
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/12/26/large/20241226141312380293_76.png",
-      "group_title": "電影,[BD]明珠"
+      "group_title": "電影,[HD]明珠"
     },
     {
       "url": "https://stream1.freetv.fun/c3d08bbe948ea633ff25ef85c58fce107ca940c1c5027c7bf283438f4d84fe6c.ctv",
@@ -1055,6 +1037,15 @@
       "group_title": "新聞,[BD]无线新闻"
     },
     {
+      "url": "https://stream1.freetv.fun/fc27b3908a78de41f3e9bc37f460b885afe653d73baf65ecea825df2eb5212f3.ctv",
+      "tvg_name": "無線新聞台",
+      "tvg_id": "368363",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720192239085500_67.png",
+      "group_title": "新聞,[HD]无线新闻"
+    },
+    {
       "url": "rtmp://nowast.net/live/yifatv-wxxw01",
       "tvg_name": "無線新聞台",
       "tvg_id": "368363",
@@ -1070,7 +1061,7 @@
       "tvg_country": "香港",
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg",
-      "group_title": "其它,[HD]甄子丹"
+      "group_title": "其它,[BD]甄子丹"
     },
     {
       "url": "https://stream1.freetv.fun/b2c993e2e8743707d3f8fc4dd3cf81e29852ceed80cc8067386ccaa08f005a24.m3u8",
@@ -1080,6 +1071,15 @@
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/uploads/tmp_logo/2016/10/14/20161014131011501629_83.jpg",
       "group_title": "其它,[SD]甄子丹"
+    },
+    {
+      "url": "https://stream1.freetv.fun/572b287af19fdd0987a871008c41f7273d5277193ea90dca28555df0e01b96e1.m3u8",
+      "tvg_name": "美亞電影台[HK]",
+      "tvg_id": "368348",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/22/large/20230722194138918890_62.png",
+      "group_title": "電影,[BD]美亚电影"
     },
     {
       "url": "https://stream1.freetv.fun/ad698c68f995a760534e836438ea8e8bc65abf16cd0ed1d6b8e005cd9b90913c.m3u8",
@@ -1100,25 +1100,7 @@
       "group_title": "綜合,[BD]翡翠"
     },
     {
-      "url": "https://stream1.freetv.fun/b6805e649e0c7b8193b4fd6d6b407675b3254a0eca4b30ef8ed033b5202b285e.ctv",
-      "tvg_name": "翡翠台",
-      "tvg_id": "368366",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",
-      "group_title": "綜合,[HD]翡翠"
-    },
-    {
       "url": "https://stream1.freetv.fun/b1128a129ebb9fd5ddde711ab565c82831400d80e5aa6aa9822e6c1b33ed95c5.ctv",
-      "tvg_name": "翡翠台",
-      "tvg_id": "368366",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",
-      "group_title": "綜合,[HD]翡翠"
-    },
-    {
-      "url": "https://stream1.freetv.fun/07b8f89d6c2bf405852bd8eb695e2389afdb45dfaf30d5273f8d2b819720681f.ctv",
       "tvg_name": "翡翠台",
       "tvg_id": "368366",
       "tvg_country": "香港",
@@ -1170,6 +1152,15 @@
       "tvg_language": "粵語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",
       "group_title": "綜合,[HD]翡翠"
+    },
+    {
+      "url": "https://stream1.freetv.fun/96be57df137f3e952c37d15c81c54511223f65ab2929549598ef3c601f7f0add.ctv",
+      "tvg_name": "翡翠台",
+      "tvg_id": "368366",
+      "tvg_country": "香港",
+      "tvg_language": "粵語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720173151124119_90.png",
+      "group_title": "綜合,[BD]翡翠[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/d9a2e34945118d998ae46a4440adbd8b97ad86e379c36161dbea8d01c7ea74a6.ctv",
@@ -1226,7 +1217,7 @@
       "group_title": "綜藝,[HD]香港卫视[geo-blocked]"
     },
     {
-      "url": "https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv",
+      "url": "https://stream1.freetv.fun/b07c48a26aa3f31f217af6cfb93d906621b466d7eeabec289512e1d75c197375.m3u8",
       "tvg_name": "鳳凰衛視FHD",
       "tvg_id": "368343",
       "tvg_country": "香港",
@@ -1235,13 +1226,22 @@
       "group_title": "綜合,[HD]凤凰卫视"
     },
     {
-      "url": "https://stream1.freetv.fun/d3c92459e8f551fb9d596197050f5caa3441cc4b4300514833d9bcfe23aeddb8.ctv",
+      "url": "https://stream1.freetv.fun/77073e729f5440d59b5526e5ae11403031846344394b804bc160c86ae068cecb.m3u8",
       "tvg_name": "鳳凰衛視FHD",
       "tvg_id": "368343",
       "tvg_country": "香港",
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/06/10/large/20240610235948618467_91.png",
-      "group_title": "綜合,[SD]凤凰卫视[geo-blocked]"
+      "group_title": "綜合,[HD]凤凰卫视"
+    },
+    {
+      "url": "https://stream1.freetv.fun/08e5440bb83a804440e341ae792cffc38d6844b04d5a2c7a4fc5ee04a6fe6bc6.ctv",
+      "tvg_name": "鳳凰衛視FHD",
+      "tvg_id": "368343",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2024/06/10/large/20240610235948618467_91.png",
+      "group_title": "綜合,[HD]凤凰卫视"
     },
     {
       "url": "https://stream1.freetv.fun/a3cfcb6f4429baaa2f182afaf1ab55003d71ca680ca0afd61968d36b33f26f03.m3u8",
@@ -1262,7 +1262,7 @@
       "group_title": "綜合,[HD]凤凰中文"
     },
     {
-      "url": "https://stream1.freetv.fun/1a2226881952af092a0402dad19503bee590c5546c87ab2e2660ee1199d869ab.m3u8",
+      "url": "https://stream1.freetv.fun/591f974e5c02585d2eb85e2e8d1289b05666bd68e76ac8a9b46642fa3142cb60.m3u8",
       "tvg_name": "鳳凰衛視中文",
       "tvg_id": "368338",
       "tvg_country": "香港",
@@ -1316,16 +1316,7 @@
       "group_title": "新聞,[HD]凤凰资讯"
     },
     {
-      "url": "https://stream1.freetv.fun/9cb86e77a2a19ece5a5ee90f18c9dd578dab4a8f3a0844fbd56b6a87db6746fb.ctv",
-      "tvg_name": "鳳凰資訊HD",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "國語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",
-      "group_title": "新聞,[SD]凤凰资讯"
-    },
-    {
-      "url": "https://stream1.freetv.fun/70fd087d8614a89b57ba4a4c51e76ba1d6fad920f1e834846751fb06ddc420cf.ctv",
+      "url": "https://stream1.freetv.fun/8207fefca4ec53194577b2ed278461db2f591ad800e535ba46d497749e2d7ee5.ctv",
       "tvg_name": "鳳凰資訊HD",
       "tvg_id": "",
       "tvg_country": "香港",
@@ -1341,6 +1332,15 @@
       "tvg_language": "國語",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",
       "group_title": "新聞,[HD]凤凰资讯"
+    },
+    {
+      "url": "https://stream1.freetv.fun/320c213f4bb29b607f6c659b2a94918fc7f922c996ede3738fdff2ab9bd90217.ctv",
+      "tvg_name": "鳳凰資訊HD",
+      "tvg_id": "",
+      "tvg_country": "香港",
+      "tvg_language": "國語",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/23/large/20230723140505929891_55.png",
+      "group_title": "新聞,[SD]凤凰资讯[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/eb5c379a2d045382ce7f8ffa78e5b7d184a3c44fffe574d72e3fab54a7d696f7.m3u8",
@@ -1371,15 +1371,6 @@
     },
     {
       "url": "https://stream1.freetv.fun/f3a464a32a9c5f86c2cdf5f57e5012637b9fbee76621f8cb1e1987deaa0c61fd.ctv",
-      "tvg_name": "鳳凰香港",
-      "tvg_id": "",
-      "tvg_country": "香港",
-      "tvg_language": "粵語",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/07/20/large/20230720101153992346_85.png",
-      "group_title": "綜合,[HD]凤凰香港"
-    },
-    {
-      "url": "https://stream1.freetv.fun/77eeb0bad2ee1784e810b2977a918a9732d90dba4f61c0173fe552cfa8a685a9.m3u8",
       "tvg_name": "鳳凰香港",
       "tvg_id": "",
       "tvg_country": "香港",

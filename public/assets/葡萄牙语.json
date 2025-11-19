@@ -1,5 +1,5 @@
 {
-  "count": 256,
+  "count": 253,
   "list": [
     {
       "url": "https://cdn.jmvstream.com/w/LVW-8155/ngrp:LVW8155_41E1ciuCvO_all/playlist.m3u8",
@@ -440,12 +440,6 @@
       "group_title": "Kids,Pluto"
     },
     {
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f99aad4e82db50007fac4b2/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-      "tvg_id": "AsPistasdeBlue.us@Brazil",
-      "tvg_logo": "https://i.imgur.com/0xuwIJB.png",
-      "group_title": "Kids,Pluto"
-    },
-    {
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1210d14ae1f80007bafb1d/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "tvg_id": "PlutoTVCineDrama.us@Brazil",
       "tvg_logo": "https://i.imgur.com/AQBtheU.png",
@@ -476,12 +470,6 @@
       "group_title": "Education,Pluto"
     },
     {
-      "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f36f2346ede750007332d11/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
-      "tvg_id": "PortadosFundos.us@Brazil",
-      "tvg_logo": "https://i.imgur.com/ssmTx7a.png",
-      "group_title": "Comedy,Pluto"
-    },
-    {
       "url": "https://service-stitcher.clusters.pluto.tv/v1/stitch/embed/hls/channel/5f1212ad1728050007a523b8/master.m3u8?advertisingId=channel&appName=rokuchannel&appVersion=1.0&bmodel=bm1&channel_id=channel&content=channel&content_rating=ROKU_ADS_CONTENT_RATING&content_type=livefeed&coppa=false&deviceDNT=1&deviceId=channel&deviceMake=rokuChannel&deviceModel=web&deviceType=rokuChannel&deviceVersion=1.0&embedPartner=rokuChannel&genre=ROKU_ADS_CONTENT_GENRE&is_lat=1&platform=web&rdid=channel&studio_id=viacom&tags=ROKU_CONTENT_TAGS",
       "tvg_id": "PlutoTVRetro.us@Brazil",
       "tvg_logo": "https://i.imgur.com/wztO3GM.png",
@@ -504,12 +492,6 @@
       "tvg_id": "PortoCanal.pt@SD",
       "tvg_logo": "https://i.imgur.com/DwziwMY.png",
       "group_title": "General,Porto"
-    },
-    {
-      "url": "http://187.120.222.37:721",
-      "tvg_id": "PremiereClubes.br@SD",
-      "tvg_logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Premiere_(2017)_logo.png/512px-Premiere_(2017)_logo.png",
-      "group_title": "Sports,Premiere"
     },
     {
       "url": "http://200.194.238.229:8383/live/primer/playlist.m3u8",

@@ -1,5 +1,5 @@
 {
-  "count": 1788,
+  "count": 1795,
   "list": [
     {
       "url": "https://cdn.002radio.com:3909/live/radio002live.m3u8",
@@ -24,6 +24,12 @@
       "tvg_id": "5tv.ar@SD",
       "tvg_logo": "https://i.imgur.com/mSn7ACs.png",
       "group_title": "General,5TV"
+    },
+    {
+      "url": "https://live.enhdtv.com:8081/8150/index.m3u8",
+      "tvg_id": "6WiseTv.us@SD",
+      "tvg_logo": "https://jrlist70.pages.dev/list/wise.png",
+      "group_title": "Family,6"
     },
     {
       "url": "https://play.cdn.enetres.net/9E9557EFCEBB43A89CEC8FBD3C500247022/028/playlist.m3u8",
@@ -378,6 +384,12 @@
       "tvg_id": "AiredeSantaFe.ar@SD",
       "tvg_logo": "https://i.imgur.com/60vSWW0.png",
       "group_title": "General,Aire"
+    },
+    {
+      "url": "https://xddrts.alwaysdata.net/maro7/maaloula.php?m3u8",
+      "tvg_id": "AlAoula.ma@SD",
+      "tvg_logo": "https://i.imgur.com/nq53d2N.png",
+      "group_title": "General,Al"
     },
     {
       "url": "https://streaming01.gestec-video.com/hls/artequatreAlacanti.m3u8",
@@ -1106,6 +1118,12 @@
       "tvg_id": "CadenaElite.es@SD",
       "tvg_logo": "https://i.imgur.com/3yeGDTP.png",
       "group_title": "Music,Cadena"
+    },
+    {
+      "url": "https://tv.bitstreaming.net:3789/live/cdntvlive.m3u8",
+      "tvg_id": "CadenaTV.pe@HD",
+      "tvg_logo": "https://i.imgur.com/stvzqzd.png",
+      "group_title": "Undefined,Cadena"
     },
     {
       "url": "https://live-evg1.tv360.bitel.com.pe/bitel/cajamarcatv/playlist.m3u8",
@@ -2154,12 +2172,6 @@
       "tvg_id": "CanalMultivision.do@SD",
       "tvg_logo": "https://i.imgur.com/puOrL7B.jpg",
       "group_title": "General,Canal"
-    },
-    {
-      "url": "http://181.188.216.5:18000/play/a01p/index.m3u8",
-      "tvg_id": "CanalN.pe@SD",
-      "tvg_logo": "https://i.imgur.com/Xytvw3J.png",
-      "group_title": "News,Canal"
     },
     {
       "url": "https://movil.ejeserver.com/live/nets.m3u8",
@@ -3425,6 +3437,12 @@
       "group_title": "News,El"
     },
     {
+      "url": "https://stream-us-east-1.getpublica.com/playlist.m3u8?network_id=1965",
+      "tvg_id": "ElConflictoTV.us@SD",
+      "tvg_logo": "https://i.imgur.com/ANfci17.png",
+      "group_title": "Undefined,El"
+    },
+    {
       "url": "https://nuevodiario01.streamprolive.com/hls/live.m3u8",
       "tvg_id": "ElNuevoDiarioTV.do@SD",
       "tvg_logo": "https://i.imgur.com/yjuTl6N.png",
@@ -3651,6 +3669,12 @@
       "group_title": "Kids,Eureka"
     },
     {
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/euronews-spa/euronews-es.m3u8",
+      "tvg_id": "EuronewsSpanish.fr@SD",
+      "tvg_logo": "https://i.imgur.com/8t9mdg9.png",
+      "group_title": "News,Euronews"
+    },
+    {
       "url": "https://cdn3.wowza.com/1/SmVrQmZCUXZhVDgz/b3J3MFJv/hls/live/playlist.m3u8",
       "tvg_id": "EWTN.us@SpainLatinAmerica",
       "tvg_logo": "https://i.imgur.com/sua70RO.png",
@@ -3763,6 +3787,12 @@
       "tvg_id": "Fibwi.es@SD",
       "tvg_logo": "https://i.imgur.com/4vcGzcC.png",
       "group_title": "General,Fibwi"
+    },
+    {
+      "url": "https://d63fabad.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/UmFrdXRlblRWLWVzX0ZJRkFQbHVzU3BhbmlzaF9ITFM/playlist.m3u8",
+      "tvg_id": "FIFAPlus.uk@Spain",
+      "tvg_logo": "https://i.imgur.com/l5iax42.png",
+      "group_title": "Sports,FIFA+"
     },
     {
       "url": "https://filmex-filmex-xumo.amagi.tv/playlist.m3u8",
@@ -4001,12 +4031,6 @@
       "url": "https://stmv4.voxtvhd.com.br/globaltv/globaltv/playlist.m3u8",
       "tvg_id": "GlobalTV.do@SD",
       "tvg_logo": "https://i.imgur.com/1rQaROm.png",
-      "group_title": "General,Global"
-    },
-    {
-      "url": "http://181.188.216.5:18000/play/a0m5/index.m3u8",
-      "tvg_id": "GlobalTV.pe@SD",
-      "tvg_logo": "https://i.imgur.com/yuEou9C.png",
       "group_title": "General,Global"
     },
     {
@@ -5831,6 +5855,12 @@
       "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/5d8d08395f39465da6fb3ec4/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2a5107-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=919bc5fd-6cce-44a6-bb39-2894dea1c988",
       "tvg_id": "NickenEspanol.us@SD",
       "tvg_logo": "https://i.imgur.com/G1J4IsT.png",
+      "group_title": "Kids,Nickelodeon"
+    },
+    {
+      "url": "http://179.51.136.19:8000/play/a0q4/index.m3u8",
+      "tvg_id": "NickelodeonLatinAmerica.us@Panregional",
+      "tvg_logo": "https://i.imgur.com/E84jnP8.png",
       "group_title": "Kids,Nickelodeon"
     },
     {
@@ -10550,6 +10580,12 @@
       "group_title": "General,Waldivisión"
     },
     {
+      "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/wapptv/master.m3u8",
+      "tvg_id": "Wapp.cl@SD",
+      "tvg_logo": "https://i.imgur.com/Bv1yJ1d.png",
+      "group_title": "Lifestyle,Wapp"
+    },
+    {
       "url": "https://5cb1ee4d59ac0.streamlock.net/enlacepr1/enlacepr1/playlist.m3u8",
       "tvg_id": "WDWLDT1.pr@SD",
       "tvg_logo": "https://i.imgur.com/B7lqYZe.png",
@@ -10590,6 +10626,12 @@
       "tvg_id": "WKAQDT2.pr@SD",
       "tvg_logo": "https://i.imgur.com/TL6xy4y.png",
       "group_title": "Undefined,WKAQ-DT2"
+    },
+    {
+      "url": "https://live.11-cdn.com/TeleOnce/3fc63fe00050c646635f16b071cd33e2.sdp/playlist.m3u8",
+      "tvg_id": "WLIIDT1.pr@SD",
+      "tvg_logo": "https://i.ibb.co/KhCnxJB/Crt3P4N.png",
+      "group_title": "Undefined,WLII-DT1"
     },
     {
       "url": "https://streaming-live-fcdn.api.prd.univisionnow.com/wltv/wltv.isml/hls/wltv.m3u8",

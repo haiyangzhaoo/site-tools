@@ -1,24 +1,6 @@
 {
-  "count": 29,
+  "count": 23,
   "list": [
-    {
-      "url": "https://stream1.freetv.fun/6e7aa589aecaaa973787770e66e57c778c7cf2dc54fc0ac66be81d44b51dfd2f.m3u8",
-      "tvg_name": "5",
-      "tvg_id": "",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2019/01/05/large/20190105211155486348_40.png",
-      "group_title": "Generic,[HD]mediacorp"
-    },
-    {
-      "url": "https://stream1.freetv.fun/48d4365f96f8e6239f000b3876dd9f67836479f75e17158a2bddaaacbc4c80d0.ctv",
-      "tvg_name": "AXN",
-      "tvg_id": "",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/img/logo/AXN_HD.jpg",
-      "group_title": "Movies,[BD]axn[geo-blocked]"
-    },
     {
       "url": "https://stream1.freetv.fun/91bfae1f7f592c54f6fc40273e9b149f7a5371a8377317be37ee63ab2d11355e.ctv",
       "tvg_name": "AXN",
@@ -27,15 +9,6 @@
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/img/logo/AXN_HD.jpg",
       "group_title": "Movies,[HD]axn"
-    },
-    {
-      "url": "https://stream1.freetv.fun/1a89eca436a05d4d6931225acf91dc7307226a649c3a01fb937b88a62e6a38b5.m3u8",
-      "tvg_name": "Afn",
-      "tvg_id": "",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2019/12/19/large/20191219194135009035_40.png",
-      "group_title": "Other,[SD]afn"
     },
     {
       "url": "https://stream1.freetv.fun/3c306e6807250081fd3dbda90f59feec7d08d208c3f1ee78634a36aaa7fd4800.m3u8",
@@ -110,15 +83,6 @@
       "group_title": "Movies,[SD]movies"
     },
     {
-      "url": "https://stream1.freetv.fun/33e8e2880d32b5d904571bc7b0823b9b360809e318625396cdcdf819cf1f7265.m3u8",
-      "tvg_name": "HITS",
-      "tvg_id": "",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/06/11/large/20240611010900183106_94.jpg",
-      "group_title": "Movies,[SD]hits"
-    },
-    {
       "url": "https://stream1.freetv.fun/350a54a564633d554db45e511483c39c085a55ddf1336bfc308ee1c6a1f75c66.m3u8",
       "tvg_name": "Hits(TW)",
       "tvg_id": "",
@@ -128,22 +92,13 @@
       "group_title": "Movies,[BD]xite"
     },
     {
-      "url": "https://stream1.freetv.fun/9d7a26aafb52f503116593146a42235c26c253812c38990e0b607b634590f68b.ctv",
+      "url": "https://stream1.freetv.fun/d5ca5f2ec296c23e16245613abdd055a678f44396bdc1f76bc32bf73d2f21fda.m3u8",
       "tvg_name": "Hits(TW)",
       "tvg_id": "",
       "tvg_country": "Singapore",
       "tvg_language": "Chinese",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/06/11/large/20240611010918611570_10.jpg",
-      "group_title": "Movies,[BD]hits(tw)"
-    },
-    {
-      "url": "https://stream1.freetv.fun/6fd6fbe0bf3c752ced6744b2cef79afbbce1bdc3cf7a198bb56b4f3b4da48aa6.m3u8",
-      "tvg_name": "KIX",
-      "tvg_id": "171877",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/img/logo/kix_1.jpg",
-      "group_title": "Movies,[SD]kix"
+      "group_title": "Movies,[SD]mooz"
     },
     {
       "url": "https://stream1.freetv.fun/acb4a9f7dccb170ae8868bf8f16a069221e8e4be05de0f48afcdfeb97a38793a.m3u8",
@@ -179,7 +134,7 @@
       "tvg_country": "Singapore",
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg",
-      "group_title": "Movies,[BD]roya"
+      "group_title": "Movies,[HD]roya"
     },
     {
       "url": "https://stream1.freetv.fun/6f98b6e2b65231d515f70538da796694a3529676b0004cf558fc15907556eaad.ctv",
@@ -188,16 +143,7 @@
       "tvg_country": "Singapore",
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg",
-      "group_title": "Movies,[SD]rockaction[geo-blocked]"
-    },
-    {
-      "url": "https://stream1.freetv.fun/b8d9f14e8e2e2852423ecdf4a457a3ec9d47f6cd30e5331420438214c1ae7a7d.m3u8",
-      "tvg_name": "Rock",
-      "tvg_id": "",
-      "tvg_country": "Singapore",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/01/01/large/20240101221854465363_64.jpg",
-      "group_title": "Movies,[BD]rock"
+      "group_title": "Movies,[BD]rockaction[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/9d399fdd8147febfcba85474a39f7f07bcba023b864154a5f396acdcb82d1b36.m3u8",

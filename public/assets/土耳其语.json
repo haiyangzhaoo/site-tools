@@ -778,12 +778,6 @@
       "group_title": "Documentary,National"
     },
     {
-      "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/64240b7e283aa40008f79f84/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=2c7b3f05-35fc-11ef-a031-2b5d494037a2&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=a5760903-3730-493d-a240-f38538ed67ca",
-      "tvg_id": "StingrayNaturescape.ca@SD",
-      "tvg_logo": "https://i.imgur.com/882kd90.png",
-      "group_title": "Music,Naturescape"
-    },
-    {
       "url": "https://uycyyuuzyh.turknet.ercdn.net/nphindgytw/nowtv/nowtv.m3u8",
       "tvg_id": "NOWTV.tr@SD",
       "tvg_logo": "https://i.imgur.com/5EYjWK7.png",
@@ -1004,6 +998,12 @@
       "tvg_id": "StarTV.tr@SD",
       "tvg_logo": "https://i.imgur.com/9O3DHRB.png",
       "group_title": "Undefined,Star"
+    },
+    {
+      "url": "https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8",
+      "tvg_id": "StingrayNaturescape.ca@SD",
+      "tvg_logo": "https://i.imgur.com/882kd90.png",
+      "group_title": "Music,Stingray"
     },
     {
       "url": "https://live.artidijitalmedya.com/artidijital_sunrtv/sunrtv/playlist.m3u8",

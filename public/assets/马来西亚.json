@@ -1,5 +1,5 @@
 {
-  "count": 87,
+  "count": 83,
   "list": [
     {
       "url": "https://stream1.freetv.fun/206e3b04525e02c7c1afa88cbcb2bd2905209075dce5f44f41f4ca9e46ce9b76.m3u8",
@@ -21,15 +21,6 @@
     },
     {
       "url": "https://stream1.freetv.fun/28722a3a8992a02f13992b4d847def4e11bd6d754bf10b628d7e28c7acdc3b7c.ctv",
-      "tvg_name": "ASTRO",
-      "tvg_id": "2124",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Cantonese",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/08/26/large/20220826114608609036_92.png",
-      "group_title": "Movies,[HD]astro"
-    },
-    {
-      "url": "https://stream1.freetv.fun/5116dfb07094845e2ce7e76921800a2bccacf3212b48e6585163f2a45735aa84.ctv",
       "tvg_name": "ASTRO",
       "tvg_id": "2124",
       "tvg_country": "Malaysia",
@@ -65,7 +56,7 @@
       "group_title": "Generic,[HD]astro華麗"
     },
     {
-      "url": "https://stream1.freetv.fun/137fd254b5bee8a80113a64c64f4ebdee85cda79133e54c79c920ed62f43dfaf.m3u8",
+      "url": "https://stream1.freetv.fun/d97f11bf9b3dcf438d72ba7747d16af7283816ac4b0ca78113070bcdf00a27c8.m3u8",
       "tvg_name": "ASTRO",
       "tvg_id": "2524",
       "tvg_country": "Malaysia",
@@ -75,6 +66,15 @@
     },
     {
       "url": "https://stream1.freetv.fun/9ec93449ff1853e214c565c7aba2d9db4bb86fac231a364db93f8dc8f431a458.m3u8",
+      "tvg_name": "Astro",
+      "tvg_id": "3958",
+      "tvg_country": "Malaysia",
+      "tvg_language": "English",
+      "tvg_logo": "https://epg.pw/media/images/channel/2023/06/02/large/20230602231401396043_82.jpg",
+      "group_title": "News,[HD]astro"
+    },
+    {
+      "url": "https://stream1.freetv.fun/98558ae2d084dd6225893e76164f24ed20256b6c86bf861e4d81ba37e11e76c3.m3u8",
       "tvg_name": "Astro",
       "tvg_id": "3958",
       "tvg_country": "Malaysia",
@@ -101,13 +101,13 @@
       "group_title": "News,[HD]astro"
     },
     {
-      "url": "https://stream1.freetv.fun/98558ae2d084dd6225893e76164f24ed20256b6c86bf861e4d81ba37e11e76c3.m3u8",
+      "url": "https://stream1.freetv.fun/27c52a85845102f3c3372b29cc2eac0e66e4d9bd7e8f7ad2d2c55ad97d844ac5.ctv",
       "tvg_name": "Astro",
-      "tvg_id": "3958",
+      "tvg_id": "397400",
       "tvg_country": "Malaysia",
       "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2023/06/02/large/20230602231401396043_82.jpg",
-      "group_title": "News,[HD]astro"
+      "tvg_logo": "https://epg.pw/media/images/channel/2024/10/18/large/20241018015115511851_84.png",
+      "group_title": "Sports,[BD]Astro"
     },
     {
       "url": "https://stream1.freetv.fun/fbfca06158f529857785784f5b6bf234988e3cb6a4bbd1820a282b3e4221e43e.ctv",
@@ -119,22 +119,13 @@
       "group_title": "Sports,[HD]astro"
     },
     {
-      "url": "https://stream1.freetv.fun/b68131fdc764e54615785ef9fd2a4161109d9c3f561064e8c7fba6bae0f88c78.ctv",
-      "tvg_name": "Astro",
-      "tvg_id": "397403",
-      "tvg_country": "Malaysia",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/10/19/large/20241019181734867306_96.png",
-      "group_title": "Sports,[HD]astro"
-    },
-    {
       "url": "https://stream1.freetv.fun/a14d5ecb34e021f1bae2b914b82ce0d56f7dd8913a039f39c1a7fcbaa307acd7.ctv",
       "tvg_name": "Astro",
       "tvg_id": "1242",
       "tvg_country": "Malaysia",
       "tvg_language": "Korean",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/11/25/large/20231125160234587911_20.jpg",
-      "group_title": "Movies,[HD]astro"
+      "group_title": "Movies,[VGA]astro"
     },
     {
       "url": "https://stream1.freetv.fun/68dad590d67b9a7b7fb7ea0737dbdb1a2776b06ac2dd45012e3a0cbf24f237af.m3u8",
@@ -155,13 +146,13 @@
       "group_title": "Sports,[BD]astro"
     },
     {
-      "url": "https://stream1.freetv.fun/c5f0599dc82c2c071f2b27baa7d1ed9bc9ff1e0899d0b448f669d78785a4f48b.m3u8",
+      "url": "https://stream1.freetv.fun/7ce525ab7ef65cfe6fc74c95f94ea4a7d1d8960905701957e8d1ac07445ae76c.m3u8",
       "tvg_name": "Astro",
       "tvg_id": "397397",
       "tvg_country": "Malaysia",
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2024/10/28/large/20241028154354983236_16.png",
-      "group_title": "Sports,[HD]astro"
+      "group_title": "Sports,[BD]astro"
     },
     {
       "url": "https://stream1.freetv.fun/bb3e1ac0c759de7a3a82ed240f3dcd5c928404c46e31cee2978ce68ff7fc8131.ctv",
@@ -173,6 +164,15 @@
       "group_title": "Generic,[HD]astro"
     },
     {
+      "url": "https://stream1.freetv.fun/398ecefb6f94a3d061e688eb27aba1676b94ec2384a4bf31f1da9c7ca1e243e2.ctv",
+      "tvg_name": "Astro",
+      "tvg_id": "4057",
+      "tvg_country": "Malaysia",
+      "tvg_language": "English",
+      "tvg_logo": "https://epg.pw/media/images/channel/2025/09/09/large/20250909014020401578_16.jpeg",
+      "group_title": "Movies,[HD]showcase"
+    },
+    {
       "url": "https://stream1.freetv.fun/83f67f501fa6c80669b3aefa08cecda84e1dcd645516e747320c66e59d0448c3.ctv",
       "tvg_name": "Astro",
       "tvg_id": "4057",
@@ -182,13 +182,13 @@
       "group_title": "Movies,[HD]showcase"
     },
     {
-      "url": "https://stream1.freetv.fun/398ecefb6f94a3d061e688eb27aba1676b94ec2384a4bf31f1da9c7ca1e243e2.ctv",
+      "url": "https://stream1.freetv.fun/a7a46db9f6f5cfc10be4a09951476eac042d49777940b5f355a0a4769e11ff06.m3u8",
       "tvg_name": "Astro",
-      "tvg_id": "4057",
+      "tvg_id": "3942",
       "tvg_country": "Malaysia",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2025/09/09/large/20250909014020401578_16.jpeg",
-      "group_title": "Movies,[HD]showcase"
+      "tvg_language": "Bahasa",
+      "tvg_logo": "https://epg.pw/media/images/channel/2022/02/10/large/20220210222138178348_52.png",
+      "group_title": "Other,[HD]tvs"
     },
     {
       "url": "https://stream1.freetv.fun/b2f5e3437bddb0e2626e49de3603da664e092c44a41bdde22afa493c12593ce1.m3u8",
@@ -251,7 +251,7 @@
       "tvg_country": "Malaysia",
       "tvg_language": "Bahasa",
       "tvg_logo": "https://epg.pw/media/images/channel/2020/01/18/large/20200118000105006437_69.jpg",
-      "group_title": "News,[SD]bernama"
+      "group_title": "News,[BD]bernama"
     },
     {
       "url": "https://stream1.freetv.fun/9c9a1f971ab32328fe468bb96031f26e901da67367391de3f328060f9d3ce82a.m3u8",
@@ -269,7 +269,7 @@
       "tvg_country": "Malaysia",
       "tvg_language": "Bahasa",
       "tvg_logo": "https://epg.pw/media/images/channel/2020/01/17/large/20200117235234993475_81.PNG",
-      "group_title": "News,[BD]berita"
+      "group_title": "News,[HD]berita"
     },
     {
       "url": "https://stream1.freetv.fun/239865eb44f2ac54627025e83a852da8a3296a2aaa7820876e726e1e9ac6e901.m3u8",
@@ -279,15 +279,6 @@
       "tvg_language": "Bahasa",
       "tvg_logo": "https://epg.pw/media/images/channel/2022/05/09/large/20220509151246539204_10.jpg",
       "group_title": "News,[BD]bergamo"
-    },
-    {
-      "url": "https://stream1.freetv.fun/e75e98499d5f1faab2e4e18fc0c90c871810f283efbe163d2414bb84a3fa4b26.m3u8",
-      "tvg_name": "Celestial",
-      "tvg_id": "1298",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Cantonese",
-      "tvg_logo": "https://epg.pw/media/images/channel/2021/10/25/large/20211025105432982428_93.png",
-      "group_title": "Movies,[SD]celestial"
     },
     {
       "url": "https://stream1.freetv.fun/1f38e646fd087b59619ed211c347087b676822a998487b8ae20674b7afbdb045.ctv",
@@ -341,7 +332,7 @@
       "tvg_country": "Malaysia",
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2020/01/18/large/20200118220221148799_40.png",
-      "group_title": "Kids,[VGA]disney"
+      "group_title": "Kids,[HD]disney"
     },
     {
       "url": "https://stream1.freetv.fun/09328856a76f7eae3f12b410aed1ec27ba77ef867b2bbcb1b85c5c7d8d626abd.m3u8",
@@ -353,22 +344,13 @@
       "group_title": "Kids,[HD]ช่อง"
     },
     {
-      "url": "https://stream1.freetv.fun/d8b873938de66380b5d54c45a6a9b1a8dfebc0b4820f2158875a1ea7a9b012c7.m3u8",
-      "tvg_name": "Maah",
+      "url": "https://stream1.freetv.fun/bd17c561729128a2ce48663bd3e41b986972d001556265a02c477122094a6591.m3u8",
+      "tvg_name": "JIm",
       "tvg_id": "",
       "tvg_country": "Malaysia",
       "tvg_language": "Bahasa",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318085339314482_56.png",
-      "group_title": "News,[SD]yadah"
-    },
-    {
-      "url": "https://stream1.freetv.fun/843a12291902ec65b3a60a102cbaa819ee69a418131163ad427a37f1c7df7df2.m3u8",
-      "tvg_name": "Maah",
-      "tvg_id": "",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Bahasa",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/03/18/large/20220318085339314482_56.png",
-      "group_title": "News,[VGA]yadah"
+      "tvg_logo": "https://epg.pw/media/uploads/tmp_logo/2014/05/25/20140525134604652116_90.jpg",
+      "group_title": "Entertainment,[HD]jim"
     },
     {
       "url": "https://stream1.freetv.fun/fe481a43c364ffabee0462a9e0cdd8dfe72e8d4d30584a3e3dc0a779657c8938.m3u8",
@@ -422,16 +404,7 @@
       "tvg_country": "Malaysia",
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2022/04/29/large/20220429222547123972_13.PNG",
-      "group_title": "Movies,[HD]crimetime"
-    },
-    {
-      "url": "https://stream1.freetv.fun/b06a0204f994fcea52a069dcc23b2d740fd44d0acc26a860c386c61efdef65b9.m3u8",
-      "tvg_name": "Premier",
-      "tvg_id": "3625",
-      "tvg_country": "Malaysia",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png",
-      "group_title": "Sports,[HD]premier"
+      "group_title": "Movies,[HD]crimetime[geo-blocked]"
     },
     {
       "url": "https://stream1.freetv.fun/9b1a61ef181d4bb8fc02fd2f1e1c2e6f9aed742a4c99c5c713e272d44a6031ba.m3u8",
@@ -459,15 +432,6 @@
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png",
       "group_title": "Sports,[HD]ช่อง"
-    },
-    {
-      "url": "https://stream1.freetv.fun/e79e2c97874e69cfa33215a21bd4d5a67d4148b904ffbac921098520ae5a55e6.m3u8",
-      "tvg_name": "Premier",
-      "tvg_id": "3625",
-      "tvg_country": "Malaysia",
-      "tvg_language": "English",
-      "tvg_logo": "https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png",
-      "group_title": "Sports,[HD]premier"
     },
     {
       "url": "https://stream1.freetv.fun/28af9b44c9ca884506d855dc4b18b793ec914a59b8beec5f68a76b30afba9749.m3u8",
@@ -513,15 +477,6 @@
       "tvg_language": "English",
       "tvg_logo": "https://epg.pw/media/images/channel/2022/06/09/large/20220609233720370622_81.png",
       "group_title": "Sports,[HD]premier"
-    },
-    {
-      "url": "https://stream1.freetv.fun/d67b1b162356af1fe0893cb2f6d46af446e847ba0725f0f47da4c5b5cbf4ac21.ctv",
-      "tvg_name": "RTM",
-      "tvg_id": "",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Bahasa",
-      "tvg_logo": "https://epg.pw/media/uploads/tmp_logo/2018/10/24/20181024155943280116_76.png",
-      "group_title": "News,[BD]rte"
     },
     {
       "url": "https://stream1.freetv.fun/e62f7591f4ed5cfe7cd307b855aeeb9be88f05ae93357440cc54f3e217b02682.m3u8",
@@ -576,6 +531,15 @@
       "tvg_language": "Bahasa",
       "tvg_logo": "https://epg.pw/media/images/channel/2016/10/04/large/20161004184847688856_98.jpg",
       "group_title": "Generic,[BD]tvp1"
+    },
+    {
+      "url": "https://stream1.freetv.fun/3cb5fe09449fc260e1ee225d8d64a6070e26b4d9a2d1aeec2edc6a673e9a2edf.m3u8",
+      "tvg_name": "TV1",
+      "tvg_id": "3683",
+      "tvg_country": "Malaysia",
+      "tvg_language": "Bahasa",
+      "tvg_logo": "https://epg.pw/media/images/channel/2016/10/04/large/20161004184847688856_98.jpg",
+      "group_title": "Generic,[VGA]tv1"
     },
     {
       "url": "https://stream1.freetv.fun/df3dd9f815cab432e61699aa306c1001fea3f35bb52676f83e75a6d2cf670447.m3u8",
@@ -686,6 +650,15 @@
       "group_title": "Sports,[SD]wwe"
     },
     {
+      "url": "https://stream1.freetv.fun/18df41320f7cc0ff5cd2bc22751a7a07c4455847215725a467fae75fa885e42d.m3u8",
+      "tvg_name": "WWE",
+      "tvg_id": "",
+      "tvg_country": "Malaysia",
+      "tvg_language": "English",
+      "tvg_logo": "https://epg.pw/media/images/channel/2020/02/29/large/20200229173935030151_22.jpg",
+      "group_title": "Sports,[SD]wwe"
+    },
+    {
       "url": "https://stream1.freetv.fun/ed846d7f69eae7aa212a10304a3bef6245e8bbfe319d0393b5e12685b837d1f0.m3u8",
       "tvg_name": "WWE",
       "tvg_id": "",
@@ -722,15 +695,6 @@
       "group_title": "Sports,[HD]w"
     },
     {
-      "url": "https://stream1.freetv.fun/c99a8ab51c0538a983e055b929d5be8baaac4f3d178349a81299fbd742584914.ctv",
-      "tvg_name": "天映經典(MAS)",
-      "tvg_id": "",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Chinese",
-      "tvg_logo": "https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",
-      "group_title": "Movies,[SD]天映经典[geo-blocked]"
-    },
-    {
       "url": "https://stream1.freetv.fun/4fad3bfb96a651e17352754e147d85d129403a04c1879c35b9a9a0b09c663079.ctv",
       "tvg_name": "天映經典(MAS)",
       "tvg_id": "",
@@ -738,6 +702,15 @@
       "tvg_language": "Chinese",
       "tvg_logo": "https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",
       "group_title": "Movies,[SD]天映经典"
+    },
+    {
+      "url": "https://stream1.freetv.fun/762471f922bebd77888d7471741f91c8a6c8806a85bfd00da60ba07290c48525.m3u8",
+      "tvg_name": "天映經典(MAS)",
+      "tvg_id": "",
+      "tvg_country": "Malaysia",
+      "tvg_language": "Chinese",
+      "tvg_logo": "https://epg.pw/media/images/channel/2019/01/23/large/20190123002742257631_40.jpg",
+      "group_title": "Movies,[SD]天映經典"
     },
     {
       "url": "https://stream1.freetv.fun/543807bf61044897d834a8090d0736872c415b832c4bab02b361408456b24f2b.ctv",
@@ -758,22 +731,13 @@
       "group_title": "Movies,[HD]天映"
     },
     {
-      "url": "https://stream1.freetv.fun/8d62b0cbd1945733678a5b67328288514caad5e65c187f7ea5bee32362ce411f.m3u8",
+      "url": "https://stream1.freetv.fun/dc0638d1b892670af442e5e22e214e0f1fa62a2759a26ff73288cc1f0b595f02.ctv",
       "tvg_name": "天映頻道(MAS)",
       "tvg_id": "",
       "tvg_country": "Malaysia",
       "tvg_language": "Cantonese",
       "tvg_logo": "https://epg.pw/media/images/channel/2023/08/05/large/20230805003741056376_18.png",
       "group_title": "Movies,[HD]天映"
-    },
-    {
-      "url": "https://stream1.freetv.fun/695189b7fdcbf54467e26f325b621b0955144b99d3436dadea2bf35e6d818a6a.ctv",
-      "tvg_name": "愛奇藝",
-      "tvg_id": "3290",
-      "tvg_country": "Malaysia",
-      "tvg_language": "Chinese",
-      "tvg_logo": "https://epg.pw/media/images/channel/2024/01/03/large/20240103202710753007_26.jpg",
-      "group_title": "Movies,[HD]爱奇艺"
     },
     {
       "url": "https://stream1.freetv.fun/9dd2f9dda0751ea8672b139396efd5a5956ca04d5b648db3e9cd3f6361097fb6.ctv",

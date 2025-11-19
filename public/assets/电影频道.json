@@ -1,5 +1,5 @@
 {
-  "count": 50,
+  "count": 48,
   "list": [
     {
       "url": "http://113.195.172.192:808/hls/114/index.m3u8",
@@ -37,20 +37,6 @@
       "group_title": "电影频道,"
     },
     {
-      "url": "http://live4play.uk/livehttpplay?channel_id=20104",
-      "tvg_name": "东森电影",
-      "tvg_id": "东森电影",
-      "tvg_logo": "https://tb.zbds.top/logo/东森电影.png",
-      "group_title": "电影频道,"
-    },
-    {
-      "url": "http://live4play.uk/livehttpplay?channel_id=12037",
-      "tvg_name": "靖天电影",
-      "tvg_id": "靖天电影",
-      "tvg_logo": "https://tb.zbds.top/logo/靖天电影.png",
-      "group_title": "电影频道,"
-    },
-    {
       "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv058",
       "tvg_name": "靖天戏剧",
       "tvg_id": "靖天戏剧",
@@ -58,7 +44,7 @@
       "group_title": "电影频道,"
     },
     {
-      "url": "http://tw-ty-line-11-1-5.sudatech.store:20319/4gtv-4gtv055/index.m3u8?proxy=true",
+      "url": "http://breezy-audrie-zspace-7524863c.koyeb.app/vipsir?token=leifeng&id=4gtv-4gtv055",
       "tvg_name": "靖天映画",
       "tvg_id": "靖天映画",
       "tvg_logo": "https://tb.zbds.top/logo/靖天映画.png",
@@ -205,13 +191,6 @@
       "group_title": "电影频道,"
     },
     {
-      "url": "http://124.128.73.58:9901/tsfile/live/1005_1.m3u8",
-      "tvg_name": "济南影视",
-      "tvg_id": "济南影视",
-      "tvg_logo": "https://tb.zbds.top/logo/济南影视.png",
-      "group_title": "电影频道,"
-    },
-    {
       "url": "https://ali-m-l.cztv.com/channels/lantian/channel004/1080p.m3u8",
       "tvg_name": "浙江教科影视",
       "tvg_id": "浙江教科影视",
@@ -247,17 +226,17 @@
       "group_title": "电影频道,"
     },
     {
+      "url": "http://live.metshop.top/huya/11342424?cdn=alicdn",
+      "tvg_name": "电影刘德华",
+      "tvg_id": "1",
+      "tvg_logo": "https://tb.zbds.top/logo/电影刘德华.png",
+      "group_title": "电影频道,"
+    },
+    {
       "url": "http://live.metshop.top/huya/11352941?cdn=alicdn",
       "tvg_name": "电影功夫片",
       "tvg_id": "1",
       "tvg_logo": "https://tb.zbds.top/logo/电影功夫片.png",
-      "group_title": "电影频道,"
-    },
-    {
-      "url": "http://live.metshop.top/huya/11602077?cdn=alicdn",
-      "tvg_name": "电影动作电影",
-      "tvg_id": "1",
-      "tvg_logo": "https://tb.zbds.top/logo/电影动作电影.png",
       "group_title": "电影频道,"
     },
     {
@@ -282,6 +261,13 @@
       "group_title": "电影频道,"
     },
     {
+      "url": "http://live.metshop.top/huya/11352974?cdn=alicdn",
+      "tvg_name": "电影犯罪片",
+      "tvg_id": "1",
+      "tvg_logo": "https://tb.zbds.top/logo/电影犯罪片.png",
+      "group_title": "电影频道,"
+    },
+    {
       "url": "http://live.metshop.top/huya/21059599?cdn=alicdn",
       "tvg_name": "电影蜘蛛侠",
       "tvg_id": "1",
@@ -296,17 +282,17 @@
       "group_title": "电影频道,"
     },
     {
-      "url": "http://live.metshop.top/huya/21059587?cdn=alicdn",
-      "tvg_name": "电影谍战片",
-      "tvg_id": "1",
-      "tvg_logo": "https://tb.zbds.top/logo/电影谍战片.png",
-      "group_title": "电影频道,"
-    },
-    {
       "url": "http://live.metshop.top/huya/11601971?cdn=alicdn",
       "tvg_name": "电影贺岁",
       "tvg_id": "1",
       "tvg_logo": "https://tb.zbds.top/logo/电影贺岁.png",
+      "group_title": "电影频道,"
+    },
+    {
+      "url": "http://live.metshop.top/huya/11352884?cdn=alicdn",
+      "tvg_name": "电影高分动作",
+      "tvg_id": "1",
+      "tvg_logo": "https://tb.zbds.top/logo/电影高分动作.png",
       "group_title": "电影频道,"
     },
     {
