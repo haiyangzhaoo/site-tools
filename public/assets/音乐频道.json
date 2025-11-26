@@ -1,19 +1,4 @@
 {
-  "count": 2,
-  "list": [
-    {
-      "url": "http://play-radio-stream3.hndt.com/now/Or5au0KN/playlist.m3u8",
-      "tvg_name": "潮流音乐",
-      "tvg_id": "潮流音乐",
-      "tvg_logo": "https://tb.zbds.top/logo/潮流音乐.png",
-      "group_title": "音乐频道,"
-    },
-    {
-      "url": "http://satellitepull.cnr.cn/live/wx32nmgyygb/playlist.m3u8",
-      "tvg_name": "音乐现场",
-      "tvg_id": "音乐现场",
-      "tvg_logo": "https://tb.zbds.top/logo/音乐现场.png",
-      "group_title": "音乐频道,"
-    }
-  ]
+  "count": 0,
+  "list": []
 }
